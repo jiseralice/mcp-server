@@ -1,0 +1,384 @@
+{
+  "categories": [
+    {
+      "name": "Aggregators",
+      "services": [
+        {
+          "name": "julien040/anyquery",
+          "link": "https://github.com/julien040/anyquery",
+          "description": "Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible database. Local-first and private by design."
+        },
+        {
+          "name": "metatool-ai/metatool-app",
+          "link": "https://github.com/metatool-ai/metatool-app",
+          "description": "MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI."
+        },
+        {
+          "name": "mindsdb/mindsdb",
+          "link": "https://github.com/mindsdb/mindsdb",
+          "description": "Connect and unify data across various platforms and databases with [MindsDB as a single MCP server](https://docs.mindsdb.com/mcp/overview)."
+        },
+        {
+          "name": "glenngillen/mcpmcp-server",
+          "link": "https://github.com/glenngillen/mcpmcp-server",
+          "description": "A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow."
+        },
+        {
+          "name": "wegotdocs/open-mcp",
+          "link": "https://github.com/wegotdocs/open-mcp",
+          "description": "Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org"
+        },
+        {
+          "name": "PipedreamHQ/pipedream",
+          "link": "https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol",
+          "description": "Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app."
+        },
+        {
+          "name": "VeriTeknik/pluggedin-mcp-proxy",
+          "link": "https://github.com/VeriTeknik/pluggedin-mcp-proxy",
+          "description": "A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility features. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers."
+        },
+        {
+          "name": "tigranbs/mcgravity",
+          "link": "https://github.com/tigranbs/mcgravity",
+          "description": "A proxy tool for composing multiple MCP servers into one unified endpoint. Scale your AI tools by load balancing requests across multiple MCP servers, similar to how Nginx works for web servers."
+        },
+        {
+          "name": "WayStation-ai/mcp",
+          "link": "https://github.com/waystation-ai/mcp",
+          "description": "Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs."
+        },
+        {
+          "name": "sxhxliang/mcp-access-point",
+          "link": "https://github.com/sxhxliang/mcp-access-point",
+          "description": "Turn a web service into an MCP server in one click without making any code changes."
+        },
+        {
+          "name": "hamflx/imagen3-mcp",
+          "link": "https://github.com/hamflx/imagen3-mcp",
+          "description": "A powerful image generation tool using Google's Imagen 3.0 API through MCP. Generate high-quality images from text prompts with advanced photography, artistic, and photorealistic controls."
+        },
+        {
+          "name": "SureScaleAI/openai-gpt-image-mcp",
+          "link": "https://github.com/SureScaleAI/openai-gpt-image-mcp",
+          "description": "OpenAI GPT image generation/editing MCP server."
+        }
+      ]
+    },
+    {
+      "name": "Art & Culture",
+      "services": [
+        {
+          "name": "abhiemj/manim-mcp-server",
+          "link": "https://github.com/abhiemj/manim-mcp-server",
+          "description": "A local MCP server that generates animations using Manim."
+        },
+        {
+          "name": "burningion/video-editing-mcp",
+          "link": "https://github.com/burningion/video-editing-mcp",
+          "description": "Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection"
+        },
+        {
+          "name": "cswkim/discogs-mcp-server",
+          "link": "https://github.com/cswkim/discogs-mcp-server",
+          "description": "MCP server to interact with the Discogs API"
+        },
+        {
+          "name": "djalal/quran-mcp-server",
+          "link": "https://github.com/djalal/quran-mcp-server",
+          "description": "MCP server to interact with Quran.com corpus via the official REST API v4."
+        },
+        {
+          "name": "mikechao/metmuseum-mcp",
+          "link": "https://github.com/mikechao/metmuseum-mcp",
+          "description": "Metropolitan Museum of Art Collection API integration to search and display artworks in the collection."
+        },
+        {
+          "name": "r-huijts/rijksmuseum-mcp",
+          "link": "https://github.com/r-huijts/rijksmuseum-mcp",
+          "description": "Rijksmuseum API integration for artwork search, details, and collections"
+        },
+        {
+          "name": "r-huijts/oorlogsbronnen-mcp",
+          "link": "https://github.com/r-huijts/oorlogsbronnen-mcp",
+          "description": "Oorlogsbronnen (War Sources) API integration for accessing historical WWII records, photographs, and documents from the Netherlands (1940-1945)"
+        },
+        {
+          "name": "samuelgursky/davinci-resolve-mcp",
+          "link": "https://github.com/samuelgursky/davinci-resolve-mcp",
+          "description": "MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media management, and project control"
+        },
+        {
+          "name": "yuna0x0/anilist-mcp",
+          "link": "https://github.com/yuna0x0/anilist-mcp",
+          "description": "A MCP server integrating AniList API for anime and manga information"
+        },
+        {
+          "name": "diivi/aseprite-mcp",
+          "link": "https://github.com/diivi/aseprite-mcp",
+          "description": "MCP server using the Aseprite API to create pixel art"
+        },
+        {
+          "name": "omni-mcp/isaac-sim-mcp",
+          "link": "https://github.com/omni-mcp/isaac-sim-mcp",
+          "description": "A MCP Server and an extension enables natural language control of NVIDIA Isaac Sim, Lab, OpenUSD and etc."
+        },
+        {
+          "name": "8enSmith/mcp-open-library",
+          "link": "https://github.com/8enSmith/mcp-open-library",
+          "description": "A MCP server for the Open Library API that enables AI assistants to search for book information."
+        },
+        {
+          "name": "PatrickPalmer/MayaMCP",
+          "link": "https://github.com/PatrickPalmer/MayaMCP",
+          "description": "MCP server for Autodesk Maya"
+        },
+        {
+          "name": "cantian-ai/bazi-mcp",
+          "link": "https://github.com/cantian-ai/bazi-mcp",
+          "description": "Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analysis"
+        }
+      ]
+    },
+    {
+      "name": "Browser Automation",
+      "services": [
+        {
+          "name": "xspadex/bilibili-mcp",
+          "link": "https://github.com/xspadex/bilibili-mcp.git",
+          "description": "A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface."
+        },
+        {
+          "name": "34892002/bilibili-mcp-js",
+          "link": "https://github.com/34892002/bilibili-mcp-js",
+          "description": "A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts."
+        },
+        {
+          "name": "aircodelabs/grasp",
+          "link": "https://github.com/aircodelabs/grasp",
+          "description": "Self-hosted browser using agent with built-in MCP and A2A support."
+        },
+        {
+          "name": "automatalabs/mcp-server-playwright",
+          "link": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
+          "description": "An MCP server for browser automation using Playwright"
+        },
+        {
+          "name": "blackwhite084/playwright-plus-python-mcp",
+          "link": "https://github.com/blackwhite084/playwright-plus-python-mcp",
+          "description": "An MCP python server using Playwright for browser automation,more suitable for llm"
+        },
+        {
+          "name": "browserbase/mcp-server-browserbase",
+          "link": "https://github.com/browserbase/mcp-server-browserbase",
+          "description": "Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)"
+        },
+        {
+          "name": "browsermcp/mcp",
+          "link": "https://github.com/browsermcp/mcp",
+          "description": "Automate your local Chrome browser"
+        },
+        {
+          "name": "co-browser/browser-use-mcp-server",
+          "link": "https://github.com/co-browser/browser-use-mcp-server",
+          "description": "browser-use packaged as an MCP server with SSE transport. includes a dockerfile to run chromium in docker + a vnc server."
+        },
+        {
+          "name": "executeautomation/playwright-mcp-server",
+          "link": "https://github.com/executeautomation/mcp-playwright",
+          "description": "An MCP server using Playwright for browser automation and webscrapping"
+        },
+        {
+          "name": "eyalzh/browser-control-mcp",
+          "link": "https://github.com/eyalzh/browser-control-mcp",
+          "description": "An MCP server paired with a browser extension that enables LLM clients to control the user's browser (Firefox)."
+        },
+        {
+          "name": "fradser/mcp-server-apple-reminders",
+          "link": "https://github.com/FradSer/mcp-server-apple-reminders",
+          "description": "An MCP server for interacting with Apple Reminders on macOS"
+        },
+        {
+          "name": "getrupt/ashra-mcp",
+          "link": "https://github.com/getrupt/ashra-mcp",
+          "description": "Extract structured data from any website. Just prompt and get JSON."
+        },
+        {
+          "name": "kimtaeyoon83/mcp-server-youtube-transcript",
+          "link": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
+          "description": "Fetch YouTube subtitles and transcripts for AI analysis"
+        },
+        {
+          "name": "kimtth/mcp-aoai-web-browsing",
+          "link": "https://github.com/kimtth/mcp-aoai-web-browsing",
+          "description": "A `minimal` server/client MCP implementation using Azure OpenAI and Playwright."
+        },
+        {
+          "name": "microsoft/playwright-mcp",
+          "link": "https://github.com/microsoft/playwright-mcp",
+          "description": "Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots"
+        },
+        {
+          "name": "modelcontextprotocol/server-puppeteer",
+          "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+          "description": "Browser automation for web scraping and interaction"
+        },
+        {
+          "name": "ndthanhdev/mcp-browser-kit",
+          "link": "https://github.com/ndthanhdev/mcp-browser-kit",
+          "description": "An MCP Server for interacting with manifest v2 compatible browsers."
+        },
+        {
+          "name": "pskill9/web-search",
+          "link": "https://github.com/pskill9/web-search",
+          "description": "An MCP server that enables free web searching using Google search results, with no API keys required."
+        },
+        {
+          "name": "recursechat/mcp-server-apple-shortcuts",
+          "link": "https://github.com/recursechat/mcp-server-apple-shortcuts",
+          "description": "An MCP Server Integration with Apple Shortcuts"
+        },
+        {
+          "name": "apify/actors-mcp-server",
+          "link": "https://github.com/apify/actors-mcp-server",
+          "description": "集成 Apify 平台 3000+ 云工具，用于网站、电商、社交媒体等数据提取。"
+        },
+        {
+          "name": "AgentQL",
+          "link": "https://github.com/tinyfish-io/agentql-mcp",
+          "description": "让 AI 代理从非结构化网页中获取结构化数据。"
+        }
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "services": [
+        {
+          "name": "E2B",
+          "link": "https://github.com/e2b-dev/mcp-server",
+          "description": "在 E2B 提供的安全云沙盒中运行代码。"
+        },
+        {
+          "name": "Plane MCP Server",
+          "link": "https://github.com/makeplane/plane-mcp-server",
+          "description": "A Model Context Protocol server that enables AI interfaces to seamlessly interact with Plane's project management system, allowing management of projects, issues, states, and other work items through a standardized API."
+        }
+      ]
+    },
+    {
+      "name": "App Automation",
+      "services": [
+        {
+          "name": "Mobile Next MCP Server",
+          "link": "https://github.com/mobile-next/mobile-mcp",
+          "description": "A Model Context Protocol server that enables scalable mobile automation through a platform-agnostic interface for iOS and Android devices, allowing agents and LLMs to interact with mobile applications using accessibility snapshots or coordinate-based interactions."
+        }
+      ]
+    },
+    {
+      "name": "Agent Orchestration",
+      "services": [
+        {
+          "name": "Mobile Next MCP Server",
+          "link": "https://github.com/mobile-next/mobile-mcp",
+          "description": "A Model Context Protocol server that enables scalable mobile automation through a platform-agnostic interface for iOS and Android devices, allowing agents and LLMs to interact with mobile applications using accessibility snapshots or coordinate-based interactions."
+        }
+      ]
+    },
+    {
+      "name": "Hybrid",
+      "services": [
+        {
+          "name": "Mobile Next MCP Server",
+          "link": "https://github.com/mobile-next/mobile-mcp",
+          "description": "A Model Context Protocol server that enables scalable mobile automation through a platform-agnostic interface for iOS and Android devices, allowing agents and LLMs to interact with mobile applications using accessibility snapshots or coordinate-based interactions."
+        }
+      ]
+    },
+    {
+      "name": "Project Management",
+      "services": [
+        {
+          "name": "Plane MCP Server",
+          "link": "https://github.com/makeplane/plane-mcp-server",
+          "description": "A Model Context Protocol server that enables AI interfaces to seamlessly interact with Plane's project management system, allowing management of projects, issues, states, and other work items through a standardized API."
+        }
+      ]
+    },
+    {
+      "name": "Remote",
+      "services": [
+        {
+          "name": "Plane MCP Server",
+          "link": "https://github.com/makeplane/plane-mcp-server",
+          "description": "A Model Context Protocol server that enables AI interfaces to seamlessly interact with Plane's project management system, allowing management of projects, issues, states, and other work items through a standardized API."
+        },
+        {
+          "name": "Vectorize",
+          "link": "https://github.com/vectorize-io/vectorize-mcp-server",
+          "description": "Vectorize MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking."
+        }
+      ]
+    },
+    {
+      "name": "RAG Systems",
+      "services": [
+        {
+          "name": "Vectorize",
+          "link": "https://github.com/vectorize-io/vectorize-mcp-server",
+          "description": "Vectorize MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking."
+        }
+      ]
+    },
+    {
+      "name": "Vector Databases",
+      "services": [
+        {
+          "name": "Vectorize",
+          "link": "https://github.com/vectorize-io/vectorize-mcp-server",
+          "description": "Vectorize MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking."
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "services": [
+        {
+          "name": "Vectorize",
+          "link": "https://github.com/vectorize-io/vectorize-mcp-server",
+          "description": "Vectorize MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking."
+        }
+      ]
+    },
+    {
+      "name": "MCP.so - Featured Servers",
+      "services": [
+        {
+          "name": "EdgeOne Pages MCP",
+          "link": "https://mcp.so/en/server/edgeone-pages-mcp/TencentEdgeOne",
+          "description": "An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL."
+        },
+        {
+          "name": "Zhipu Web Search",
+          "link": "https://mcp.so/en/server/zhipu-web-search/BigModel",
+          "description": "Zhipu Web Search MCP Server is a search engine specifically designed for large models. It integrates four search engines, allowing users to flexibly compare and switch between them. Building upon the web crawling and ranking capabilities of traditional search engines, it enhances intent recognition capabilities, returning results more suitable for large model processing (such as webpage titles, URLs, summaries, site names, site icons, etc.). This helps AI applications achieve \"dynamic knowledge acquisition\" and \"precise scenario adaptation\" capabilities."
+        }
+      ]
+    },
+    {
+      "name": "MCP.ing - Popular Servers",
+      "services": [
+        {
+          "name": "Filesystem",
+          "link": "mcp.ing - link not directly available",
+          "description": "Read, write, and manipulate local files through a controlled API. (Author: Model Context Protocol, Tags: #Code#API#System Interaction#Data Management#Official)"
+        },
+        {
+          "name": "Fetch",
+          "link": "mcp.ing - link not directly available",
+          "description": "Retrieve and convert web content to markdown for analysis. (Author: Model Context Protocol, Tags: #AI#Network#Code#API#Official)"
+        }
+      ]
+    }
+  ]
+}
