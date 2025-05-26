@@ -1,25 +1,3 @@
-# Awesome-MCP-ZH
-
-![](https://files.mdnice.com/user/43439/48b72eef-4bca-4d2b-86e3-0055a1036ea7.jpg)
-
-欢迎来到 `Awesome-MCP-ZH`，一个专为中文用户打造的 MCP（模型上下文协议）资源合集！
-这里有 MCP 的基础介绍、玩法、客户端、服务器和社区资源，帮你快速上手这个 AI 界的“万能插头”。
-
-[![简体中文](https://img.shields.io/badge/中文文档-点击查看-orange)](README.md) [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
-
-- 作者：云中江树 （微信公众号：云中江树）
-
-- 如果国内的朋友想免费快速的体验MCP能力，推荐 Cherry Studio（客户端） + 阿里 Qwen (大模型）的组合，优势是免费、操作简单、LLM 无需魔法、无需充值。
-
-- LLM 选型我的使用体感是： Claude3.7 > Qwen2.5-Max > DeepSeek
-
-分析文章：
-- [ 10分钟搞定高德地图MCP！我用AI解决了约会地点选择难题 ](https://mp.weixin.qq.com/s/SUifLfJIBX_JNIZesTm8CA)
-- [ 因为Manus爆火的 Claude MCP，90%人的认知可能都是错的](https://mp.weixin.qq.com/s/mT43PSiyO9ZsXKCbiVsWzQ)
-- [ 刚官宣支持MCP，就发布自家Agent协议（A2A），扒一扒Google暗藏的小心思](https://mp.weixin.qq.com/s/Zoq2bgPfJIERAzPiN1l0QA)
-- [阿里云拥抱 MCP 这步棋，太多人都没有真正看懂](https://mp.weixin.qq.com/s/GrEWFqpmvp1LfURAT1XzZw)
-- [ 详解 MCP 传输机制 ](https://mp.weixin.qq.com/s/gmgo_glOzbvdFwePP1yQ9g)
----
 
 ## MCP 是什么？
 
@@ -856,21 +834,4 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 - 提供运行只读 SQL 查询的工具
 - 包含用于常见数据分析任务的提示（Prompts）
 ```
-
-#### 2. 更多MCP编程资源
-
-- [Model Context Protocol(MCP) 编程极速入门](http://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/Awesome-MCP-ZH&type=Date)](https://www.star-history.com/#yzfly/Awesome-MCP-ZH&Date)
-
----
-
-## 贡献指南
-
-想加点料？欢迎贡献！
-- Fork 项目，改完提 PR。
 
