@@ -116,13 +116,13 @@ This document lists a curated selection of Model Context Protocol (MCP) services
 
 ## 🤝 Contributing
 
-This list is actively maintained. If you know of an MCP service that isn't listed here, or if you have corrections, please feel free to open an issue or submit a pull request to the [mcp-services repository](https://github.com/your-username/mcp-services) (replace `your-username/mcp-services` with the actual repository link if you host this list).
+This list is actively maintained. If you know of an MCP service that isn't listed here, or if you have corrections, please feel free to open an issue or submit a pull request to the [awesome-mcp-services repository](https://github.com/your-username/awesome-mcp-services) (replace `your-username/awesome-mcp-services` with the actual repository link if you host this list).
 
 When contributing, please try to include:
 *   The name of the service.
 *   A direct link to its source code or official page.
 *   A brief description (e.g., "Official", "Community-driven", specific features).
-*   The source repository or project where you found the MCP server (e.g., `labs/mcp`, `punkpeye/mcp-servers`).
+*   The source repository or project where you found the MCP server (e.g., `awslabs/mcp`, `punkpeye/awesome-mcp-servers`).
 *   Relevant emojis for quick visual identification (optional, but helpful).
 
 Let's make this the most comprehensive list of MCP services available!
