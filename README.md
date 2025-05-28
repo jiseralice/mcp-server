@@ -903,8 +903,4 @@ SOFTWARE.
 
 </div>
 
----
 
-<div align="center">
-<sub>This documentation is maintained by the community. Found an error or want to add something? <a href="https://github.com/modelcontextprotocol/servers/issues">Open an issue</a> or <a href="https://github.com/modelcontextprotocol/servers/pulls">submit a PR</a>!</sub>
-</div> ![image](https://github.com/user-attachments/assets/133dfde3-9841-4811-b093-85450c597153)
