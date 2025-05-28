@@ -1,22 +1,8 @@
 # mcp-server
 
-# 🌟 Model Context Protocol (MCP) - Complete Information Guide
+# 🌟 Model Context Protocol (MCP) 
 
-<div align="center">
 
-![MCP Logo](https://modelcontextprotocol.io/favicon.svg)
-
-**An open protocol that enables seamless integration between LLM applications and external data sources and tools**
-
-[![GitHub Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=for-the-badge&logo=github&color=gold)](https://github.com/modelcontextprotocol/servers)
-[![Protocol Version](https://img.shields.io/badge/Protocol-2025--03--26-blue?style=for-the-badge)](https://spec.modelcontextprotocol.io/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/modelcontextprotocol/servers/blob/main/LICENSE)
-
-[📖 Documentation](https://modelcontextprotocol.io) • [🔧 Specification](https://spec.modelcontextprotocol.io/) • [💬 Discussions](https://github.com/modelcontextprotocol/servers/discussions) • [🌐 Website](https://modelcontextprotocol.io)
-
-</div>
-
----
 
 ## 📋 Table of Contents
 
