@@ -1,0 +1,1229 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]yzfly / [61]Awesome-MCP-ZH Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 129
+     * [64]Star 2.3k
+
+   MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+License
+
+   [65]MIT license
+   [66]2.3k stars [67]129 forks [68]Branches [69]Tags [70]Activity
+   [71]Star
+   [72]Notifications You must be signed in to change notification settings
+
+     * [73]Code
+     * [74]Issues 0
+     * [75]Pull requests 0
+     * [76]Actions
+     * [77]Projects 0
+     * [78]Security
+
+Uh oh!
+       There was an error while loading. [79]Please reload this page.
+     * [80]Insights
+
+   (BUTTON) Additional navigation options
+     * [81]Code
+     * [82]Issues
+     * [83]Pull requests
+     * [84]Actions
+     * [85]Projects
+     * [86]Security
+     * [87]Insights
+
+yzfly/Awesome-MCP-ZH
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [88]Branches[89]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+         Name       Name
+   Last commit message
+   Last commit date
+
+Latest commit
+
+
+History
+
+   [90]33 Commits
+   [91].gitignore
+   [92].gitignore
+
+
+   [93]LICENSE
+   [94]LICENSE
+
+
+   [95]README.md
+   [96]README.md
+
+
+   [97]image.png
+   [98]image.png
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [99]README
+     * [100]MIT license
+
+   (BUTTON)
+
+Awesome-MCP-ZH
+
+   欢迎来到 Awesome-MCP-ZH，一个专为中文用户打造的 MCP（模型上下文协议）资源合集！ 这里有 MCP
+   的基础介绍、玩法、客户端、服务器和社区资源，帮你快速上手这个 AI 界的“万能插头”。
+
+   [101]Join Our Discord Community [102]简体中文
+     * 作者：云中江树 （微信公众号：云中江树）
+     * 如果国内的朋友想免费快速的体验MCP能力，推荐 Cherry Studio（客户端） + 阿里 Qwen
+       (大模型）的组合，优势是免费、操作简单、LLM无需魔法、无需充值。
+     * LLM 选型我的使用体感是： Claude3.7 > Qwen2.5-Max > DeepSeek
+
+   分析文章：
+     * [103]10分钟搞定高德地图MCP！我用AI解决了约会地点选择难题
+     * [104]因为Manus爆火的 Claude MCP，90%人的认知可能都是错的
+     * [105]刚官宣支持MCP，就发布自家Agent协议（A2A），扒一扒Google暗藏的小心思
+     * [106]阿里云拥抱 MCP 这步棋，太多人都没有真正看懂
+     * [107]详解 MCP 传输机制
+     __________________________________________________________________
+
+MCP 是什么？
+
+   MCP 全称 模型上下文协议（Model Context Protocol），由 Anthropic 在 2024 年 11
+   月推出，是个开源通信标准。简单说，它给 AI 装了个“超级网线”，让 AI 能跟外部工具、数据、系统无缝对接。
+     * 比喻：AI 是个聪明但宅家的书呆子，MCP 就是它的“外卖员”，能帮它拿数据、干活儿。
+     * 目标：让 AI 不只聊天，还能真动手，比如查数据库、发邮件、写代码。
+
+   [108]MCP 架构图
+
+   想深入了解？看 [109]官方介绍。
+     __________________________________________________________________
+
+MCP 能干什么？
+
+   MCP 能让 AI 从“嘴炮王”变成“实干家”，以下是几个例子：
+    1. 连工具：用 Slack 发消息、用 GitHub 管代码、用 Blender 建 3D 模型。
+    2. 查数据：直接看你电脑文件、数据库记录，甚至网上实时信息。
+    3. 干复杂活儿：写网页时，AI 能查代码、生成图片、调试页面，一条龙搞定。
+    4. 人机协作：AI 干一半问你意见，你点头它再继续。
+
+   例子：在 Cursor 里装个 Slack MCP 服务器，AI 能一边写代码一边发消息通知团队，超省事！
+     __________________________________________________________________
+
+MCP 客户端
+
+   MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
+     * Claude Desktop
+          + 简介：Claude 桌面版，普通人也能用。
+          + 功能：官方客户端，连接各种MCP服务器，例如连 Blender MCP，用自然语言建 3D 模型。
+          + 链接：[110]Anthropic 官网
+          + 截图： [111]Claude Desktop
+          + Tips：不写代码也能玩，新手友好。
+     * Cherry Studio
+          + 简介：新兴客户端，支持可视化配置。
+          + 功能：点选即可配置MCP服务器，简单上手。
+          + 链接：[112]Cherry Studio
+          + 截图：
+            [113]Cherry Studio 配置 MCP
+          + Tips：开发中，关注社区动态。
+     * 5ire
+          + 简介：一款现代化的 AI 助手和 MCP 客户端，支持多种主流服务提供商。
+          + 功能：通过 MCP
+            协议连接工具与数据源，提供文件系统访问、数据库交互、远程数据获取等功能；支持本地知识库、使用分析、提示库、书签、快速搜索等特
+            性。
+          + 链接：[114]5ire 官网 | [115]GitHub 仓库
+          + 截图：
+            [116]5ire
+          + Tips：适合开发者与非开发者使用，支持多平台（Windows、macOS、Linux）。
+     * Cursor
+          + 简介：代码编辑器，装上 MCP 变“全能选手”。
+          + 功能：写代码、发 Slack、生成图片。
+          + 链接：[117]官网
+          + 截图： [118]Cursor
+          + Tips：程序员必备，试试连 GitHub MCP。
+     * DeepChat
+          + 简介：连接强大 AI 与个人世界的智能助手。
+          + 功能：支持多模型云服务（如 DeepSeek、OpenAI 等）和本地模型部署（如
+            Ollama），具备多通道聊天并发支持、完整的 Markdown 渲染、本地文件处理、MCP 支持等特性。
+          + 链接：[119]DeepChat 官网 | [120]GitHub 仓库
+          + 截图：
+            [121]DeepChat
+          + Tips：适合开发者与非开发者使用，支持多种平台（Windows、macOS、Linux），可通过 MCP
+            快速集成到现有工作流中。
+     * ChatWise
+          + 简介：功能强大且注重隐私保护。
+          + 功能：支持任意 LLM 模型（如 GPT-4、Claude、Gemini
+            等），具备多模态聊天（音频、PDF、图片、文本等）、网页搜索（Tavily API 或本地浏览器）、MCP 工具集成（如
+            Notion、Google Sheets 等）以及实时渲染 HTML/React/图表等功能。
+          + 链接：[122]ChatWise 官网 | [123]文档
+          + 截图：
+            [124]ChatWise
+          + Tips：数据完全本地存储，适合需要高效工具的用户；通过 MCP 扩展其功能！
+     * eechat
+          + 简介：简单易用的本地部署 LLM 工具，注重隐私、安全和性能。
+          + 功能：一键集成、管理、运行多种 MCP 工具，可视化配置 + 自动读取 Readme MCP 配置信息，内置 Node,
+            Python 运行环境，兼容 Claude, Cursor 配置，同时支持本地化部署模型。
+          + 链接：[125]eechat 官网 | [126]GitHub 仓库
+          + 截图：
+            [127]eechat
+          + Tips：低门槛适合小白。
+     * 其他MCP客户端资源
+          + [128]awesome-mcp-clients
+     __________________________________________________________________
+
+MCP 服务器精选列表
+
+   模型上下文协议 (MCP) 服务器是赋予 AI 模型与外部工具、数据和系统交互能力的“工具箱”。以下是按不同应用场景精选的 MCP
+   服务器列表，按场景和质量（官方/参考 > 常用/成熟 > 社区/特定）排序，方便中文用户查找和使用。
+
+   说明:
+     * 名称: 点击可跳转到对应的 GitHub 仓库。
+     * 中文介绍: 简述该服务器的主要功能和用途。
+     * 备注: 包含开发者信息（如官方、社区）、主要技术、适用平台或关键特性。
+     __________________________________________________________________
+
+🌐 浏览器自动化与网页交互
+
+   (让 AI 能够像人一样浏览网页、提取信息、填写表单等)
+   名称 | 中文介绍 | 备注
+---|---|---
+[129]microsoft/playwright-mcp | 微软官方出品，使用 Playwright 让 AI 精确控制网页，自动化抓取数据。 | 官方实现，浏览器自动化强推，适合需要精细网页交互的场景。
+[130]browserbase/mcp-server-browserbase | 云端浏览器自动化服务，能导航网页、提取数据、填表单等，无需本地安装。 | 官方实现 (Browserbase) 🎖️, TypeScript 开发 📇, 云端浏览器操作。
+[131]modelcontextprotocol/server-puppeteer | 官方参考实现，使用 Puppeteer 进行浏览器自动化和网页抓取。 | 官方参考, TypeScript 开发 📇, 本地运行 🏠, 网页抓取和交互基础工具。
+[132]apify/actors-mcp-server | 集成 Apify 平台 3000+ 云工具，用于网站、电商、社交媒体等数据提取。 | 官方实现 (Apify), TypeScript 开发 📇, 云端数据抓取工具库 ☁️。
+---TRUNCATED FOR BREVITY---
+[625]MCP.so 收录了近 8000 MCP Servers
+
+     * [626]awesome-mcp-servers
+     * [627]web目录。
+     * [628]MCP.ing 一个资源丰富的 MCP Server库。
+
+   [629]mcp ing
+
+MCP 资源
+
+   想玩转 MCP？这些资源帮你省时间：
+     * 官方文档
+          + [630]MCP 官网
+          + [631]Anthropic MCP 介绍
+     * 社区资源
+          + [632]GitHub MCP 仓库：官方代码和示例。
+          + [633]Reddit r/mcp：玩家交流，找灵感。
+          + [634]Discord：实时讨论，解决问题。
+     * 教程
+          + [635]MCP 快速入门
+          + [636]Claude Desktop 用 SQLite
+     * MCP分析资料
+          + [637]a16z 深度解读MCP
+          + [638]MCP 与 ANP 对比
+
+MCP Server 开发
+
+1. 使用 LLM 构建 MCP 服务器
+
+   我们可以用像 Claude 这样的大语言模型（LLM）来加速 MCP 开发！
+
+   如何使用 LLM 来构建自定义的模型上下文协议（MCP）服务器和客户端？以 Claude
+   为例，其他大模型（GPT、Gemini、Grok、Qwen、DeepSeek）都适用。
+
+准备文档资料
+
+   在开始之前，请收集必要的文档资料，以帮助 Claude 理解 MCP：
+    1. 访问 [639]https://modelcontextprotocol.io/llms-full.txt 并复制完整的文档文本。
+    2. 前往 [640]MCP TypeScript SDK 或 [641]Python SDK 的代码仓库。
+    3. 复制 README 文件和其他相关文档。
+    4. 将这些文档粘贴到你与 Claude 的对话中。
+
+描述你的服务器需求
+
+   提供文档后，清晰地向 Claude 描述你想要构建什么样的服务器。请具体说明：
+     * 你的服务器将开放哪些资源
+     * 它将提供哪些工具
+     * 它应该提供哪些提示（Prompts）
+     * 它需要与哪些外部系统交互
+
+   例如：
+构建一个 MCP 服务器，要求：
+- 连接到我公司的 PostgreSQL 数据库
+- 将表结构作为资源开放出来
+- 提供运行只读 SQL 查询的工具
+- 包含用于常见数据分析任务的提示（Prompts）
+
+2. 更多MCP编程资源
+
+     * [642]Model Context Protocol(MCP) 编程极速入门
+     __________________________________________________________________
+
+Star History
+
+   [643]Star History Chart
+     __________________________________________________________________
+
+贡献指南
+
+   想加点料？欢迎贡献！
+     * Fork 项目，改完提 PR。
+     * 有新服务器、教程？直接加进来。
+     __________________________________________________________________
+
+许可证
+
+   本项目基于 MIT 许可证，自由使用和修改，请保留版权声明。
+   Copyright (c) 2025 Awesome-MCP-ZH Contributors
+     __________________________________________________________________
+
+About
+
+   MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+Topics
+
+   [644]mcp [645]claude [646]deepseek [647]mcp-servers [648]mcp-server
+   [649]mcp-tools [650]mcp-servers-directory [651]mcp-host
+   [652]mcp-clients [653]claude-mcp [654]qwen-mcp [655]deepseek-mcp
+
+Resources
+
+   [656]Readme
+
+License
+
+   [657]MIT license
+
+Uh oh!
+
+   There was an error while loading. [658]Please reload this page.
+   [659]Activity
+
+Stars
+
+   [660]2.3k stars
+
+Watchers
+
+   [661]19 watching
+
+Forks
+
+   [662]129 forks
+   [663]Report repository
+
+[664]Releases
+
+   No releases published
+
+[665]Packages 0
+
+   No packages published
+
+Uh oh!
+
+   There was an error while loading. [666]Please reload this page.
+
+[667]Contributors 5
+
+     * [668]@yzfly
+     * [669]@Lucassssss
+     * [670]@SuperJolly
+     * [671]@ttommyth
+     * [672]@iiiusky
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [673]Terms
+     * [674]Privacy
+     * [675]Security
+     * [676]Status
+     * [677]Docs
+     * [678]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/yzfly/Awesome-MCP-ZH#start-of-content
+   3. https://github.com/login?return_to=https://github.com/yzfly/Awesome-MCP-ZH
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/yzfly/Awesome-MCP-ZH
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=yzfly/Awesome-MCP-ZH
+  57. https://github.com/yzfly/Awesome-MCP-ZH
+  58. https://github.com/yzfly/Awesome-MCP-ZH
+  59. https://github.com/yzfly/Awesome-MCP-ZH
+  60. https://github.com/yzfly
+  61. https://github.com/yzfly/Awesome-MCP-ZH
+  62. https://github.com/login?return_to=/yzfly/Awesome-MCP-ZH
+  63. https://github.com/login?return_to=/yzfly/Awesome-MCP-ZH
+  64. https://github.com/login?return_to=/yzfly/Awesome-MCP-ZH
+  65. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/LICENSE
+  66. https://github.com/yzfly/Awesome-MCP-ZH/stargazers
+  67. https://github.com/yzfly/Awesome-MCP-ZH/forks
+  68. https://github.com/yzfly/Awesome-MCP-ZH/branches
+  69. https://github.com/yzfly/Awesome-MCP-ZH/tags
+  70. https://github.com/yzfly/Awesome-MCP-ZH/activity
+  71. https://github.com/login?return_to=/yzfly/Awesome-MCP-ZH
+  72. https://github.com/login?return_to=/yzfly/Awesome-MCP-ZH
+  73. https://github.com/yzfly/Awesome-MCP-ZH
+  74. https://github.com/yzfly/Awesome-MCP-ZH/issues
+  75. https://github.com/yzfly/Awesome-MCP-ZH/pulls
+  76. https://github.com/yzfly/Awesome-MCP-ZH/actions
+  77. https://github.com/yzfly/Awesome-MCP-ZH/projects
+  78. https://github.com/yzfly/Awesome-MCP-ZH/security
+  79. https://github.com/yzfly/Awesome-MCP-ZH
+  80. https://github.com/yzfly/Awesome-MCP-ZH/pulse
+  81. https://github.com/yzfly/Awesome-MCP-ZH
+  82. https://github.com/yzfly/Awesome-MCP-ZH/issues
+  83. https://github.com/yzfly/Awesome-MCP-ZH/pulls
+  84. https://github.com/yzfly/Awesome-MCP-ZH/actions
+  85. https://github.com/yzfly/Awesome-MCP-ZH/projects
+  86. https://github.com/yzfly/Awesome-MCP-ZH/security
+  87. https://github.com/yzfly/Awesome-MCP-ZH/pulse
+  88. https://github.com/yzfly/Awesome-MCP-ZH/branches
+  89. https://github.com/yzfly/Awesome-MCP-ZH/tags
+  90. https://github.com/yzfly/Awesome-MCP-ZH/commits/main/
+  91. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/.gitignore
+  92. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/.gitignore
+  93. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/LICENSE
+  94. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/LICENSE
+  95. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/README.md
+  96. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/README.md
+  97. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/image.png
+  98. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/image.png
+  99. https://github.com/yzfly/Awesome-MCP-ZH
+ 100. https://github.com/yzfly/Awesome-MCP-ZH
+ 101. https://discord.gg/EXT6TpW3
+ 102. https://github.com/yzfly/Awesome-MCP-ZH/blob/main/README.md
+ 103. https://mp.weixin.qq.com/s/SUifLfJIBX_JNIZesTm8CA
+ 104. https://mp.weixin.qq.com/s/mT43PSiyO9ZsXKCbiVsWzQ
+ 105. https://mp.weixin.qq.com/s/Zoq2bgPfJIERAzPiN1l0QA
+ 106. https://mp.weixin.qq.com/s/GrEWFqpmvp1LfURAT1XzZw
+ 107. https://mp.weixin.qq.com/s/gmgo_glOzbvdFwePP1yQ9g
+ 108. https://camo.githubusercontent.com/728c2ca4337d382bfd4df72eb2dea84d3b77e6c90ad2cde0ce563ab2d33b2beb/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f65343364383565332d353363342d343430642d616438382d6264353231383032386232302e706e67
+ 109. https://www.anthropic.com/news/model-context-protocol
+ 110. https://docs.anthropic.com/
+ 111. https://camo.githubusercontent.com/b33dc60d5984478ead6ff520e48dbe0e838536ed27967b8a5ca9ec56d5eec7e7/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f38653530306630652d653463332d343533652d393433392d6464633637333561366362632e706e67
+ 112. https://github.com/CherryHQ/cherry-studio
+ 113. https://camo.githubusercontent.com/96a4a1e32f91fee6a820dc7eca9ee61af8c480d264477413764b0e16369f31c0/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f64336137316463642d356163362d343534382d383230302d3330613739336434363235352e706e67
+ 114. https://5ire.app/
+ 115. https://github.com/nanbingxyz/5ire
+ 116. https://camo.githubusercontent.com/d77624210a561ef9553d0d765a1c299307677b9aaed248a323c3432f15a1a4e3/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f30633163343761642d363839642d343330322d383234652d3964643565323730366532632e706e67
+ 117. https://cursor.sh/
+ 118. https://camo.githubusercontent.com/39e82f3704a80453ed7babedfe821072c239c4ace4941bd8aa7b42820afc6980/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f33393731646233652d326130642d343132382d623665352d6263633438373033346434372e706e67
+ 119. https://deepchat.thinkinai.xyz/
+ 120. https://github.com/ThinkInAIXYZ/deepchat
+ 121. https://camo.githubusercontent.com/ce83596840790c296c467c07724fdeeb17e87f3cdd5d8e5cfef5b51016296c7f/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f38303266633733642d366664362d343663612d396537632d3961666633383731356138382e706e67
+ 122. https://chatwise.app/
+ 123. https://docs.chatwise.app/
+ 124. https://camo.githubusercontent.com/6a72e1ab722742aa89cb89103663e2f898915c31e861c85c0d86506c874318de/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f33303665353335612d376237622d343363352d623662612d3032633833643136373438352e6a7067
+ 125. https://ee.chat/
+ 126. https://github.com/Lucassssss/eechat
+ 127. https://camo.githubusercontent.com/3823ff0d3258e9475f083786915c30c768d971152a3b3478c2c1fb46ab0213b8/68747470733a2f2f7777772e65652e636861742f696d672f6d63705f636861742e706e67
+ 128. https://github.com/punkpeye/awesome-mcp-clients
+ 129. https://github.com/microsoft/playwright-mcp
+ 130. https://github.com/browserbase/mcp-server-browserbase
+ 131. https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
+ 132. https://github.com/apify/actors-mcp-server
+ 133. https://github.com/tinyfish-io/agentql-mcp
+ 134. https://github.com/mendableai/firecrawl-mcp-server
+ 135. https://github.com/oxylabs/oxylabs-mcp
+ 136. https://github.com/hyperbrowserai/mcp
+ 137. https://github.com/screenshotone/mcp/
+ 138. https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
+ 139. https://github.com/Automata-Labs-team/MCP-Server-Playwright
+ 140. https://github.com/blackwhite084/playwright-plus-python-mcp
+ 141. https://github.com/browsermcp/mcp
+ 142. https://github.com/co-browser/browser-use-mcp-server
+ 143. https://github.com/executeautomation/mcp-playwright
+ 144. https://github.com/eyalzh/browser-control-mcp
+ 145. https://github.com/getrupt/ashra-mcp
+ 146. https://github.com/kimtth/mcp-aoai-web-browsing
+ 147. https://github.com/ndthanhdev/mcp-browser-kit
+ 148. https://github.com/apify/mcp-server-rag-web-browser
+ 149. https://github.com/cyberchitta/scrapling-fetch-mcp
+ 150. https://github.com/jae-jae/fetcher-mcp
+ 151. https://github.com/ryoppippi/sitemcp
+ 152. https://github.com/34892002/bilibili-mcp-js
+ 153. https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
+ 154. https://github.com/e2b-dev/mcp-server
+ 155. https://github.com/JetBrains/mcpProxy
+ 156. https://github.com/JetBrains/mcp-jetbrains
+ 157. https://github.com/yepcode/mcp-server-js
+ 158. https://github.com/yzfly/mcp-python-interpreter
+ 159. https://github.com/admica/FileScopeMCP
+ 160. https://github.com/mem0ai/mem0-mcp
+ 161. https://github.com/bazinga012/mcp_code_executor
+ 162. https://github.com/Automata-Labs-team/code-sandbox-mcp
+ 163. https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server
+ 164. https://github.com/riza-io/riza-mcp
+ 165. https://github.com/semgrep/mcp
+ 166. https://github.com/zenml-io/mcp-zenml
+ 167. https://github.com/vivekVells/mcp-pandoc
+ 168. https://github.com/oraios/serena
+ 169. https://github.com/ezyang/codemcp
+ 170. https://github.com/wonderwhy-er/DesktopCommanderMCP
+ 171. https://github.com/maxim-saplin/mcp_safe_local_python_executor
+ 172. https://github.com/tumf/mcp-text-editor
+ 173. https://github.com/biegehydra/BifrostMCP
+ 174. https://github.com/xzq-xu/jvm-mcp-server
+ 175. https://github.com/yWorks/mcp-typescribe
+ 176. https://github.com/zcaceres/fetch-mcp
+ 177. https://github.com/idosal/git-mcp
+ 178. https://gitmcp.io/
+ 179. https://github.com/tgeselle/bugsnag-mcp
+ 180. https://github.com/JordanDalton/RestCsvMcpServer
+ 181. https://github.com/jjsantos01/jupyter-notebook-mcp
+ 182. https://github.com/ferrislucas/iterm-mcp
+ 183. https://github.com/SimonB97/win-cli-mcp-server
+ 184. https://github.com/g0t4/mcp-server-commands
+ 185. https://github.com/MladenSU/cli-mcp-server
+ 186. https://github.com/OthmaneBlial/term_mcp_deepseek
+ 187. https://github.com/tumf/mcp-shell-server
+ 188. https://github.com/wonderwhy-er/DesktopCommanderMCP
+ 189. https://github.com/github/github-mcp-server
+ 190. https://github.com/oschina/mcp-gitee
+ 191. https://gitea.com/gitea/gitea-mcp
+ 192. https://github.com/modelcontextprotocol/servers/tree/main/src/github
+ 193. https://github.com/modelcontextprotocol/servers/tree/main/src/git
+ 194. https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab
+ 195. https://github.com/adhikasp/mcp-git-ingest
+ 196. https://github.com/ddukbg/github-enterprise-mcp
+ 197. https://github.com/kopfrechner/gitlab-mr-mcp
+ 198. https://github.com/ko1ynnky/github-actions-mcp-server
+ 199. https://github.com/Tiberriver256/mcp-server-azure-devops
+ 200. https://github.com/Aiven-Open/mcp-aiven
+ 201. https://github.com/ClickHouse/mcp-clickhouse
+ 202. https://github.com/chroma-core/chroma-mcp
+ 203. https://github.com/confluentinc/mcp-confluent
+ 204. https://github.com/fireproof-storage/mcp-database-server
+ 205. https://github.com/googleapis/genai-toolbox
+ 206. https://github.com/GreptimeTeam/greptimedb-mcp-server
+ 207. https://github.com/zilliztech/mcp-server-milvus
+ 208. https://github.com/motherduckdb/mcp-server-motherduck
+ 209. https://github.com/neo4j-contrib/mcp-neo4j/
+ 210. https://github.com/neondatabase/mcp-server-neon
+ 211. https://github.com/niledatabase/nile-mcp-server
+ 212. https://github.com/qdrant/mcp-server-qdrant/
+ 213. https://github.com/singlestore-labs/mcp-server-singlestore
+ 214. https://github.com/StarRocks/mcp-server-starrocks
+ 215. https://github.com/supabase-community/supabase-mcp
+ 216. https://github.com/tinybirdco/mcp-tinybird
+ 217. https://github.com/weaviate/mcp-server-weaviate
+ 218. https://github.com/modelcontextprotocol/servers/tree/main/src/postgres
+ 219. https://github.com/modelcontextprotocol/servers/tree/main/src/redis
+ 220. https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite
+ 221. https://github.com/bytebase/dbhub/
+ 222. https://github.com/alexander-zuev/supabase-mcp-server
+ 223. https://github.com/aliyun/alibabacloud-tablestore-mcp-server
+ 224. https://github.com/benborla/mcp-server-mysql
+ 225. https://github.com/c4pt0r/mcp-server-tidb
+ 226. https://github.com/Canner/wren-engine
+ 227. https://github.com/centralmind/gateway
+ 228. https://github.com/cr7258/elasticsearch-mcp-server
+ 229. https://github.com/Dataring-engineering/mcp-server-trino
+ 230. https://github.com/designcomputer/mysql_mcp_server
+ 231. https://github.com/domdomegg/airtable-mcp-server
+ 232. https://github.com/edwinbernadus/nocodb-mcp-server
+ 233. https://github.com/ergut/mcp-bigquery-server
+ 234. https://github.com/f4ww4z/mcp-mysql-server
+ 235. https://github.com/FreePeak/db-mcp-server
+ 236. https://github.com/furey/mongodb-lens
+ 237. https://github.com/gannonh/firebase-mcp
+ 238. https://stack.convex.dev/convex-mcp-server
+ 239. https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts
+ 240. https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
+ 241. https://github.com/idoru/influxdb-mcp-server
+ 242. https://github.com/isaacwasserman/mcp-snowflake-server
+ 243. https://github.com/joshuarileydev/supabase
+ 244. https://github.com/jovezhong/mcp-timeplus
+ 245. https://github.com/KashiwaByte/vikingdb-mcp-server
+ 246. https://github.com/kiliczsh/mcp-mongo-server
+ 247. https://github.com/ktanaka101/mcp-server-duckdb
+ 248. https://github.com/LucasHild/mcp-server-bigquery
+ 249. https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc
+ 250. https://github.com/memgraph/mcp-memgraph
+ 251. https://github.com/OpenLinkSoftware/mcp-odbc-server
+ 252. https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server
+ 253. https://github.com/pab1it0/adx-mcp-server
+ 254. https://github.com/pab1it0/prometheus-mcp-server
+ 255. https://github.com/QuantGeekDev/mongo-mcp
+ 256. https://github.com/rashidazarang/airtable-mcp
+ 257. https://github.com/runekaagaard/mcp-alchemy
+ 258. https://github.com/sirmews/mcp-pinecone
+ 259. https://github.com/TheRaLabs/legion-mcp
+ 260. https://github.com/tradercjz/dolphindb-mcp-server
+ 261. https://github.com/XGenerationLab/xiyan_mcp_server
+ 262. https://github.com/xing5/mcp-google-sheets
+ 263. https://github.com/Zhwt/go-mcp-mysql
+ 264. https://github.com/cloudflare/mcp-server-cloudflare
+ 265. https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server
+ 266. https://github.com/aws-samples/sample-mcp-server-s3
+ 267. https://github.com/dinghuazhou/sample-mcp-server-tos
+ 268. https://github.com/alexbakers/mcp-ipfs
+ 269. https://github.com/alexei-led/aws-mcp-server
+ 270. https://github.com/alexei-led/k8s-mcp-server
+ 271. https://github.com/baryhuang/mcp-server-aws-resources-python
+ 272. https://github.com/bright8192/esxi-mcp-server
+ 273. https://github.com/Flux159/mcp-server-kubernetes
+ 274. https://github.com/hardik-id/azure-resource-graph-mcp-server
+ 275. https://github.com/jdubois/azure-cli-mcp
+ 276. https://github.com/johnneerdael/netskope-mcp
+ 277. https://github.com/strowk/mcp-k8s-go
+ 278. https://github.com/manusa/kubernetes-mcp-server
+ 279. https://github.com/nwiizo/tfmcp
+ 280. https://github.com/dogukanakkaya/pulumi-mcp-server
+ 281. https://github.com/rohitg00/kubectl-mcp-server
+ 282. https://github.com/silenceper/mcp-k8s
+ 283. https://github.com/thunderboltsid/mcp-nutanix
+ 284. https://github.com/weibaohui/k8m
+ 285. https://github.com/weibaohui/kom
+ 286. https://github.com/wenhuwang/mcp-k8s-eye
+ 287. https://github.com/erikhoward/adls-mcp-server
+ 288. https://github.com/exa-labs/exa-mcp-server
+ 289. https://github.com/kagisearch/kagimcp
+ 290. https://github.com/ppl-ai/modelcontextprotocol
+ 291. https://github.com/fatwang2/search1api-mcp
+ 292. https://github.com/tavily-ai/tavily-mcp
+ 293. https://github.com/tinyfish-io/agentql-mcp
+ 294. https://github.com/vectorize-io/vectorize-mcp-server
+ 295. https://github.com/zoomeye-ai/mcp_zoomeye
+ 296. https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
+ 297. https://github.com/0xDAEF0F/job-searchoor
+ 298. https://github.com/ac3xx/mcp-servers-kagi
+ 299. https://github.com/andybrandt/mcp-simple-arxiv
+ 300. https://github.com/andybrandt/mcp-simple-pubmed
+ 301. https://github.com/angheljf/nyt
+ 302. https://github.com/Bigsy/Clojars-MCP-Server
+ 303. https://github.com/blazickjp/arxiv-mcp-server
+ 304. https://github.com/ChanMeng666/server-google-news
+ 305. https://github.com/ConechoAI/openai-websearch-mcp
+ 306. https://github.com/devflowinc/trieve/tree/main/clients/mcp-server
+ 307. https://github.com/Dumpling-AI/mcp-server-dumplingai
+ 308. https://github.com/erithwik/mcp-hn
+ 309. https://github.com/genomoncology/biomcp
+ 310. https://github.com/adenot/mcp-google-search
+ 311. https://github.com/hellokaton/unsplash-mcp-server
+ 312. https://github.com/ihor-sokoliuk/mcp-searxng
+ 313. https://github.com/isnow890/naver-search-mcp
+ 314. https://github.com/leehanchung/bing-search-mcp
+ 315. https://github.com/kshern/mcp-tavily.git
+ 316. https://github.com/mzxrai/mcp-webresearch
+ 317. https://github.com/nickclyde/duckduckgo-mcp-server
+ 318. https://github.com/pskill9/web-search
+ 319. https://github.com/reading-plus-ai/mcp-server-deep-research
+ 320. https://github.com/SecretiveShell/MCP-searxng
+ 321. https://github.com/takashiishida/arxiv-latex-mcp
+ 322. https://github.com/the0807/GeekNews-MCP-Server
+ 323. https://github.com/Tomatio13/mcp-server-tavily
+ 324. https://github.com/zhsama/duckduckgo-mpc-server
+ 325. https://github.com/nkapila6/mcp-local-rag
+ 326. https://github.com/yzfly/douyin-mcp-server
+ 327. https://cloud.siliconflow.cn/i/TxUlXG3u
+ 328. https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp
+ 329. https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server
+ 330. https://github.com/gotohuman/gotohuman-mcp-server
+ 331. https://github.com/InditexTech/mcp-teams-server
+ 332. https://github.com/keturiosakys/bluesky-context-server
+ 333. https://github.com/modelcontextprotocol/servers/tree/main/src/slack
+ 334. https://github.com/softeria/ms-365-mcp-server
+ 335. https://github.com/AbdelStark/nostr-mcp
+ 336. https://github.com/adhikasp/mcp-twikit
+ 337. https://github.com/arpitbatra123/mcp-googletasks
+ 338. https://github.com/carterlasalle/mac_messages_mcp
+ 339. https://github.com/chaindead/telegram-mcp
+ 340. https://github.com/ZilongXue/claude-post
+ 341. https://github.com/v-3/discordmcp
+ 342. https://github.com/gotoolkits/mcp-wecombot-server.git
+ 343. https://github.com/GongRzhe/Gmail-MCP-Server
+ 344. https://github.com/baryhuang/mcp-headless-gmail
+ 345. https://github.com/v-3/google-calendar
+ 346. https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server
+ 347. https://github.com/jagan-shanmugam/mattermost-mcp-host
+ 348. https://github.com/lharries/whatsapp-mcp
+ 349. https://github.com/amornpan/py-mcp-line
+ 350. https://github.com/MarkusPfundstein/mcp-gsuite
+ 351. https://github.com/Omar-v2/mcp-ical
+ 352. https://github.com/sawa-zen/vrchat-mcp
+ 353. https://github.com/takumi0706/google-calendar-mcp
+ 354. https://github.com/teddyzxcv/ntfy-mcp
+ 355. https://github.com/chigwell/telegram-mcp
+ 356. https://github.com/UserAd/didlogic_mcp
+ 357. https://github.com/vidhupv/x-mcp
+ 358. https://github.com/zcaceres/gtasks-mcp
+ 359. https://github.com/ahnlabio/bicscan-mcp
+ 360. https://github.com/bankless/onchain-mcp
+ 361. https://github.com/base/base-mcp
+ 362. https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol
+ 363. https://github.com/Codex-Data/codex-mcp
+ 364. https://github.com/coinpaprika/dexpaprika-mcp
+ 365. https://github.com/financial-datasets/mcp-server
+ 366. https://github.com/heurist-network/heurist-mesh-mcp-server
+ 367. https://github.com/stripe/agent-toolkit
+ 368. https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp
+ 369. https://github.com/anjor/coinmarket-mcp-server
+ 370. https://github.com/berlinbra/alpha-vantage-mcp
+ 371. https://github.com/BitteProtocol/mcp
+ 372. https://github.com/TermiX-official/bsc-mcp
+ 373. https://github.com/mcpdotdirect/evm-mcp-server
+ 374. https://github.com/ferdousbhai/investor-agent
+ 375. https://github.com/ferdousbhai/tasty-agent
+ 376. https://github.com/getalby/nwc-mcp-server
+ 377. https://github.com/intentos-labs/beeper-mcp
+ 378. https://github.com/janswist/mcp-dexscreener
+ 379. https://github.com/kukapay/crypto-feargreed-mcp
+ 380. https://github.com/kukapay/crypto-indicators-mcp
+ 381. https://github.com/kukapay/crypto-portfolio-mcp
+ 382. https://github.com/kukapay/crypto-sentiment-mcp
+ 383. https://github.com/kukapay/cryptopanic-mcp-server
+ 384. https://github.com/kukapay/dune-analytics-mcp
+ 385. https://github.com/kukapay/freqtrade-mcp
+ 386. https://github.com/kukapay/jupiter-mcp
+ 387. https://github.com/kukapay/pancakeswap-poolspy-mcp
+ 388. https://github.com/kukapay/rug-check-mcp
+ 389. https://github.com/kukapay/thegraph-mcp
+ 390. https://github.com/kukapay/token-minter-mcp
+ 391. https://github.com/kukapay/token-revoke-mcp
+ 392. https://github.com/kukapay/uniswap-poolspy-mcp
+ 393. https://github.com/kukapay/uniswap-trader-mcp
+ 394. https://github.com/kukapay/whale-tracker-mcp
+ 395. https://github.com/laukikk/alpaca-mcp
+ 396. https://github.com/longportapp/openapi/tree/main/mcp
+ 397. https://github.com/mcpdotdirect/starknet-mcp-server
+ 398. https://github.com/minhyeoky/mcp-server-ledger
+ 399. https://github.com/narumiruna/yfinance-mcp
+ 400. https://github.com/openMF/mcp-mifosx
+ 401. https://github.com/pwh-pwh/coin-mcp-server
+ 402. https://github.com/QuantGeekDev/coincap-mcp
+ 403. https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git
+ 404. https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git
+ 405. https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server
+ 406. https://github.com/calvernaz/alphavantage
+ 407. https://github.com/box-community/mcp-server-box
+ 408. https://github.com/fireproof-storage/mcp-database-server
+ 409. https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
+ 410. https://github.com/Xuanwo/mcp-server-opendal
+ 411. https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+ 412. https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive
+ 413. https://github.com/calclavia/mcp-obsidian
+ 414. https://github.com/cyberchitta/llm-context.py
+ 415. https://github.com/exoticknight/mcp-file-merger
+ 416. https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem
+ 417. https://github.com/mark3labs/mcp-filesystem-server
+ 418. https://github.com/hmk/box-mcp-server
+ 419. https://github.com/mamertofabian/mcp-everything-search
+ 420. https://github.com/mamertofabian/mcp-everything-search
+ 421. https://github.com/axiomhq/mcp-server-axiom
+ 422. https://github.com/comet-ml/opik-mcp
+ 423. https://github.com/flowcore-io/mcp-flowcore-platform
+ 424. https://github.com/GreptimeTeam/greptimedb-mcp-server
+ 425. https://github.com/JordiNeil/mcp-databricks-server
+ 426. https://github.com/jwaxman19/qlik-mcp
+ 427. https://github.com/keboola/keboola-mcp-server
+ 428. https://github.com/yzfly/mcp-excel-server
+ 429. https://github.com/ChronulusAI/chronulus-mcp
+ 430. https://github.com/haris-musa/excel-mcp-server
+ 431. https://github.com/reading-plus-ai/mcp-server-data-exploration
+ 432. https://github.com/privetin/dataset-viewer
+ 433. https://github.com/isaacwasserman/mcp-vegalite-server
+ 434. https://github.com/GongRzhe/Quickchart-MCP-Server
+ 435. https://github.com/YuChenSSR/mindmap-mcp-server
+ 436. https://github.com/GongRzhe/JSON-MCP-Server
+ 437. https://github.com/zcaceres/markdownify-mcp
+ 438. https://github.com/its-dart/dart-mcp-server
+ 439. https://github.com/Fibery-inc/fibery-mcp-server
+ 440. https://github.com/integromat/make-mcp-server
+ 441. https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol
+ 442. https://github.com/rember/rember-mcp
+ 443. https://zapier.com/mcp
+ 444. https://github.com/domdomegg/airtable-mcp-server
+ 445. https://github.com/akseyh/bear-mcp-server
+ 446. https://github.com/awwaiid/mcp-server-taskwarrior
+ 447. https://github.com/Badhansen/notion-mcp
+ 448. https://github.com/bart6114/my-bear-mcp-server/
+ 449. https://github.com/danhilse/notion_mcp
+ 450. https://github.com/evalstate/mcp-miro
+ 451. https://github.com/FradSer/mcp-server-apple-reminders
+ 452. https://github.com/hiromitsusasaki/raindrop-io-mcp-server
+ 453. https://github.com/hmk/attio-mcp-server
+ 454. https://github.com/ivo-toby/contentful-mcp
+ 455. https://github.com/kelvin6365/plane-mcp-server
+ 456. https://github.com/k-jarzyna/mcp-miro
+ 457. https://github.com/kj455/mcp-kibela
+ 458. https://github.com/KS-GEN-AI/confluence-mcp-server
+ 459. https://github.com/KS-GEN-AI/jira-mcp-server
+ 460. https://github.com/lciesielski/mcp-salesforce-example
+ 461. https://github.com/jerhadf/linear-mcp-server
+ 462. https://github.com/MarkusPfundstein/mcp-obsidian
+ 463. https://github.com/v-3/notion-server
+ 464. https://github.com/recursechat/mcp-server-apple-shortcuts
+ 465. https://github.com/roychri/mcp-server-asana
+ 466. https://github.com/sirmews/apple-notes-mcp
+ 467. https://github.com/sooperset/mcp-atlassian
+ 468. https://github.com/suekou/mcp-notion-server
+ 469. https://github.com/tacticlaunch/mcp-linear
+ 470. https://github.com/abhiz123/todoist-mcp-server
+ 471. https://github.com/tevonsb/homeassistant-mcp
+ 472. https://github.com/allenporter/mcp-server-home-assistant
+ 473. https://github.com/yuna0x0/hackmd-mcp
+ 474. https://github.com/zxkane/mcp-server-amazon-bedrock
+ 475. https://github.com/apinetwork/piapi-mcp-server
+ 476. https://github.com/abhiemj/manim-mcp-server
+ 477. https://github.com/awkoy/replicate-flux-mcp
+ 478. https://github.com/burningion/video-editing-mcp
+ 479. https://github.com/diivi/aseprite-mcp
+ 480. https://github.com/modelcontextprotocol/servers/tree/main/src/everart
+ 481. https://github.com/mamertofabian/elevenlabs-mcp-server
+ 482. https://github.com/GongRzhe/Image-Generation-MCP-Server
+ 483. https://github.com/InhiblabCore/mcp-image-compression
+ 484. https://github.com/j3k0/speech.sh/blob/main/MCP_README.md
+ 485. https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
+ 486. https://github.com/deepfates/mcp-replicate
+ 487. https://github.com/samuelgursky/davinci-resolve-mcp
+ 488. https://github.com/ZubeidHendricks/youtube-mcp-server
+ 489. https://github.com/anaisbetts/mcp-youtube
+ 490. https://github.com/graphlit/graphlit-mcp-server
+ 491. https://github.com/inkeep/mcp-server-python
+ 492. https://github.com/needle-ai/needle-mcp
+ 493. https://github.com/pinecone-io/assistant-mcp
+ 494. https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+ 495. https://github.com/basicmachines-co/basic-memory
+ 496. https://github.com/CheMiguel23/MemoryMesh
+ 497. https://github.com/topoteretes/cognee/tree/main/cognee-mcp
+ 498. https://github.com/entanglr/zettelkasten-mcp
+ 499. https://github.com/hannesrudolph/mcp-ragdocs
+ 500. https://github.com/kaliaboi/mcp-zotero
+ 501. https://github.com/0xshellming/mcp-summarizer
+ 502. https://github.com/mem0ai/mem0-mcp
+ 503. https://github.com/dmayboroda/minima
+ 504. https://github.com/skydeckai/mcp-server-rememberizer
+ 505. https://github.com/topoteretes/cognee/tree/dev/cognee-mcp
+ 506. https://github.com/unibaseio/membase-mcp
+ 507. https://github.com/ahnlabio/bicscan-mcp
+ 508. https://github.com/semgrep/mcp
+ 509. https://github.com/13bm/GhidraMCP
+ 510. https://github.com/atomicchonk/roadrecon_mcp_server
+ 511. https://github.com/BurtTheCoder/mcp-dnstwist
+ 512. https://github.com/BurtTheCoder/mcp-maigret
+ 513. https://github.com/BurtTheCoder/mcp-shodan
+ 514. https://github.com/BurtTheCoder/mcp-virustotal
+ 515. https://github.com/fosdickio/binary_ninja_mcp
+ 516. https://github.com/fr0gger/MCP_Security
+ 517. https://github.com/Gaffx/volatility-mcp
+ 518. https://github.com/heurist-network/heurist-mesh-mcp-server
+ 519. https://github.com/mrexodia/ida-pro-mcp
+ 520. https://github.com/nickpending/mcp-recon
+ 521. https://github.com/Spathodea-Network/opencti-mcp
+ 522. https://github.com/qianniuspace/mcp-security-audit
+ 523. https://github.com/rad-security/mcp-server
+ 524. https://github.com/roadwy/cve-search_mcp
+ 525. https://github.com/sapientpants/deepsource-mcp-server
+ 526. https://github.com/sapientpants/sonarqube-mcp-server
+ 527. https://github.com/securityfortech/secops-mcp
+ 528. https://github.com/bharathvaj-ganesan/whois-mcp
+ 529. https://github.com/openbnb-org/mcp-server-airbnb
+ 530. https://github.com/briandconnelly/mcp-server-ipinfo
+ 531. https://github.com/jagan-shanmugam/open-streetmap-mcp
+ 532. https://github.com/kukapay/nearby-search-mcp
+ 533. https://github.com/KyrieTangSheng/mcp-server-nationalparks
+ 534. https://github.com/louiscklaw/hko-mcp
+ 535. https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps
+ 536. https://github.com/r-huijts/ns-mcp-server
+ 537. https://github.com/pab1it0/tripadvisor-mcp
+ 538. https://github.com/jjsantos01/qgis_mcp
+ 539. https://github.com/SaintDoresh/Weather-MCP-ClaudeDesktop.git
+ 540. https://github.com/SecretiveShell/MCP-timeserver
+ 541. https://github.com/webcoderz/MCP-Geo
+ 542. https://github.com/CoderGamester/mcp-unity
+ 543. https://github.com/Coding-Solo/godot-mcp
+ 544. https://github.com/kw510/strava-mcp
+ 545. https://github.com/mikechao/balldontlie-mcp
+ 546. https://github.com/pab1it0/chess-mcp
+ 547. https://github.com/r-huijts/firstcycling-mcp
+ 548. https://github.com/r-huijts/strava-mcp
+ 549. https://github.com/rishijatia/fantasy-pl-mcp/
+ 550. https://github.com/sawa-zen/vrchat-mcp
+ 551. https://github.com/djalal/quran-mcp-server
+ 552. https://github.com/r-huijts/rijksmuseum-mcp
+ 553. https://github.com/r-huijts/oorlogsbronnen-mcp
+ 554. https://github.com/yuna0x0/anilist-mcp
+ 555. https://github.com/agentrpc/agentrpc
+ 556. https://github.com/apimatic/apimatic-validator-mcp
+ 557. https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript
+ 558. https://github.com/langfuse/mcp-server-langfuse
+ 559. https://github.com/unifai-network/unifai-mcp-server
+ 560. https://github.com/VeyraX/veyrax-mcp
+ 561. https://github.com/modelcontextprotocol/servers/tree/main/src/everything
+ 562. https://github.com/githejie/mcp-server-calculator
+ 563. https://github.com/modelcontextprotocol/servers/tree/main/src/time
+ 564. https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+ 565. https://github.com/baryhuang/mcp-server-any-openapi
+ 566. https://github.com/hannesj/mcp-openapi-schema
+ 567. https://github.com/hannesj/mcp-graphql-schema
+ 568. https://github.com/julien040/anyquery
+ 569. https://github.com/metatool-ai/metatool-app
+ 570. https://github.com/wegotdocs/open-mcp
+ 571. https://open-mcp.org/
+ 572. https://github.com/VeriTeknik/pluggedin-mcp-proxy
+ 573. https://github.com/AbdelStark/bitcoin-mcp
+ 574. https://github.com/amidabuddha/unichat-mcp-server
+ 575. https://github.com/anaisbetts/mcp-installer
+ 576. https://github.com/andybrandt/mcp-simple-openai-assistant
+ 577. https://github.com/andybrandt/mcp-simple-timeserver
+ 578. https://github.com/automation-ai-labs/mcp-link
+ 579. https://github.com/baba786/phabricator-mcp-server
+ 580. https://github.com/billster45/mcp-chatgpt-responses
+ 581. https://github.com/blurrah/mcp-graphql
+ 582. https://github.com/chrishayuk/mcp-cli
+ 583. https://github.com/evalstate/mcp-hfspace
+ 584. https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol
+ 585. https://github.com/gotoolkits/mcp-difyworkflow-server
+ 586. https://github.com/jagan-shanmugam/climatiq-mcp-server
+ 587. https://github.com/JoshuaRileyDev/mac-apps-launcher
+ 588. https://github.com/kenliao94/mcp-server-rabbitmq
+ 589. https://github.com/kukapay/whattimeisit-mcp
+ 590. https://github.com/kukapay/whereami-mcp
+ 591. https://github.com/kukapay/whoami-mcp
+ 592. https://github.com/lamemind/mcp-server-multiverse
+ 593. https://github.com/lightconetech/mcp-gateway
+ 594. https://github.com/magarcia/mcp-server-giphy
+ 595. https://github.com/marcelmarais/spotify-mcp-server
+ 596. https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jfx
+ 597. https://github.com/mediar-ai/screenpipe
+ 598. https://github.com/mrexodia/user-feedback-mcp
+ 599. https://github.com/mrjoshuak/godoc-mcp
+ 600. https://github.com/mzxrai/mcp-openai
+ 601. https://github.com/NakaokaRei/swift-mcp-gui.git
+ 602. https://github.com/nguyenvanduocit/all-in-one-model-context-protocol
+ 603. https://github.com/NON906/omniparser-autogui-mcp
+ 604. https://github.com/open-strategy-partners/osp_marketing_tools
+ 605. https://github.com/paulotaylor/voyp-mcp
+ 606. https://github.com/pierrebrunelle/mcp-server-openai
+ 607. https://github.com/pskill9/hn-server
+ 608. https://github.com/pskill9/website-downloader
+ 609. https://github.com/PV-Bhat/vibe-check-mcp-server
+ 610. https://github.com/pwh-pwh/cal-mcp
+ 611. https://github.com/pyroprompts/any-chat-completions-mcp
+ 612. https://github.com/reeeeemo/ancestry-mcp
+ 613. https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md
+ 614. https://github.com/SecretiveShell/MCP-wolfram-alpha
+ 615. https://github.com/Seym0n/tiktok-mcp
+ 616. https://github.com/tomekkorbak/oura-mcp-server
+ 617. https://github.com/wanaku-ai/wanaku
+ 618. https://github.com/wong2/mcp-cli
+ 619. https://github.com/nick1udwig/ws-mcp
+ 620. https://github.com/nick1udwig/kibitz
+ 621. https://github.com/ZeparHyfar/mcp-datetime
+ 622. https://github.com/zueai/mcp-manager
+ 623. https://github.com/HenryHaoson/Yuque-MCP-Server
+ 624. https://github.com/ttommyth/interactive-mcp
+ 625. https://mcp.so/
+ 626. https://github.com/punkpeye/awesome-mcp-servers
+ 627. https://glama.ai/mcp/servers
+ 628. https://mcp.ing/
+ 629. https://camo.githubusercontent.com/f7960aa46b389d12ff956780b006696bf464d482a551272388cdae4aa56a0811/68747470733a2f2f796f756a622e636f6d2f696d616765732f323032352f30342f32352f6d63702d696e67623033373034633230363233306139372e706e67
+ 630. https://www.claudemcp.com/
+ 631. https://www.anthropic.com/news/model-context-protocol
+ 632. https://github.com/anthropic/model-context-protocol
+ 633. https://www.reddit.com/r/mcp/
+ 634. https://glama.ai/mcp/discord
+ 635. https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart
+ 636. https://youtu.be/wxCCzo9dGj0
+ 637. https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/
+ 638. https://github.com/agent-network-protocol/AgentNetworkProtocol/blob/main/blogs/cn/MCP与ANP对比：智能体需要什么样的通信协议.md
+ 639. https://modelcontextprotocol.io/llms-full.txt
+ 640. https://github.com/modelcontextprotocol/typescript-sdk
+ 641. https://github.com/modelcontextprotocol/python-sdk
+ 642. http://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide
+ 643. https://www.star-history.com/#yzfly/Awesome-MCP-ZH&Date
+ 644. https://github.com/topics/mcp
+ 645. https://github.com/topics/claude
+ 646. https://github.com/topics/deepseek
+ 647. https://github.com/topics/mcp-servers
+ 648. https://github.com/topics/mcp-server
+ 649. https://github.com/topics/mcp-tools
+ 650. https://github.com/topics/mcp-servers-directory
+ 651. https://github.com/topics/mcp-host
+ 652. https://github.com/topics/mcp-clients
+ 653. https://github.com/topics/claude-mcp
+ 654. https://github.com/topics/qwen-mcp
+ 655. https://github.com/topics/deepseek-mcp
+ 656. https://github.com/yzfly/Awesome-MCP-ZH#readme-ov-file
+ 657. https://github.com/yzfly/Awesome-MCP-ZH#MIT-1-ov-file
+ 658. https://github.com/yzfly/Awesome-MCP-ZH
+ 659. https://github.com/yzfly/Awesome-MCP-ZH/activity
+ 660. https://github.com/yzfly/Awesome-MCP-ZH/stargazers
+ 661. https://github.com/yzfly/Awesome-MCP-ZH/watchers
+ 662. https://github.com/yzfly/Awesome-MCP-ZH/forks
+ 663. https://github.com/contact/report-content?content_url=https://github.com/yzfly/Awesome-MCP-ZH&report=yzfly+(user)
+ 664. https://github.com/yzfly/Awesome-MCP-ZH/releases
+ 665. https://github.com/users/yzfly/packages?repo_name=Awesome-MCP-ZH
+ 666. https://github.com/yzfly/Awesome-MCP-ZH
+ 667. https://github.com/yzfly/Awesome-MCP-ZH/graphs/contributors
+ 668. https://github.com/yzfly
+ 669. https://github.com/Lucassssss
+ 670. https://github.com/SuperJolly
+ 671. https://github.com/ttommyth
+ 672. https://github.com/iiiusky
+ 673. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 674. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 675. https://github.com/security
+ 676. https://www.githubstatus.com/
+ 677. https://docs.github.com/
+ 678. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 680. https://github.com/
+ 681. https://github.com/yzfly/Awesome-MCP-ZH/branches
+ 682. https://github.com/yzfly/Awesome-MCP-ZH/tags
+ 683. https://github.com/yzfly/Awesome-MCP-ZH/commits/main/
+ 684. https://github.com/yzfly/Awesome-MCP-ZH#awesome-mcp-zh
+ 685. https://camo.githubusercontent.com/e61cebcb02112a1dc3d0942b60734d290b22cb3ef26f64fc3ddffb6751b46083/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f34386237326565662d346263612d346432622d38366532d3030353561313033366561372e6a7067
+ 686. https://github.com/yzfly/Awesome-MCP-ZH#mcp-%E6%98%AF%E4%BB%80%E4%B9%88
+ 687. https://github.com/yzfly/Awesome-MCP-ZH#mcp-%E8%83%BD%E5%B9%B2%E4%BB%80%E4%B9%88
+ 688. https://github.com/yzfly/Awesome-MCP-ZH#mcp-%E5%AE%A2%E6%88%B7%E7%AB%AF
+ 689. https://github.com/yzfly/Awesome-MCP-ZH#mcp-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B2%BE%E9%80%89%E5%88%97%E8%A1%A8
+ 690. https://github.com/yzfly/Awesome-MCP-ZH#-%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8E%E7%BD%91%E9%A1%B5%E4%BA%A4%E4%BA%92
+ 691. https://github.com/yzfly/Awesome-MCP-ZH#-%E5%BC%80%E5%8F%91%E4%B8%8E%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C
+ 692. https://github.com/yzfly/Awesome-MCP-ZH#%EF%B8%8F-%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%8E-shell-%E4%BA%A4%E4%BA%92
+ 693. https://github.com/yzfly/Awesome-MCP-ZH#-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-git--github--gitlab
+ 694. https://github.com/yzfly/Awesome-MCP-ZH#%EF%B8%8F-%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%A4%E4%BA%92
+ 695. https://github.com/yzfly/Awesome-MCP-ZH#%EF%B8%8F-%E4%BA%91%E5%B9%B3%E5%8F%B0%E4%B8%8E%E6%9C%8D%E5%8A%A1%E9%9B%86%E6%88%90-aws-cloudflare-azure-k8s-etc
+ 696. https://github.com/yzfly/Awesome-MCP-ZH#-%E6%90%9C%E7%B4%A2
+ 697. https://github.com/yzfly/Awesome-MCP-ZH#-%E9%80%9A%E8%AE%AF%E4%B8%8E%E5%8D%8F%E4%BD%9C-slack-email-calendar-social-etc
+ 698. https://github.com/yzfly/Awesome-MCP-ZH#-%E9%87%91%E8%9E%8D%E4%B8%8E%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81
+ 699. https://github.com/yzfly/Awesome-MCP-ZH#-%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%AD%98%E5%82%A8
+ 700. https://github.com/yzfly/Awesome-MCP-ZH#-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%A4%84%E7%90%86%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96
+ 701. https://github.com/yzfly/Awesome-MCP-ZH#%EF%B8%8F-%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E4%B8%8E%E9%9B%86%E6%88%90-office-project-management-notes-etc
+ 702. https://github.com/yzfly/Awesome-MCP-ZH#multimedia-%E5%A4%9A%E5%AA%92%E4%BD%93%E4%B8%8E%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C
+ 703. https://github.com/yzfly/Awesome-MCP-ZH#-%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BF%86%E4%B8%8E-rag
+ 704. https://github.com/yzfly/Awesome-MCP-ZH#-%E5%AE%89%E5%85%A8%E4%B8%8E%E5%88%86%E6%9E%90
+ 705. https://github.com/yzfly/Awesome-MCP-ZH#-%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%87%BA%E8%A1%8C
+ 706. https://github.com/yzfly/Awesome-MCP-ZH#-%E4%BD%93%E8%82%B2%E4%B8%8E%E6%B8%B8%E6%88%F
+ 707. https://github.com/yzfly/Awesome-MCP-ZH#%EF%B8%8F-%E8%89%BA%E6%9C%AF%E4%B8%8E%E6%96%87%E5%8C%96
+ 708. https://github.com/yzfly/Awesome-MCP-ZH#%EF%B8%8F-%E5%85%B6%E4%BB%96%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E4%B8%8E%E9%9B%86%E6%88%90
+ 709. https://github.com/yzfly/Awesome-MCP-ZH#%E6%9B%B4%E5%A4%9A-mcp-server-%E8%B5%84%E6%BA%90
+ 710. https://camo.githubusercontent.com/a5deb0d832de7ebe133bbacaad495987c4616726241de7c1de0ffcbe2e6af0a3/68747470733a2f2f66696c65732e6d646e6963652e636f6d2f757365722f34333433392f34663163366530642d663162332d343233632d623036392d6661326335303264383535372e706e67
+ 711. https://github.com/yzfly/Awesome-MCP-ZH#mcp-%E8%B5%84%E6%BA%90
+ 712. https://github.com/yzfly/Awesome-MCP-ZH#mcp-server-%E5%BC%80%E5%8F%91
+ 713. https://github.com/yzfly/Awesome-MCP-ZH#1-%E4%BD%BF%E7%94%A8-llm-%E6%9E%84%E5%BB%BA-mcp-%E6%9C%8D%E5%8A%A1%E5%99%A8
+ 714. https://github.com/yzfly/Awesome-MCP-ZH#%E5%87%86%E5%A4%87%E6%96%87%E6%A1%A3%E8%B5%84%E6%96%99
+ 715. https://github.com/yzfly/Awesome-MCP-ZH#%E6%8F%8F%E8%BF%B0%E4%BD%A0%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9C%80%E6%B1%82
+ 716. https://github.com/yzfly/Awesome-MCP-ZH#2-%E6%9B%B4%E5%A4%9Amcp%E7%BC%96%E7%A8%8B%E8%B5%84%E6%BA%90
+ 717. https://github.com/yzfly/Awesome-MCP-ZH#star-history
+ 718. https://github.com/yzfly/Awesome-MCP-ZH#%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97
+ 719. https://github.com/yzfly/Awesome-MCP-ZH#%E8%AE%B8%E5%8F%AF%E8%AF%81
+ 720. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

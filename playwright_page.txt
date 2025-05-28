@@ -1,0 +1,548 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]microsoft / [61]playwright-mcp Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 682
+     * [64]Star 10.7k
+
+   Playwright MCP server
+   [65]www.npmjs.com/package/@playwright/mcp
+
+License
+
+   [66]Apache-2.0 license
+   [67]10.7k stars [68]682 forks [69]Branches [70]Tags [71]Activity
+   [72]Star
+   [73]Notifications You must be signed in to change notification settings
+
+     * [74]Code
+     * [75]Issues 26
+     * [76]Pull requests 3
+     * [77]Actions
+     * [78]Security
+
+Uh oh!
+       There was an error while loading. [79]Please reload this page.
+     * [80]Insights
+
+   (BUTTON) Additional navigation options
+     * [81]Code
+     * [82]Issues
+     * [83]Pull requests
+     * [84]Actions
+     * [85]Security
+     * [86]Insights
+
+microsoft/playwright-mcp
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [87]Branches[88]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+             Name           Name
+   Last commit message
+       Last commit date
+
+Latest commit
+
+
+History
+
+   [89]191 Commits
+   [90].github/workflows
+   [91].github/workflows
+
+
+   [92]examples
+   [93]examples
+
+
+   [94]src
+   [95]src
+
+
+   [96]tests
+   [97]tests
+
+
+   [98]utils
+   [99]utils
+
+
+   [100].gitignore
+   [101].gitignore
+
+
+   [102].npmignore
+   [103].npmignore
+
+
+   [104]Dockerfile
+   [105]Dockerfile
+
+
+   [106]LICENSE
+   [107]LICENSE
+
+
+   [108]README.md
+   [109]README.md
+
+
+   [110]SECURITY.md
+   [111]SECURITY.md
+
+
+   [112]cli.js
+   [113]cli.js
+
+
+   [114]config.d.ts
+   [115]config.d.ts
+
+
+   [116]eslint.config.mjs
+   [117]eslint.config.mjs
+
+
+   [118]index.d.ts
+   [119]index.d.ts
+
+
+   [120]index.js
+   [121]index.js
+
+
+   [122]package-lock.json
+   [123]package-lock.json
+
+
+   [124]package.json
+   [125]package.json
+
+
+   [126]playwright.config.ts
+   [127]playwright.config.ts
+
+
+   [128]tsconfig.all.json
+   [129]tsconfig.all.json
+
+
+   [130]tsconfig.json
+   [131]tsconfig.json
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [132]README
+     * [133]Code of conduct
+     * [134]Apache-2.0 license
+     * [135]Security
+
+   (BUTTON)
+
+Playwright MCP
+
+   A Model Context Protocol (MCP) server that provides browser automation
+   capabilities using [136]Playwright. This server enables LLMs to
+   interact with web pages through structured accessibility snapshots,
+   bypassing the need for screenshots or visually-tuned models.
+
+Key Features
+
+     * Fast and lightweight. Uses Playwright's accessibility tree, not
+       pixel-based input.
+     * LLM-friendly. No vision models needed, operates purely on
+       structured data.
+     * Deterministic tool application. Avoids ambiguity common with
+       screenshot-based approaches.
+
+Requirements
+
+     * Node.js 18 or newer
+     * VS Code, Cursor, Windsurf, Claude Desktop or any other MCP client
+
+Getting started
+
+   First, install the Playwright MCP server with your client. A typical
+   configuration looks like this:
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    }
+  }
+}
+
+---TRUNCATED FOR BREVITY---
+
+Languages
+
+     * [163]TypeScript 91.7%
+     * [164]JavaScript 7.1%
+     * [165]Dockerfile 1.2%
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [166]Terms
+     * [167]Privacy
+     * [168]Security
+     * [169]Status
+     * [170]Docs
+     * [171]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/microsoft/playwright-mcp#start-of-content
+   3. https://github.com/login?return_to=https://github.com/microsoft/playwright-mcp
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/microsoft/playwright-mcp
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=microsoft/playwright-mcp
+  57. https://github.com/microsoft/playwright-mcp
+  58. https://github.com/microsoft/playwright-mcp
+  59. https://github.com/microsoft/playwright-mcp
+  60. https://github.com/microsoft
+  61. https://github.com/microsoft/playwright-mcp
+  62. https://github.com/login?return_to=/microsoft/playwright-mcp
+  63. https://github.com/login?return_to=/microsoft/playwright-mcp
+  64. https://github.com/login?return_to=/microsoft/playwright-mcp
+  65. https://www.npmjs.com/package/@playwright/mcp
+  66. https://github.com/microsoft/playwright-mcp/blob/main/LICENSE
+  67. https://github.com/microsoft/playwright-mcp/stargazers
+  68. https://github.com/microsoft/playwright-mcp/forks
+  69. https://github.com/microsoft/playwright-mcp/branches
+  70. https://github.com/microsoft/playwright-mcp/tags
+  71. https://github.com/microsoft/playwright-mcp/activity
+  72. https://github.com/login?return_to=/microsoft/playwright-mcp
+  73. https://github.com/login?return_to=/microsoft/playwright-mcp
+  74. https://github.com/microsoft/playwright-mcp
+  75. https://github.com/microsoft/playwright-mcp/issues
+  76. https://github.com/microsoft/playwright-mcp/pulls
+  77. https://github.com/microsoft/playwright-mcp/actions
+  78. https://github.com/microsoft/playwright-mcp/security
+  79. https://github.com/microsoft/playwright-mcp
+  80. https://github.com/microsoft/playwright-mcp/pulse
+  81. https://github.com/microsoft/playwright-mcp
+  82. https://github.com/microsoft/playwright-mcp/issues
+  83. https://github.com/microsoft/playwright-mcp/pulls
+  84. https://github.com/microsoft/playwright-mcp/actions
+  85. https://github.com/microsoft/playwright-mcp/security
+  86. https://github.com/microsoft/playwright-mcp/pulse
+  87. https://github.com/microsoft/playwright-mcp/branches
+  88. https://github.com/microsoft/playwright-mcp/tags
+  89. https://github.com/microsoft/playwright-mcp/commits/main/
+  90. https://github.com/microsoft/playwright-mcp/tree/main/.github/workflows
+  91. https://github.com/microsoft/playwright-mcp/tree/main/.github/workflows
+  92. https://github.com/microsoft/playwright-mcp/tree/main/examples
+  93. https://github.com/microsoft/playwright-mcp/tree/main/examples
+  94. https://github.com/microsoft/playwright-mcp/tree/main/src
+  95. https://github.com/microsoft/playwright-mcp/tree/main/src
+  96. https://github.com/microsoft/playwright-mcp/tree/main/tests
+  97. https://github.com/microsoft/playwright-mcp/tree/main/tests
+  98. https://github.com/microsoft/playwright-mcp/tree/main/utils
+  99. https://github.com/microsoft/playwright-mcp/tree/main/utils
+ 100. https://github.com/microsoft/playwright-mcp/blob/main/.gitignore
+ 101. https://github.com/microsoft/playwright-mcp/blob/main/.gitignore
+ 102. https://github.com/microsoft/playwright-mcp/blob/main/.npmignore
+ 103. https://github.com/microsoft/playwright-mcp/blob/main/.npmignore
+ 104. https://github.com/microsoft/playwright-mcp/blob/main/Dockerfile
+ 105. https://github.com/microsoft/playwright-mcp/blob/main/Dockerfile
+ 106. https://github.com/microsoft/playwright-mcp/blob/main/LICENSE
+ 107. https://github.com/microsoft/playwright-mcp/blob/main/LICENSE
+ 108. https://github.com/microsoft/playwright-mcp/blob/main/README.md
+ 109. https://github.com/microsoft/playwright-mcp/blob/main/README.md
+ 110. https://github.com/microsoft/playwright-mcp/blob/main/SECURITY.md
+ 111. https://github.com/microsoft/playwright-mcp/blob/main/SECURITY.md
+ 112. https://github.com/microsoft/playwright-mcp/blob/main/cli.js
+ 113. https://github.com/microsoft/playwright-mcp/blob/main/cli.js
+ 114. https://github.com/microsoft/playwright-mcp/blob/main/config.d.ts
+ 115. https://github.com/microsoft/playwright-mcp/blob/main/config.d.ts
+ 116. https://github.com/microsoft/playwright-mcp/blob/main/eslint.config.mjs
+ 117. https://github.com/microsoft/playwright-mcp/blob/main/eslint.config.mjs
+ 118. https://github.com/microsoft/playwright-mcp/blob/main/index.d.ts
+ 119. https://github.com/microsoft/playwright-mcp/blob/main/index.d.ts
+ 120. https://github.com/microsoft/playwright-mcp/blob/main/index.js
+ 121. https://github.com/microsoft/playwright-mcp/blob/main/index.js
+ 122. https://github.com/microsoft/playwright-mcp/blob/main/package-lock.json
+ 123. https://github.com/microsoft/playwright-mcp/blob/main/package-lock.json
+ 124. https://github.com/microsoft/playwright-mcp/blob/main/package.json
+ 125. https://github.com/microsoft/playwright-mcp/blob/main/package.json
+ 126. https://github.com/microsoft/playwright-mcp/blob/main/playwright.config.ts
+ 127. https://github.com/microsoft/playwright-mcp/blob/main/playwright.config.ts
+ 128. https://github.com/microsoft/playwright-mcp/blob/main/tsconfig.all.json
+ 129. https://github.com/microsoft/playwright-mcp/blob/main/tsconfig.all.json
+ 130. https://github.com/microsoft/playwright-mcp/blob/main/tsconfig.json
+ 131. https://github.com/microsoft/playwright-mcp/blob/main/tsconfig.json
+ 132. https://github.com/microsoft/playwright-mcp
+ 133. https://github.com/microsoft/playwright-mcp
+ 134. https://github.com/microsoft/playwright-mcp
+ 135. https://github.com/microsoft/playwright-mcp
+ 136. https://playwright.dev/
+ 137. https://insiders.vscode.dev/redirect?url=vscode:mcp/install?%7B%22name%22%3A%22playwright%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22%40playwright%2Fmcp%40latest%22%5D%7D
+ 138. https://insiders.vscode.dev/redirect?url=vscode-insiders:mcp/install?%7B%22name%22%3A%22playwright%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22%40playwright%2Fmcp%40latest%22%5D%7D
+ 139. https://docs.windsurf.com/windsurf/cascade/mcp
+ 140. https://modelcontextprotocol.io/quickstart/user
+ 141. https://playwright.dev/docs/auth
+ 142. https://www.npmjs.com/package/@playwright/mcp
+ 143. https://github.com/topics/mcp
+ 144. https://github.com/topics/playwright
+ 145. https://github.com/microsoft/playwright-mcp#readme-ov-file
+ 146. https://github.com/microsoft/playwright-mcp#Apache-2.0-1-ov-file
+ 147. https://github.com/microsoft/playwright-mcp#coc-ov-file
+ 148. https://github.com/microsoft/playwright-mcp#security-ov-file
+ 149. https://github.com/microsoft/playwright-mcp
+ 150. https://github.com/microsoft/playwright-mcp/activity
+ 151. https://github.com/microsoft/playwright-mcp/custom-properties
+ 152. https://github.com/microsoft/playwright-mcp/stargazers
+ 153. https://github.com/microsoft/playwright-mcp/watchers
+ 154. https://github.com/microsoft/playwright-mcp/forks
+ 155. https://github.com/contact/report-content?content_url=https://github.com/microsoft/playwright-mcp&report=microsoft+(user)
+ 156. https://github.com/microsoft/playwright-mcp/releases
+ 157. https://github.com/microsoft/playwright-mcp/releases/tag/v0.0.27
+ 158. https://github.com/microsoft/playwright-mcp/releases
+ 159. https://github.com/microsoft/playwright-mcp
+ 160. https://github.com/microsoft/playwright-mcp/graphs/contributors
+ 161. https://github.com/microsoft/playwright-mcp
+ 162. https://github.com/microsoft/playwright-mcp/graphs/contributors
+ 163. https://github.com/microsoft/playwright-mcp/search?l=typescript
+ 164. https://github.com/microsoft/playwright-mcp/search?l=javascript
+ 165. https://github.com/microsoft/playwright-mcp/search?l=dockerfile
+ 166. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 167. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 168. https://github.com/security
+ 169. https://www.githubstatus.com/
+ 170. https://docs.github.com/
+ 171. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 173. https://github.com/
+ 174. https://github.com/microsoft/playwright-mcp/branches
+ 175. https://github.com/microsoft/playwright-mcp/tags
+ 176. https://github.com/microsoft/playwright-mcp/commits/main/
+ 177. https://github.com/microsoft/playwright-mcp#playwright-mcp
+ 178. https://github.com/microsoft/playwright-mcp#key-features
+ 179. https://github.com/microsoft/playwright-mcp#requirements
+ 180. https://github.com/microsoft/playwright-mcp#getting-started
+ 181. https://github.com/microsoft/playwright-mcp#configuration
+ 182. https://github.com/microsoft/playwright-mcp#user-profile
+ 183. https://github.com/microsoft/playwright-mcp#configuration-file
+ 184. https://github.com/microsoft/playwright-mcp#standalone-mcp-server
+ 185. https://github.com/microsoft/playwright-mcp#tools
+ 186. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

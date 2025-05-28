@@ -1,0 +1,590 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]nerding-io / [61]n8n-nodes-mcp Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 329
+     * [64]Star 1.8k
+
+   n8n custom node for MCP
+
+License
+
+   [65]MIT license
+   [66]1.8k stars [67]329 forks [68]Branches [69]Tags [70]Activity
+   [71]Star
+   [72]Notifications You must be signed in to change notification settings
+
+     * [73]Code
+     * [74]Issues 41
+     * [75]Pull requests 11
+     * [76]Actions
+     * [77]Projects 0
+     * [78]Security
+
+Uh oh!
+       There was an error while loading. [79]Please reload this page.
+     * [80]Insights
+
+   (BUTTON) Additional navigation options
+     * [81]Code
+     * [82]Issues
+     * [83]Pull requests
+     * [84]Actions
+     * [85]Projects
+     * [86]Security
+     * [87]Insights
+
+nerding-io/n8n-nodes-mcp
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [88]Branches[89]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+               Name            Name
+   Last commit message
+         Last commit date
+
+Latest commit
+
+
+History
+
+   [90]71 Commits
+   [91].github
+   [92].github
+
+
+   [93].vscode
+   [94].vscode
+
+
+   [95]__tests__
+   [96]__tests__
+
+
+   [97]assets
+   [98]assets
+
+
+   [99]credentials
+   [100]credentials
+
+
+   [101]nodes/McpClient
+   [102]nodes/McpClient
+
+
+   [103].editorconfig
+   [104].editorconfig
+
+
+   [105].eslintrc.js
+   [106].eslintrc.js
+
+
+   [107].eslintrc.prepublish.js
+   [108].eslintrc.prepublish.js
+
+
+   [109].gitignore
+   [110].gitignore
+
+
+   [111].npmignore
+   [112].npmignore
+
+
+   [113].nvmrc
+   [114].nvmrc
+
+
+   [115].prettierrc.js
+   [116].prettierrc.js
+
+
+   [117]CODE_OF_CONDUCT.md
+   [118]CODE_OF_CONDUCT.md
+
+
+   [119]LICENSE.md
+   [120]LICENSE.md
+
+
+   [121]README.md
+   [122]README.md
+
+
+   [123]gulpfile.js
+   [124]gulpfile.js
+
+
+   [125]index.js
+   [126]index.js
+
+
+   [127]jest.config.js
+   [128]jest.config.js
+
+
+   [129]package-lock.json
+   [130]package-lock.json
+
+
+   [131]package.json
+   [132]package.json
+
+
+   [133]pnpm-lock.yaml
+   [134]pnpm-lock.yaml
+
+
+   [135]tsconfig.json
+   [136]tsconfig.json
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [137]README
+     * [138]Code of conduct
+     * [139]MIT license
+
+   (BUTTON)
+
+   [140]Verified on MseeP
+
+n8n-nodes-mcp-client
+
+     Important Note: The Server-Sent Events (SSE) transport is deprecated
+     and replaced by the new HTTP Streamable transport. SSE remains
+     available for legacy compatibility, but HTTP Streamable is now the
+     recommended method for all new implementations.
+
+   This is an n8n community node that lets you interact with Model Context
+   Protocol (MCP) servers in your n8n workflows.
+
+   MCP is a protocol that enables AI models to interact with external
+   tools and data sources in a standardized way. This node allows you to
+   connect to MCP servers, access resources, execute tools, and use
+   prompts.
+
+   [141]n8n is a [142]fair-code licensed workflow automation platform.
+
+   [143]Installation [144]Credentials [145]Environment Variables
+   [146]Operations [147]Using as a Tool [148]Compatibility [149]Resources
+
+Getting Started
+
+   Official Quickstart Video:
+
+   [150]MCP Client Node Quickstart
+
+---TRUNCATED FOR BREVITY---
+
+Languages
+
+     * [192]TypeScript 88.4%
+     * [193]JavaScript 11.6%
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [194]Terms
+     * [195]Privacy
+     * [196]Security
+     * [197]Status
+     * [198]Docs
+     * [199]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/nerding-io/n8n-nodes-mcp#start-of-content
+   3. https://github.com/login?return_to=https://github.com/nerding-io/n8n-nodes-mcp
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/nerding-io/n8n-nodes-mcp
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=nerding-io/n8n-nodes-mcp
+  57. https://github.com/nerding-io/n8n-nodes-mcp
+  58. https://github.com/nerding-io/n8n-nodes-mcp
+  59. https://github.com/nerding-io/n8n-nodes-mcp
+  60. https://github.com/nerding-io
+  61. https://github.com/nerding-io/n8n-nodes-mcp
+  62. https://github.com/login?return_to=/nerding-io/n8n-nodes-mcp
+  63. https://github.com/login?return_to=/nerding-io/n8n-nodes-mcp
+  64. https://github.com/login?return_to=/nerding-io/n8n-nodes-mcp
+  65. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/LICENSE.md
+  66. https://github.com/nerding-io/n8n-nodes-mcp/stargazers
+  67. https://github.com/nerding-io/n8n-nodes-mcp/forks
+  68. https://github.com/nerding-io/n8n-nodes-mcp/branches
+  69. https://github.com/nerding-io/n8n-nodes-mcp/tags
+  70. https://github.com/nerding-io/n8n-nodes-mcp/activity
+  71. https://github.com/login?return_to=/nerding-io/n8n-nodes-mcp
+  72. https://github.com/login?return_to=/nerding-io/n8n-nodes-mcp
+  73. https://github.com/nerding-io/n8n-nodes-mcp
+  74. https://github.com/nerding-io/n8n-nodes-mcp/issues
+  75. https://github.com/nerding-io/n8n-nodes-mcp/pulls
+  76. https://github.com/nerding-io/n8n-nodes-mcp/actions
+  77. https://github.com/nerding-io/n8n-nodes-mcp/projects
+  78. https://github.com/nerding-io/n8n-nodes-mcp/security
+  79. https://github.com/nerding-io/n8n-nodes-mcp
+  80. https://github.com/nerding-io/n8n-nodes-mcp/pulse
+  81. https://github.com/nerding-io/n8n-nodes-mcp
+  82. https://github.com/nerding-io/n8n-nodes-mcp/issues
+  83. https://github.com/nerding-io/n8n-nodes-mcp/pulls
+  84. https://github.com/nerding-io/n8n-nodes-mcp/actions
+  85. https://github.com/nerding-io/n8n-nodes-mcp/projects
+  86. https://github.com/nerding-io/n8n-nodes-mcp/security
+  87. https://github.com/nerding-io/n8n-nodes-mcp/pulse
+  88. https://github.com/nerding-io/n8n-nodes-mcp/branches
+  89. https://github.com/nerding-io/n8n-nodes-mcp/tags
+  90. https://github.com/nerding-io/n8n-nodes-mcp/commits/main/
+  91. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/.github
+  92. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/.github
+  93. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/.vscode
+  94. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/.vscode
+  95. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/__tests__
+  96. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/__tests__
+  97. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/assets
+  98. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/assets
+  99. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/credentials
+ 100. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/credentials
+ 101. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/nodes/McpClient
+ 102. https://github.com/nerding-io/n8n-nodes-mcp/tree/main/nodes/McpClient
+ 103. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.editorconfig
+ 104. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.editorconfig
+ 105. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.eslintrc.js
+ 106. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.eslintrc.js
+ 107. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.eslintrc.prepublish.js
+ 108. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.eslintrc.prepublish.js
+ 109. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.gitignore
+ 110. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.gitignore
+ 111. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.npmignore
+ 112. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.npmignore
+ 113. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.nvmrc
+ 114. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.nvmrc
+ 115. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.prettierrc.js
+ 116. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/.prettierrc.js
+ 117. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/CODE_OF_CONDUCT.md
+ 118. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/CODE_OF_CONDUCT.md
+ 119. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/LICENSE.md
+ 120. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/LICENSE.md
+ 121. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/README.md
+ 122. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/README.md
+ 123. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/gulpfile.js
+ 124. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/gulpfile.js
+ 125. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/index.js
+ 126. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/index.js
+ 127. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/jest.config.js
+ 128. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/jest.config.js
+ 129. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/package-lock.json
+ 130. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/package-lock.json
+ 131. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/package.json
+ 132. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/package.json
+ 133. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/pnpm-lock.yaml
+ 134. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/pnpm-lock.yaml
+ 135. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/tsconfig.json
+ 136. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/tsconfig.json
+ 137. https://github.com/nerding-io/n8n-nodes-mcp
+ 138. https://github.com/nerding-io/n8n-nodes-mcp
+ 139. https://github.com/nerding-io/n8n-nodes-mcp
+ 140. https://mseep.ai/app/bd76f121-1c8f-4f5d-9c65-1eac5d81b6af
+ 141. https://n8n.io/
+ 142. https://docs.n8n.io/reference/license/
+ 143. https://github.com/nerding-io/n8n-nodes-mcp#installation
+ 144. https://github.com/nerding-io/n8n-nodes-mcp#credentials
+ 145. https://github.com/nerding-io/n8n-nodes-mcp#environment-variables
+ 146. https://github.com/nerding-io/n8n-nodes-mcp#operations
+ 147. https://github.com/nerding-io/n8n-nodes-mcp#using-as-a-tool
+ 148. https://github.com/nerding-io/n8n-nodes-mcp#compatibility
+ 149. https://github.com/nerding-io/n8n-nodes-mcp#resources
+ 150. https://youtu.be/1t8DQL-jUJk
+ 151. https://youtu.be/sb5hCcFYPIE
+ 152. https://youtu.be/tTDRgkD-120
+ 153. https://www.youtube.com/watch?v=SVZe2rdhYmA
+ 154. https://youtu.be/RxXS_FpJyGM
+ 155. https://www.youtube.com/watch?v=mbQsnrxHPwE
+ 156. https://www.youtube.com/watch?v=zgH85dJcs5c
+ 157. https://www.youtube.com/playlist?list=PLjOCx_PNfJ4S_oOSqrMi6t9_x1GllvQZO
+ 158. https://mseep.ai/app/nerding-io-n8n-nodes-mcp
+ 159. https://docs.n8n.io/integrations/community-nodes/installation/
+ 160. https://github.com/nerding-io/n8n-nodes-mcp#using-as-a-tool
+ 161. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/credentials.png
+ 162. http://localhost:3001/stream
+ 163. http://localhost:3001/sse
+ 164. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/credentials-envs.png
+ 165. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/brave-search-example.png
+ 166. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/multi-server-example.png
+ 167. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/operations.png
+ 168. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/list-tools.png
+ 169. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/execute-tool.png
+ 170. https://github.com/nerding-io/n8n-nodes-mcp/blob/main/assets/execute-tool-result.png
+ 171. https://docs.n8n.io/integrations/community-nodes/
+ 172. https://modelcontextprotocol.io/docs/
+ 173. https://github.com/modelcontextprotocol/typescript-sdk
+ 174. https://modelcontextprotocol.io/docs/concepts/transports
+ 175. https://github.com/modelcontextprotocol/typescript-sdk/blob/main/src/client/sse.ts
+ 176. https://github.com/nerding-io/n8n-nodes-mcp#readme-ov-file
+ 177. https://github.com/nerding-io/n8n-nodes-mcp#MIT-1-ov-file
+ 178. https://github.com/nerding-io/n8n-nodes-mcp#coc-ov-file
+ 179. https://github.com/nerding-io/n8n-nodes-mcp
+ 180. https://github.com/nerding-io/n8n-nodes-mcp/activity
+ 181. https://github.com/nerding-io/n8n-nodes-mcp/stargazers
+ 182. https://github.com/nerding-io/n8n-nodes-mcp/watchers
+ 183. https://github.com/nerding-io/n8n-nodes-mcp/forks
+ 184. https://github.com/contact/report-content?content_url=https://github.com/nerding-io/n8n-nodes-mcp&report=nerding-io+(user)
+ 185. https://github.com/nerding-io/n8n-nodes-mcp/releases
+ 186. https://github.com/nerding-io/n8n-nodes-mcp/releases/tag/v0.1.28
+ 187. https://github.com/nerding-io/n8n-nodes-mcp/releases
+ 188. https://github.com/users/nerding-io/packages?repo_name=n8n-nodes-mcp
+ 189. https://github.com/nerding-io/n8n-nodes-mcp
+ 190. https://github.com/nerding-io/n8n-nodes-mcp/graphs/contributors
+ 191. https://github.com/nerding-io/n8n-nodes-mcp
+ 192. https://github.com/nerding-io/n8n-nodes-mcp/search?l=typescript
+ 193. https://github.com/nerding-io/n8n-nodes-mcp/search?l=javascript
+ 194. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 195. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 196. https://github.com/security
+ 197. https://www.githubstatus.com/
+ 198. https://docs.github.com/
+ 199. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 201. https://github.com/
+ 202. https://github.com/nerding-io/n8n-nodes-mcp/branches
+ 203. https://github.com/nerding-io/n8n-nodes-mcp/tags
+ 204. https://github.com/nerding-io/n8n-nodes-mcp/commits/main/
+ 205. https://github.com/nerding-io/n8n-nodes-mcp#n8n-nodes-mcp-client
+ 206. https://github.com/nerding-io/n8n-nodes-mcp#getting-started
+ 207. https://github.com/nerding-io/n8n-nodes-mcp#community-videos
+ 208. https://github.com/nerding-io/n8n-nodes-mcp#interested-a-deeper-dive-into-mcp
+ 209. https://github.com/nerding-io/n8n-nodes-mcp#security-assessment
+ 210. https://github.com/nerding-io/n8n-nodes-mcp#installation
+ 211. https://github.com/nerding-io/n8n-nodes-mcp#credentials
+ 212. https://github.com/nerding-io/n8n-nodes-mcp#command-line-based-transport-stdio
+ 213. https://github.com/nerding-io/n8n-nodes-mcp#http-streamable-transport-recommended
+ 214. https://github.com/nerding-io/n8n-nodes-mcp#example-using-a-local-mcp-server-with-http-streamable
+ 215. https://github.com/nerding-io/n8n-nodes-mcp#server-sent-events-sse-transport-deprecated-still-available-for-legacy-use
+ 216. https://github.com/nerding-io/n8n-nodes-mcp#example-using-a-local-mcp-server-with-sse-legacy
+ 217. https://github.com/nerding-io/n8n-nodes-mcp#environment-variables
+ 218. https://github.com/nerding-io/n8n-nodes-mcp#1-using-the-credentials-ui
+ 219. https://github.com/nerding-io/n8n-nodes-mcp#2-using-docker-environment-variables
+ 220. https://github.com/nerding-io/n8n-nodes-mcp#example-using-brave-search-mcp-server
+ 221. https://github.com/nerding-io/n8n-nodes-mcp#example-multi-server-setup-with-ai-agent
+ 222. https://github.com/nerding-io/n8n-nodes-mcp#operations
+ 223. https://github.com/nerding-io/n8n-nodes-mcp#example-list-tools-operation
+ 224. https://github.com/nerding-io/n8n-nodes-mcp#example-execute-tool-operation
+ 225. https://github.com/nerding-io/n8n-nodes-mcp#using-as-a-tool
+ 226. https://github.com/nerding-io/n8n-nodes-mcp#setting-the-environment-variable
+ 227. https://github.com/nerding-io/n8n-nodes-mcp#compatibility
+ 228. https://github.com/nerding-io/n8n-nodes-mcp#resources
+ 229. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

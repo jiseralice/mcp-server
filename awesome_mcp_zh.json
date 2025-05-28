@@ -1,0 +1,58 @@
+[
+    {
+        "name_zh": "microsoft/playwright-mcp",
+        "name_en": "Playwright Mcp",
+        "description_zh": "微软官方出品，使用 Playwright 让 AI 精确控制网页，自动化抓取数据。",
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/microsoft/playwright-mcp",
+        "language": null,
+        "platforms": [],
+        "tags": [
+            "，浏览器自动化强推，适合需要精细网页交互的场景。",
+            "Official Implementation"
+        ]
+    },
+    {
+        "name_zh": "browserbase/mcp-server-browserbase",
+        "name_en": "Mcp Server Browserbase",
+        "description_zh": "云端浏览器自动化服务，能导航网页、提取数据、填表单等，无需本地安装。",
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/browserbase/mcp-server-browserbase",
+        "language": "TypeScript/JavaScript",
+        "platforms": [],
+        "tags": [
+            "(Browserbase) 🎖️, TypeScript 开发 , 云端浏览器操作。",
+            "Official Implementation"
+        ]
+    },
+    {
+        "name_zh": "modelcontextprotocol/server-puppeteer",
+        "name_en": "Server Puppeteer",
+        "description_zh": "官方参考实现，使用 Puppeteer 进行浏览器自动化和网页抓取。",
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+        "language": "TypeScript/JavaScript",
+        "platforms": [
+            "Local"
+        ],
+        "tags": [
+            "Official Reference",
+            "TypeScript 开发 , 本地运行 , 网页抓取和交互基础工具。"
+        ]
+    },
+    {
+        "name_zh": "apify/actors-mcp-server",
+        "name_en": "Actors Mcp Server",
+        "description_zh": "集成 Apify 平台 3000+ 云工具，用于网站、电商、社交媒体等数据提取。",
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/apify/actors-mcp-server",
+        "language": "TypeScript/JavaScript",
+        "platforms": [
+            "Cloud"
+        ],
+        "tags": [
+            "(Apify), TypeScript 开发 , 云端数据抓取工具库 。",
+            "Official Implementation"
+        ]
+    }
+]

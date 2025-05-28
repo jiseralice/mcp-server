@@ -1,0 +1,165 @@
+[
+    {
+        "name": "julien040/anyquery",
+        "description": "Query more than 40 apps with one",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "Go",
+        "tags": [
+            "🏎️",
+            "🏠",
+            "☁️"
+        ]
+    },
+    {
+        "name": "metatool-ai/metatool-app",
+        "description": "MetaMCP is the one",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "☁️",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ]
+    },
+    {
+        "name": "mindsdb/mindsdb",
+        "description": "Connect and unify data across various",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": null,
+        "tags": []
+    },
+    {
+        "name": "glenngillen/mcpmcp-server",
+        "description": "A list of MCP servers",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "☁️",
+            "📇",
+            "🍎",
+            "🪟",
+            "🐧"
+        ]
+    },
+    {
+        "name": "wegotdocs/open-mcp",
+        "description": "Turn a web API into an MCP",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ]
+    },
+    {
+        "name": "PipedreamHQ/pipedream",
+        "description": "Connect with 2,500 APIs with",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": null,
+        "tags": [
+            "☁️",
+            "🏠"
+        ]
+    },
+    {
+        "name": "VeriTeknik/pluggedin-mcp-proxy",
+        "description": "A comprehensive proxy",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "🏠"
+        ]
+    },
+    {
+        "name": "tigranbs/mcgravity",
+        "description": "A proxy tool for composing multiple",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "🏠"
+        ]
+    },
+    {
+        "name": "MetaMCP",
+        "description": "MetaMCP is the one unified middleware",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "☁️",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ]
+    },
+    {
+        "name": "WayStation-ai/mcp",
+        "description": "Seamlessly and securely connect",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": null,
+        "tags": [
+            "☁️",
+            "🍎",
+            "🪟"
+        ]
+    },
+    {
+        "name": "sxhxliang/mcp-access-point",
+        "description": "Turn a web service",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "☁️",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ]
+    },
+    {
+        "name": "hamflx/imagen3-mcp",
+        "description": "A powerful image generation",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "🏠",
+            "🪟",
+            "🍎",
+            "🐧"
+        ]
+    },
+    {
+        "name": "SureScaleAI/openai-gpt-image-mcp",
+        "description": "OpenAI GPT image",
+        "category": "Aggregators",
+        "repository_url": "",
+        "language": "TypeScript/JavaScript",
+        "tags": [
+            "📇",
+            "☁️"
+        ]
+    }
+]

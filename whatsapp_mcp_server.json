@@ -1,0 +1,17 @@
+[
+    {
+        "name": "WhatsApp MCP server",
+        "description": "This is a Model Context Protocol (MCP) server for WhatsApp.With this you can search and read your personal Whatsapp messages (including images, videos, documents, and audio messages), search your contacts and send messages to either individuals or groups. You can also send media files including images, videos, documents, and audio messages. It connects to your personal WhatsApp account directly via the Whatsapp web multidevice API (using the whatsmeow library). All your messages are stored locally in a SQLite database and only sent to an LLM (such as Claude) when the agent accesses them through tools (which you control). Here's an example of what you can do when it's connected to Claude. WhatsApp MCP To get updates on this and other projects I work on enter your email here",
+        "category": "Communication",
+        "repository_url": "https://github.com/lharries/whatsapp-mcp",
+        "language": [
+            "Go",
+            "Python"
+        ],
+        "tags": [
+            "WhatsApp",
+            "Communication",
+            "Messaging"
+        ]
+    }
+]

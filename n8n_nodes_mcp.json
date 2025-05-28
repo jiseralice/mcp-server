@@ -1,0 +1,15 @@
+[
+    {
+        "name": "n8n-nodes-mcp-client",
+        "description": "An n8n community node to interact with Model Context Protocol (MCP) servers.",
+        "category": "Workflow Automation",
+        "repository_url": "https://github.com/nerding-io/n8n-nodes-mcp",
+        "language": "TypeScript",
+        "tags": [
+            "n8n",
+            "MCP Client",
+            "Workflow Automation",
+            "Tooling"
+        ]
+    }
+]

@@ -1,0 +1,564 @@
+[
+    {
+        "name": "julien040/anyquery",
+        "name_en": "julien040/anyquery",
+        "name_zh": null,
+        "description": "Query more than 40 apps with one",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "Go"
+        ],
+        "platforms": [],
+        "tags": [
+            "🏎️",
+            "🏠",
+            "☁️"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "metatool-ai/metatool-app",
+        "name_en": "metatool-ai/metatool-app",
+        "name_zh": null,
+        "description": "MetaMCP is the one",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "☁️",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "mindsdb/mindsdb",
+        "name_en": "mindsdb/mindsdb",
+        "name_zh": null,
+        "description": "Connect and unify data across various",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [],
+        "platforms": [],
+        "tags": [],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "glenngillen/mcpmcp-server",
+        "name_en": "glenngillen/mcpmcp-server",
+        "name_zh": null,
+        "description": "A list of MCP servers",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "☁️",
+            "📇",
+            "🍎",
+            "🪟",
+            "🐧"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "wegotdocs/open-mcp",
+        "name_en": "wegotdocs/open-mcp",
+        "name_zh": null,
+        "description": "Turn a web API into an MCP",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "PipedreamHQ/pipedream",
+        "name_en": "PipedreamHQ/pipedream",
+        "name_zh": null,
+        "description": "Connect with 2,500 APIs with",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [],
+        "platforms": [],
+        "tags": [
+            "☁️",
+            "🏠"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "VeriTeknik/pluggedin-mcp-proxy",
+        "name_en": "VeriTeknik/pluggedin-mcp-proxy",
+        "name_zh": null,
+        "description": "A comprehensive proxy",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "🏠"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "tigranbs/mcgravity",
+        "name_en": "tigranbs/mcgravity",
+        "name_zh": null,
+        "description": "A proxy tool for composing multiple",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "🏠"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "MetaMCP",
+        "name_en": "MetaMCP",
+        "name_zh": null,
+        "description": "MetaMCP is the one unified middleware",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "☁️",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "WayStation-ai/mcp",
+        "name_en": "WayStation-ai/mcp",
+        "name_zh": null,
+        "description": "Seamlessly and securely connect",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [],
+        "platforms": [],
+        "tags": [
+            "☁️",
+            "🍎",
+            "🪟"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "sxhxliang/mcp-access-point",
+        "name_en": "sxhxliang/mcp-access-point",
+        "name_zh": null,
+        "description": "Turn a web service",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "☁️",
+            "🏠",
+            "🍎",
+            "🪟",
+            "🐧"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "hamflx/imagen3-mcp",
+        "name_en": "hamflx/imagen3-mcp",
+        "name_zh": null,
+        "description": "A powerful image generation",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "🏠",
+            "🪟",
+            "🍎",
+            "🐧"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "SureScaleAI/openai-gpt-image-mcp",
+        "name_en": "SureScaleAI/openai-gpt-image-mcp",
+        "name_zh": null,
+        "description": "OpenAI GPT image",
+        "description_zh": null,
+        "category_en": "Aggregators",
+        "category_zh": null,
+        "repository_url": "",
+        "normalized_repo_url": "",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "📇",
+            "☁️"
+        ],
+        "source_files": [
+            "mcp_servers.json"
+        ]
+    },
+    {
+        "name": "Core MCP Server",
+        "name_en": "Core MCP Server",
+        "name_zh": null,
+        "description": "A server for managing and coordinating other AWS Labs MCP servers. * Automatic MCP Server Management * Planning and guidance to orchestrate AWS Labs MCP Servers * UVX Installation Support * Centralized Configuration",
+        "description_zh": null,
+        "category_en": null,
+        "category_zh": null,
+        "repository_url": "https://github.com/awslabs/mcp/blob/main/src/core-mcp-server/README.md",
+        "normalized_repo_url": "https://github.com/awslabs/mcp/blob/main/src/core-mcp-server/readme.md",
+        "languages": [
+            "Python"
+        ],
+        "platforms": [],
+        "tags": [],
+        "source_files": [
+            "awslabs_mcp_servers.json"
+        ]
+    },
+    {
+        "name": "AWS Documentation MCP Server",
+        "name_en": "AWS Documentation MCP Server",
+        "name_zh": null,
+        "description": "A server for accessing AWS documentation and best practices. * Search Documentation using the official AWS search API * Get content recommendations for AWS documentation pages * Convert documentation to markdown format",
+        "description_zh": null,
+        "category_en": null,
+        "category_zh": null,
+        "repository_url": "https://github.com/awslabs/mcp/blob/main/src/aws-documentation-mcp-server/README.md",
+        "normalized_repo_url": "https://github.com/awslabs/mcp/blob/main/src/aws-documentation-mcp-server/readme.md",
+        "languages": [
+            "Python"
+        ],
+        "platforms": [],
+        "tags": [],
+        "source_files": [
+            "awslabs_mcp_servers.json"
+        ]
+    },
+    {
+        "name": "Playwright MCP Server",
+        "name_en": "Playwright MCP Server",
+        "name_zh": "microsoft/playwright-mcp",
+        "description": "A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.",
+        "description_zh": "微软官方出品，使用 Playwright 让 AI 精确控制网页，自动化抓取数据。",
+        "category_en": "Browser Automation",
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/microsoft/playwright-mcp",
+        "normalized_repo_url": "https://github.com/microsoft/playwright-mcp",
+        "languages": [
+            "Typescript"
+        ],
+        "platforms": [],
+        "tags": [
+            "Browser Automation",
+            "Microsoft",
+            "Official Implementation",
+            "Playwright",
+            "，浏览器自动化强推，适合需要精细网页交互的场景。"
+        ],
+        "source_files": [
+            "awesome_mcp_zh.json",
+            "playwright_mcp_server.json"
+        ]
+    },
+    {
+        "name": "GitHub MCP Server",
+        "name_en": "GitHub MCP Server",
+        "name_zh": null,
+        "description": "Official GitHub MCP server for API integration and automation.",
+        "description_zh": null,
+        "category_en": "Version Control",
+        "category_zh": null,
+        "repository_url": "https://github.com/github/github-mcp-server",
+        "normalized_repo_url": "https://github.com/github/github-mcp-server",
+        "languages": [
+            "Go"
+        ],
+        "platforms": [],
+        "tags": [
+            "GitHub",
+            "Version Control",
+            "API"
+        ],
+        "source_files": [
+            "github_mcp_server.json"
+        ]
+    },
+    {
+        "name": "Browser MCP",
+        "name_en": "Browser MCP",
+        "name_zh": null,
+        "description": "Browser MCP is an MCP server + Chrome extension that allows you to automate your browser using AI applications like VS Code, Claude, Cursor, and Windsurf.",
+        "description_zh": null,
+        "category_en": "Browser Automation",
+        "category_zh": null,
+        "repository_url": "https://github.com/BrowserMCP/mcp",
+        "normalized_repo_url": "https://github.com/browsermcp/mcp",
+        "languages": [
+            "Typescript"
+        ],
+        "platforms": [],
+        "tags": [
+            "Browser Automation",
+            "Chrome Extension"
+        ],
+        "source_files": [
+            "browsermcp_server.json"
+        ]
+    },
+    {
+        "name": "WhatsApp MCP server",
+        "name_en": "WhatsApp MCP server",
+        "name_zh": null,
+        "description": "This is a Model Context Protocol (MCP) server for WhatsApp.With this you can search and read your personal Whatsapp messages (including images, videos, documents, and audio messages), search your contacts and send messages to either individuals or groups. You can also send media files including images, videos, documents, and audio messages. It connects to your personal WhatsApp account directly via the Whatsapp web multidevice API (using the whatsmeow library). All your messages are stored locally in a SQLite database and only sent to an LLM (such as Claude) when the agent accesses them through tools (which you control). Here's an example of what you can do when it's connected to Claude. WhatsApp MCP To get updates on this and other projects I work on enter your email here",
+        "description_zh": null,
+        "category_en": "Communication",
+        "category_zh": null,
+        "repository_url": "https://github.com/lharries/whatsapp-mcp",
+        "normalized_repo_url": "https://github.com/lharries/whatsapp-mcp",
+        "languages": [
+            "Go",
+            "Python"
+        ],
+        "platforms": [],
+        "tags": [
+            "WhatsApp",
+            "Communication",
+            "Messaging"
+        ],
+        "source_files": [
+            "whatsapp_mcp_server.json"
+        ]
+    },
+    {
+        "name": "n8n-nodes-mcp-client",
+        "name_en": "n8n-nodes-mcp-client",
+        "name_zh": null,
+        "description": "An n8n community node to interact with Model Context Protocol (MCP) servers.",
+        "description_zh": null,
+        "category_en": "Developer Tools",
+        "category_zh": null,
+        "repository_url": "https://github.com/nerding-io/n8n-nodes-mcp",
+        "normalized_repo_url": "https://github.com/nerding-io/n8n-nodes-mcp",
+        "languages": [
+            "Typescript"
+        ],
+        "platforms": [],
+        "tags": [
+            "n8n",
+            "MCP Client",
+            "Workflow Automation",
+            "Tooling"
+        ],
+        "source_files": [
+            "n8n_nodes_mcp.json"
+        ]
+    },
+    {
+        "name": "Framelink Figma MCP Server",
+        "name_en": "Framelink Figma MCP Server",
+        "name_zh": null,
+        "description": "Give your coding agent access to your Figma data. Implement designs in any framework in one-shot. weekly downloads MIT License Discord Twitter Give Cursor and other AI-powered coding tools access to your Figma files with this Model Context Protocol server. When Cursor has access to Figma design data, it's way better at one-shotting designs accurately than alternative approaches like pasting screenshots.",
+        "description_zh": null,
+        "category_en": "Developer Tools",
+        "category_zh": null,
+        "repository_url": "https://github.com/GLips/Figma-Context-MCP",
+        "normalized_repo_url": "https://github.com/glips/figma-context-mcp",
+        "languages": [
+            "Typescript"
+        ],
+        "platforms": [],
+        "tags": [
+            "Figma",
+            "Design Tools",
+            "AI Coding Agent"
+        ],
+        "source_files": [
+            "figma_context_mcp.json"
+        ]
+    },
+    {
+        "name": "Mcp Server Browserbase",
+        "name_en": "Mcp Server Browserbase",
+        "name_zh": "browserbase/mcp-server-browserbase",
+        "description": null,
+        "description_zh": "云端浏览器自动化服务，能导航网页、提取数据、填表单等，无需本地安装。",
+        "category_en": null,
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/browserbase/mcp-server-browserbase",
+        "normalized_repo_url": "https://github.com/browserbase/mcp-server-browserbase",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [],
+        "tags": [
+            "(Browserbase) 🎖️, TypeScript 开发 , 云端浏览器操作。",
+            "Official Implementation"
+        ],
+        "source_files": [
+            "awesome_mcp_zh.json"
+        ]
+    },
+    {
+        "name": "Server Puppeteer",
+        "name_en": "Server Puppeteer",
+        "name_zh": "modelcontextprotocol/server-puppeteer",
+        "description": null,
+        "description_zh": "官方参考实现，使用 Puppeteer 进行浏览器自动化和网页抓取。",
+        "category_en": null,
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+        "normalized_repo_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [
+            "Local"
+        ],
+        "tags": [
+            "Official Reference",
+            "TypeScript 开发 , 本地运行 , 网页抓取和交互基础工具。"
+        ],
+        "source_files": [
+            "awesome_mcp_zh.json"
+        ]
+    },
+    {
+        "name": "Actors Mcp Server",
+        "name_en": "Actors Mcp Server",
+        "name_zh": "apify/actors-mcp-server",
+        "description": null,
+        "description_zh": "集成 Apify 平台 3000+ 云工具，用于网站、电商、社交媒体等数据提取。",
+        "category_en": null,
+        "category_zh": "🌐 浏览器自动化与网页交互",
+        "repository_url": "https://github.com/apify/actors-mcp-server",
+        "normalized_repo_url": "https://github.com/apify/actors-mcp-server",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "platforms": [
+            "Cloud"
+        ],
+        "tags": [
+            "(Apify), TypeScript 开发 , 云端数据抓取工具库 。",
+            "Official Implementation"
+        ],
+        "source_files": [
+            "awesome_mcp_zh.json"
+        ]
+    }
+]

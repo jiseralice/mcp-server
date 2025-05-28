@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Core MCP Server",
+        "description": "A server for managing and coordinating other AWS Labs MCP servers. * Automatic MCP Server Management * Planning and guidance to orchestrate AWS Labs MCP Servers * UVX Installation Support * Centralized Configuration",
+        "repository_url": "https://github.com/awslabs/mcp/blob/main/src/core-mcp-server/README.md",
+        "language": "Python",
+        "aws_service_integration": "Core",
+        "details_from_description": "A server for managing and coordinating other AWS Labs MCP servers.\n     * Automatic MCP Server Management\n     * Planning and guidance to orchestrate AWS Labs MCP Servers\n     * UVX Installation Support\n     * Centralized Configuration"
+    },
+    {
+        "name": "AWS Documentation MCP Server",
+        "description": "A server for accessing AWS documentation and best practices. * Search Documentation using the official AWS search API * Get content recommendations for AWS documentation pages * Convert documentation to markdown format",
+        "repository_url": "https://github.com/awslabs/mcp/blob/main/src/aws-documentation-mcp-server/README.md",
+        "language": "Python",
+        "aws_service_integration": "AWS Documentation",
+        "details_from_description": "A server for accessing AWS documentation and best practices.\n     * Search Documentation using the official AWS search API\n     * Get content recommendations for AWS documentation pages\n     * Convert documentation to markdown format"
+    }
+]

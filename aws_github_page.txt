@@ -1,0 +1,891 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]awslabs / [61]mcp Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 308
+     * [64]Star 3.3k
+
+   AWS MCP Servers — specialized MCP servers that bring AWS best practices
+   directly to your development workflow
+   [65]awslabs.github.io/mcp/
+
+License
+
+   [66]Apache-2.0 license
+   [67]3.3k stars [68]308 forks [69]Branches [70]Tags [71]Activity
+   [72]Star
+   [73]Notifications You must be signed in to change notification settings
+
+     * [74]Code
+     * [75]Issues 45
+     * [76]Pull requests 21
+     * [77]Discussions
+     * [78]Actions
+     * [79]Projects 1
+     * [80]Security
+
+Uh oh!
+       There was an error while loading. [81]Please reload this page.
+     * [82]Insights
+
+   (BUTTON) Additional navigation options
+     * [83]Code
+     * [84]Issues
+     * [85]Pull requests
+     * [86]Discussions
+     * [87]Actions
+     * [88]Projects
+     * [89]Security
+     * [90]Insights
+
+awslabs/mcp
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [91]Branches[92]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+                Name              Name
+   Last commit message
+          Last commit date
+
+Latest commit
+
+
+History
+
+   [93]318 Commits
+   [94].devcontainer
+   [95].devcontainer
+
+
+   [96].github
+   [97].github
+
+
+   [98]docs
+   [99]docs
+
+
+   [100]samples
+   [101]samples
+
+
+   [102]scripts
+   [103]scripts
+
+
+   [104]src
+   [105]src
+
+
+   [106].gitignore
+   [107].gitignore
+
+
+   [108].pre-commit-config.yaml
+   [109].pre-commit-config.yaml
+
+
+   [110].python-version
+   [111].python-version
+
+
+   [112].ruff.toml
+   [113].ruff.toml
+
+
+   [114].secrets.baseline
+   [115].secrets.baseline
+
+
+   [116]CODE_OF_CONDUCT.md
+   [117]CODE_OF_CONDUCT.md
+
+
+   [118]CONTRIBUTING.md
+   [119]CONTRIBUTING.md
+
+
+   [120]DESIGN_GUIDELINES.md
+   [121]DESIGN_GUIDELINES.md
+
+
+   [122]DEVELOPER_GUIDE.md
+   [123]DEVELOPER_GUIDE.md
+
+
+   [124]LICENSE
+   [125]LICENSE
+
+
+   [126]NOTICE
+   [127]NOTICE
+
+
+   [128]README.md
+   [129]README.md
+
+
+   [130]VIBE_CODING_TIPS_TRICKS.md
+   [131]VIBE_CODING_TIPS_TRICKS.md
+
+
+   [132]mkdocs.yml
+   [133]mkdocs.yml
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [134]README
+     * [135]Code of conduct
+     * [136]Apache-2.0 license
+     * [137]Security
+
+   (BUTTON)
+
+AWS MCP Servers
+
+   A suite of specialized MCP servers that help you get the most out of
+   AWS, wherever you use MCP.
+
+   [138]GitHub [139]License [140]Codecov [141]OSSF-Scorecard Score
+
+Table of Contents
+
+     * [142]AWS MCP Servers
+          + [143]Table of Contents
+          + [144]What is the Model Context Protocol (MCP) and how does it
+            work with AWS MCP Servers?
+               o [145]Why MCP Servers?
+          + [146]Available Servers
+               o [147]Core MCP Server
+               o [148]AWS Documentation MCP Server
+               o [149]Amazon Bedrock Knowledge Bases Retrieval MCP Server
+               o [150]AWS Kendra Index MCP Server
+               o [151]AWS CDK MCP Server
+               o [152]Cost Analysis MCP Server
+               o [153]Amazon Nova Canvas MCP Server
+               o [154]AWS Diagram MCP Server
+               o [155]AWS CloudFormation MCP Server
+               o [156]AWS Lambda MCP Server
+               o [157]Amazon SNS / SQS MCP Server
+               o [158]AWS Terraform MCP Server
+               o [159]Frontend MCP Server
+               o [160]Amazon ElastiCache/MemoryDB Valkey for MCP Server
+               o [161]Amazon ElastiCache Memcached for MCP Server
+               o [162]AWS Location Service MCP Server
+               o [163]Git Repo Research MCP Server
+               o [164]Code Documentation Generation MCP Server
+               o [165]Amazon Aurora Postgres MCP Server
+               o [166]Amazon Aurora MySql MCP Server
+               o [167]Amazon MQ MCP Server
+               o [168]Synthetic Data MCP Server
+               o [169]Amazon Aurora DSQL MCP Server
+               o [170]Amazon DynamoDB MCP Server
+               o [171]Amazon Neptune MCP Server
+               o [172]Amazon DocumentDB MCP Server
+               o [173]Use Cases for the Servers
+          + [174]Installation and Setup
+               o [175]Running MCP servers in containers
+               o [176]Getting Started with Cline and Amazon Bedrock
+                    # [177]cline_mcp_settings.json
+               o [178]Getting Started with Cursor
+                    # [179].cursor/mcp.json
+               o [180]Getting Started with Windsurf
+                    # [181]~/.codeium/windsurf/mcp_config.json
+          + [182]Samples
+          + [183]Documentation
+          + [184]Vibe coding
+          + [185]Additional Resources
+          + [186]Security
+          + [187]Contributing
+          + [188]Developer guide
+          + [189]License
+          + [190]Disclaimer
+
+What is the Model Context Protocol (MCP) and how does it work with AWS MCP
+Servers?
+
+     The Model Context Protocol (MCP) is an open protocol that enables
+     seamless integration between LLM applications and external data
+     sources and tools. Whether you're building an AI-powered IDE,
+     enhancing a chat interface, or creating custom AI workflows, MCP
+     provides a standardized way to connect LLMs with the context they
+     need.
+
+     — [191]Model Context Protocol README
+
+   An MCP Server is a lightweight program that exposes specific
+   capabilities through the standardized Model Context Protocol. Host
+   applications (such as chatbots, IDEs, and other AI tools) have MCP
+   clients that maintain 1:1 connections with MCP servers. Common MCP
+   clients include agentic AI coding assistants (like Q Developer, Cline,
+   Cursor, Windsurf) as well as chatbot applications like Claude Desktop,
+   with more clients coming soon. MCP servers can access local data
+   sources and remote services to provide additional context that improves
+   the generated outputs from the models.
+
+   AWS MCP Servers use this protocol to provide AI applications access to
+   AWS documentation, contextual guidance, and best practices. Through the
+   standardized MCP client-server architecture, AWS capabilities become an
+   intelligent extension of your development environment or AI
+   application.
+
+   AWS MCP servers enable enhanced cloud-native development,
+   infrastructure management, and development workflows—making AI-assisted
+   cloud computing more accessible and efficient.
+
+   The Model Context Protocol is an open source project run by Anthropic,
+   PBC. and open to contributions from the entire community. For more
+   information on MCP, you can find further documentation [192]here
+
+Server Sent Events Support Removal
+
+   Important Notice: On May 26th, 2025, Server Sent Events (SSE) support
+   was removed from all MCP servers in their latest major versions. This
+   change aligns with the Model Context Protocol specification's
+   [193]backwards compatibility guidelines.
+
+   We are actively working towards supporting [194]Streamable HTTP, which
+   will provide improved transport capabilities for future versions.
+
+   For applications still requiring SSE support, please use the previous
+   major version of the respective MCP server until you can migrate to
+   alternative transport methods.
+
+Why MCP Servers?
+
+   MCP servers enhance the capabilities of foundation models (FMs) in
+   several key ways:
+     * Improved Output Quality: By providing relevant information directly
+       in the model's context, MCP servers significantly improve model
+       responses for specialized domains like AWS services. This approach
+       reduces hallucinations, provides more accurate technical details,
+       enables more precise code generation, and ensures recommendations
+       align with current AWS best practices and service capabilities.
+     * Access to Latest Documentation: FMs may not have knowledge of
+       recent releases, APIs, or SDKs. MCP servers bridge this gap by
+       pulling in up-to-date documentation, ensuring your AI assistant
+       always works with the latest AWS capabilities.
+     * Workflow Automation: MCP servers convert common workflows into
+       tools that foundation models can use directly. Whether it's CDK,
+       Terraform, or other AWS-specific workflows, these tools enable AI
+       assistants to perform complex tasks with greater accuracy and
+       efficiency.
+     * Specialized Domain Knowledge: MCP servers provide deep, contextual
+       knowledge about AWS services that might not be fully represented in
+       foundation models' training data, enabling more accurate and
+       helpful responses for cloud development tasks.
+
+Available Servers
+
+   This monorepo contains the following MCP servers:
+
+Core MCP Server
+
+   [195]PyPI version
+
+   A server for managing and coordinating other AWS Labs MCP servers.
+     * Automatic MCP Server Management
+     * Planning and guidance to orchestrate AWS Labs MCP Servers
+     * UVX Installation Support
+     * Centralized Configuration
+
+   [196]Learn more | [197]Documentation
+
+AWS Documentation MCP Server
+
+   [198]PyPI version
+
+   A server for accessing AWS documentation and best practices.
+     * Search Documentation using the official AWS search API
+     * Get content recommendations for AWS documentation pages
+     * Convert documentation to markdown format
+
+   [199]Learn more | [200]Documentation
+
+---TRUNCATED FOR BREVITY---
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [347]Terms
+     * [348]Privacy
+     * [349]Security
+     * [350]Status
+     * [351]Docs
+     * [352]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/awslabs/mcp#start-of-content
+   3. https://github.com/login?return_to=https://github.com/awslabs/mcp
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/awslabs/mcp
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=awslabs/mcp
+  57. https://github.com/awslabs/mcp
+  58. https://github.com/awslabs/mcp
+  59. https://github.com/awslabs/mcp
+  60. https://github.com/awslabs
+  61. https://github.com/awslabs/mcp
+  62. https://github.com/login?return_to=/awslabs/mcp
+  63. https://github.com/login?return_to=/awslabs/mcp
+  64. https://github.com/login?return_to=/awslabs/mcp
+  65. https://awslabs.github.io/mcp/
+  66. https://github.com/awslabs/mcp/blob/main/LICENSE
+  67. https://github.com/awslabs/mcp/stargazers
+  68. https://github.com/awslabs/mcp/forks
+  69. https://github.com/awslabs/mcp/branches
+  70. https://github.com/awslabs/mcp/tags
+  71. https://github.com/awslabs/mcp/activity
+  72. https://github.com/login?return_to=/awslabs/mcp
+  73. https://github.com/login?return_to=/awslabs/mcp
+  74. https://github.com/awslabs/mcp
+  75. https://github.com/awslabs/mcp/issues
+  76. https://github.com/awslabs/mcp/pulls
+  77. https://github.com/awslabs/mcp/discussions
+  78. https://github.com/awslabs/mcp/actions
+  79. https://github.com/awslabs/mcp/projects
+  80. https://github.com/awslabs/mcp/security
+  81. https://github.com/awslabs/mcp
+  82. https://github.com/awslabs/mcp/pulse
+  83. https://github.com/awslabs/mcp
+  84. https://github.com/awslabs/mcp/issues
+  85. https://github.com/awslabs/mcp/pulls
+  86. https://github.com/awslabs/mcp/discussions
+  87. https://github.com/awslabs/mcp/actions
+  88. https://github.com/awslabs/mcp/projects
+  89. https://github.com/awslabs/mcp/security
+  90. https://github.com/awslabs/mcp/pulse
+  91. https://github.com/awslabs/mcp/branches
+  92. https://github.com/awslabs/mcp/tags
+  93. https://github.com/awslabs/mcp/commits/main/
+  94. https://github.com/awslabs/mcp/tree/main/.devcontainer
+  95. https://github.com/awslabs/mcp/tree/main/.devcontainer
+  96. https://github.com/awslabs/mcp/tree/main/.github
+  97. https://github.com/awslabs/mcp/tree/main/.github
+  98. https://github.com/awslabs/mcp/tree/main/docs
+  99. https://github.com/awslabs/mcp/tree/main/docs
+ 100. https://github.com/awslabs/mcp/tree/main/samples
+ 101. https://github.com/awslabs/mcp/tree/main/samples
+ 102. https://github.com/awslabs/mcp/tree/main/scripts
+ 103. https://github.com/awslabs/mcp/tree/main/scripts
+ 104. https://github.com/awslabs/mcp/tree/main/src
+ 105. https://github.com/awslabs/mcp/tree/main/src
+ 106. https://github.com/awslabs/mcp/blob/main/.gitignore
+ 107. https://github.com/awslabs/mcp/blob/main/.gitignore
+ 108. https://github.com/awslabs/mcp/blob/main/.pre-commit-config.yaml
+ 109. https://github.com/awslabs/mcp/blob/main/.pre-commit-config.yaml
+ 110. https://github.com/awslabs/mcp/blob/main/.python-version
+ 111. https://github.com/awslabs/mcp/blob/main/.python-version
+ 112. https://github.com/awslabs/mcp/blob/main/.ruff.toml
+ 113. https://github.com/awslabs/mcp/blob/main/.ruff.toml
+ 114. https://github.com/awslabs/mcp/blob/main/.secrets.baseline
+ 115. https://github.com/awslabs/mcp/blob/main/.secrets.baseline
+ 116. https://github.com/awslabs/mcp/blob/main/CODE_OF_CONDUCT.md
+ 117. https://github.com/awslabs/mcp/blob/main/CODE_OF_CONDUCT.md
+ 118. https://github.com/awslabs/mcp/blob/main/CONTRIBUTING.md
+ 119. https://github.com/awslabs/mcp/blob/main/CONTRIBUTING.md
+ 120. https://github.com/awslabs/mcp/blob/main/DESIGN_GUIDELINES.md
+ 121. https://github.com/awslabs/mcp/blob/main/DESIGN_GUIDELINES.md
+ 122. https://github.com/awslabs/mcp/blob/main/DEVELOPER_GUIDE.md
+ 123. https://github.com/awslabs/mcp/blob/main/DEVELOPER_GUIDE.md
+ 124. https://github.com/awslabs/mcp/blob/main/LICENSE
+ 125. https://github.com/awslabs/mcp/blob/main/LICENSE
+ 126. https://github.com/awslabs/mcp/blob/main/NOTICE
+ 127. https://github.com/awslabs/mcp/blob/main/NOTICE
+ 128. https://github.com/awslabs/mcp/blob/main/README.md
+ 129. https://github.com/awslabs/mcp/blob/main/README.md
+ 130. https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
+ 131. https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
+ 132. https://github.com/awslabs/mcp/blob/main/mkdocs.yml
+ 133. https://github.com/awslabs/mcp/blob/main/mkdocs.yml
+ 134. https://github.com/awslabs/mcp
+ 135. https://github.com/awslabs/mcp
+ 136. https://github.com/awslabs/mcp
+ 137. https://github.com/awslabs/mcp
+ 138. https://github.com/awslabs/mcp
+ 139. https://github.com/awslabs/mcp/blob/main/LICENSE
+ 140. https://app.codecov.io/gh/awslabs/mcp
+ 141. https://scorecard.dev/viewer/?uri=github.com/awslabs/mcp
+ 142. https://github.com/awslabs/mcp#aws-mcp-servers
+ 143. https://github.com/awslabs/mcp#table-of-contents
+ 144. https://github.com/awslabs/mcp#what-is-the-model-context-protocol-mcp-and-how-does-it-work-with-aws-mcp-servers
+ 145. https://github.com/awslabs/mcp#why-mcp-servers
+ 146. https://github.com/awslabs/mcp#available-servers
+ 147. https://github.com/awslabs/mcp#core-mcp-server
+ 148. https://github.com/awslabs/mcp#aws-documentation-mcp-server
+ 149. https://github.com/awslabs/mcp#amazon-bedrock-knowledge-bases-retrieval-mcp-server
+ 150. https://github.com/awslabs/mcp#amazon-kendra-index-mcp-server
+ 151. https://github.com/awslabs/mcp#aws-cdk-mcp-server
+ 152. https://github.com/awslabs/mcp#cost-analysis-mcp-server
+ 153. https://github.com/awslabs/mcp#amazon-nova-canvas-mcp-server
+ 154. https://github.com/awslabs/mcp#aws-diagram-mcp-server
+ 155. https://github.com/awslabs/mcp#aws-cloudformation-mcp-server
+ 156. https://github.com/awslabs/mcp#aws-lambda-mcp-server
+ 157. https://github.com/awslabs/mcp#amazon-sns--sqs-mcp-server
+ 158. https://github.com/awslabs/mcp#aws-terraform-mcp-server
+ 159. https://github.com/awslabs/mcp#frontend-mcp-server
+ 160. https://github.com/awslabs/mcp#amazon-elasticache--memorydb-for-valkey-mcp-server
+ 161. https://github.com/awslabs/mcp#amazon-elasticache-for-memcached-mcp-server
+ 162. https://github.com/awslabs/mcp#aws-location-service-mcp-server
+ 163. https://github.com/awslabs/mcp#git-repo-research-mcp-server
+ 164. https://github.com/awslabs/mcp#code-documentation-generation-mcp-server
+ 165. https://github.com/awslabs/mcp#amazon-aurora-postgres-mcp-server
+ 166. https://github.com/awslabs/mcp#amazon-aurora-mysql-mcp-server
+ 167. https://github.com/awslabs/mcp#amazon-mq-mcp-server
+ 168. https://github.com/awslabs/mcp#synthetic-data-mcp-server
+ 169. https://github.com/awslabs/mcp#amazon-aurora-dsql-mcp-server
+ 170. https://github.com/awslabs/mcp#amazon-dynamodb-mcp-server
+ 171. https://github.com/awslabs/mcp#amazon-neptune-mcp-server
+ 172. https://github.com/awslabs/mcp#amazon-documentdb-mcp-server
+ 173. https://github.com/awslabs/mcp#use-cases-for-the-servers
+ 174. https://github.com/awslabs/mcp#installation-and-setup
+ 175. https://github.com/awslabs/mcp#running-mcp-servers-in-containers
+ 176. https://github.com/awslabs/mcp#getting-started-with-cline-and-amazon-bedrock
+ 177. https://github.com/awslabs/mcp#cline_mcp_settingsjson
+ 178. https://github.com/awslabs/mcp#getting-started-with-cursor
+ 179. https://github.com/awslabs/mcp#cursormcpjson
+ 180. https://github.com/awslabs/mcp#getting-started-with-windsurf
+ 181. https://github.com/awslabs/mcp#codeiumwindsurfmcp_configjson
+ 182. https://github.com/awslabs/mcp#samples
+ 183. https://github.com/awslabs/mcp#documentation
+ 184. https://github.com/awslabs/mcp#vibe-coding
+ 185. https://github.com/awslabs/mcp#additional-resources
+ 186. https://github.com/awslabs/mcp#security
+ 187. https://github.com/awslabs/mcp#contributing
+ 188. https://github.com/awslabs/mcp#developer-guide
+ 189. https://github.com/awslabs/mcp#license
+ 190. https://github.com/awslabs/mcp#disclaimer
+ 191. https://github.com/modelcontextprotocol#:~:text=The Model Context,context they need.
+ 192. https://modelcontextprotocol.io/introduction
+ 193. https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#backwards-compatibility
+ 194. https://modelcontextprotocol.io/specification/draft/basic/transports#streamable-http
+ 195. https://pypi.org/project/awslabs.core-mcp-server/
+ 196. https://github.com/awslabs/mcp/blob/main/src/core-mcp-server/README.md
+ 197. https://awslabs.github.io/mcp/servers/core-mcp-server/
+ 198. https://pypi.org/project/awslabs.aws-documentation-mcp-server/
+ 199. https://github.com/awslabs/mcp/blob/main/src/aws-documentation-mcp-server/README.md
+ 200. https://awslabs.github.io/mcp/servers/aws-documentation-mcp-server/
+ 201. https://pypi.org/project/awslabs.amazon-kendra-index-mcp-server/
+ 202. https://github.com/awslabs/mcp/blob/main/src/amazon-kendra-index-mcp-server/README.md
+ 203. https://awslabs.github.io/mcp/servers/amazon-kendra-index-mcp-server/
+ 204. https://pypi.org/project/awslabs.bedrock-kb-retrieval-mcp-server/
+ 205. https://github.com/awslabs/mcp/blob/main/src/bedrock-kb-retrieval-mcp-server/README.md
+ 206. https://awslabs.github.io/mcp/servers/bedrock-kb-retrieval-mcp-server/
+ 207. https://pypi.org/project/awslabs.cdk-mcp-server/
+ 208. https://github.com/awslabs/mcp/blob/main/src/cdk-mcp-server/README.md
+ 209. https://awslabs.github.io/mcp/servers/cdk-mcp-server/
+ 210. https://pypi.org/project/awslabs.cost-analysis-mcp-server/
+ 211. https://github.com/awslabs/mcp/blob/main/src/cost-analysis-mcp-server/README.md
+ 212. https://awslabs.github.io/mcp/servers/cost-analysis-mcp-server/
+ 213. https://pypi.org/project/awslabs.nova-canvas-mcp-server/
+ 214. https://github.com/awslabs/mcp/blob/main/src/nova-canvas-mcp-server/README.md
+ 215. https://awslabs.github.io/mcp/servers/nova-canvas-mcp-server/
+ 216. https://pypi.org/project/awslabs.aws-diagram-mcp-server/
+ 217. https://github.com/awslabs/mcp/blob/main/src/aws-diagram-mcp-server/README.md
+ 218. https://awslabs.github.io/mcp/servers/aws-diagram-mcp-server/
+ 219. https://pypi.org/project/awslabs.cfn-mcp-server/
+ 220. https://github.com/awslabs/mcp/blob/main/src/cfn-mcp-server/README.md
+ 221. https://awslabs.github.io/mcp/servers/cfn-mcp-server/
+ 222. https://pypi.org/project/awslabs.lambda-mcp-server/
+ 223. https://github.com/awslabs/mcp/blob/main/src/lambda-mcp-server/README.md
+ 224. https://awslabs.github.io/mcp/servers/lambda-mcp-server/
+ 225. https://pypi.org/project/awslabs.amazon-sns-sqs-mcp-server/
+ 226. https://github.com/awslabs/mcp/blob/main/src/amazon-sns-sqs-mcp-server/README.md
+ 227. https://awslabs.github.io/mcp/servers/amazon-sns-sqs-mcp-server/
+ 228. https://pypi.org/project/awslabs.terraform-mcp-server/
+ 229. https://github.com/awslabs/mcp/blob/main/src/terraform-mcp-server/README.md
+ 230. https://awslabs.github.io/mcp/servers/terraform-mcp-server/
+ 231. https://pypi.org/project/awslabs.frontend-mcp-server/
+ 232. https://github.com/awslabs/mcp/blob/main/src/frontend-mcp-server/README.md
+ 233. https://awslabs.github.io/mcp/servers/frontend-mcp-server/
+ 234. https://pypi.org/project/awslabs.valkey-mcp-server/
+ 235. https://valkey.io/
+ 236. https://github.com/awslabs/mcp/blob/main/src/valkey-mcp-server/README.md
+ 237. https://awslabs.github.io/mcp/servers/valkey-mcp-server/
+ 238. https://pypi.org/project/awslabs.memcached-mcp-server/
+ 239. https://memcached.org/
+ 240. https://github.com/awslabs/mcp/blob/main/src/memcached-mcp-server/README.md
+ 241. https://awslabs.github.io/mcp/servers/memcached-mcp-server/
+ 242. https://pypi.org/project/awslabs.aws-location-mcp-server/
+ 243. https://github.com/awslabs/mcp/blob/main/src/aws-location-mcp-server/README.md
+ 244. https://pypi.org/project/awslabs.git-repo-research-mcp-server/
+ 245. https://github.com/awslabs/mcp/blob/main/src/git-repo-research-mcp-server/README.md
+ 246. https://awslabs.github.io/mcp/servers/git-repo-research-mcp-server/
+ 247. https://pypi.org/project/awslabs.code-doc-gen-mcp-server/
+ 248. https://github.com/awslabs/mcp/blob/main/src/code-doc-gen-mcp-server/README.md
+ 249. https://awslabs.github.io/mcp/servers/code-doc-gen-mcp-server/
+ 250. https://pypi.org/project/awslabs.postgres-mcp-server/
+ 251. https://github.com/awslabs/mcp/blob/main/src/postgres-mcp-server/README.md
+ 252. https://awslabs.github.io/mcp/servers/postgres-mcp-server/
+ 253. https://pypi.org/project/awslabs.mysql-mcp-server/
+ 254. https://github.com/awslabs/mcp/blob/main/src/mysql-mcp-server/README.md
+ 255. https://awslabs.github.io/mcp/servers/mysql-mcp-server/
+ 256. https://pypi.org/project/awslabs.amazon-neptune-mcp-server/
+ 257. https://github.com/awslabs/mcp/blob/main/src/amazon-neptune-mcp-server/README.md
+ 258. https://awslabs.github.io/mcp/servers/amazon-neptune-mcp-server/
+ 259. https://pypi.org/project/awslabs.documentdb-mcp-server/
+ 260. https://github.com/awslabs/mcp/blob/main/src/documentdb-mcp-server/README.md
+ 261. https://awslabs.github.io/mcp/servers/documentdb-mcp-server/
+ 262. https://pypi.org/project/awslabs.amazon-mq-mcp-server/
+ 263. https://github.com/awslabs/mcp/blob/main/src/amazon-mq-mcp-server/README.md
+ 264. https://awslabs.github.io/mcp/servers/amazon-mq-mcp-server/
+ 265. https://pypi.org/project/awslabs.syntheticdata-mcp-server/
+ 266. https://github.com/awslabs/mcp/blob/main/src/syntheticdata-mcp-server/README.md
+ 267. https://awslabs.github.io/mcp/servers/syntheticdata-mcp-server/
+ 268. https://pypi.org/project/awslabs.aurora-dsql-mcp-server/
+ 269. https://github.com/awslabs/mcp/blob/main/src/aurora-dsql-mcp-server/README.md
+ 270. https://awslabs.github.io/mcp/servers/aurora-dsql-mcp-server/
+ 271. https://pypi.org/project/awslabs.dynamodb-mcp-server/
+ 272. https://github.com/awslabs/mcp/blob/main/src/dynamodb-mcp-server/README.md
+ 273. https://awslabs.github.io/mcp/servers/dynamodb-mcp-server/
+ 274. https://github.com/awslabs/mcp/blob/main/src/mcp-lambda-handler/README.md
+ 275. https://docs.astral.sh/uv/getting-started/installation/
+ 276. https://aws.amazon.com/bedrock/pricing/
+ 277. https://docs.aws.amazon.com/bedrock/latest/userguide/model-access-modify.html
+ 278. https://docs.astral.sh/uv/getting-started/installation/
+ 279. https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
+ 280. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/install-cline-extension.png
+ 281. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/select-mcp-servers.png
+ 282. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/configure-mcp-servers.png
+ 283. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/mcp-servers-installed.png
+ 284. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/cline-chat-interface.png
+ 285. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/cline-select-bedrock.png
+ 286. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/cline-select-aws-profile.png
+ 287. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/cline-api-provider-filled.png
+ 288. https://github.com/awslabs/mcp/blob/main/docs/images/root-readme/cline-custom-instructions.png
+ 289. https://docs.astral.sh/uv/getting-started/installation/
+ 290. https://docs.astral.sh/uv/getting-started/installation/
+ 291. https://github.com/awslabs/mcp/blob/main/samples
+ 292. https://awslabs.github.io/mcp/
+ 293. https://awslabs.github.io/mcp/servers/core-mcp-server/
+ 294. https://awslabs.github.io/mcp/servers/bedrock-kb-retrieval-mcp-server/
+ 295. https://awslabs.github.io/mcp/servers/cdk-mcp-server/
+ 296. https://awslabs.github.io/mcp/servers/cost-analysis-mcp-server/
+ 297. https://awslabs.github.io/mcp/servers/nova-canvas-mcp-server/
+ 298. https://awslabs.github.io/mcp/servers/aws-diagram-mcp-server/
+ 299. https://awslabs.github.io/mcp/servers/valkey-mcp-server/
+ 300. https://awslabs.github.io/mcp/servers/memcached-mcp-server/
+ 301. https://awslabs.github.io/mcp/servers/valkey-mcp-server/
+ 302. https://awslabs.github.io/mcp/servers/memcached-mcp-server/
+ 303. https://awslabs.github.io/mcp/servers/git-repo-research-mcp-server/
+ 304. https://awslabs.github.io/mcp/servers/cfn-mcp-server/
+ 305. https://en.wikipedia.org/wiki/Vibe_coding
+ 306. https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md
+ 307. https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/
+ 308. https://www.youtube.com/watch?v=qXGQQRMrcz0
+ 309. https://github.com/awslabs/mcp/blob/main/CONTRIBUTING.md#security-issue-notifications
+ 310. https://github.com/awslabs/mcp/graphs/contributors
+ 311. https://github.com/awslabs/mcp/blob/main/CONTRIBUTING.md
+ 312. https://github.com/awslabs/mcp/blob/main/DEVELOPER_GUIDE.md
+ 313. https://github.com/awslabs/mcp/blob/main/DESIGN_GUIDELINES.md
+ 314. https://awslabs.github.io/mcp/
+ 315. https://github.com/topics/aws
+ 316. https://github.com/topics/mcp
+ 317. https://github.com/topics/mcp-servers
+ 318. https://github.com/topics/mcp-server
+ 319. https://github.com/topics/modelcontextprotocol
+ 320. https://github.com/topics/mcp-client
+ 321. https://github.com/topics/mcp-tools
+ 322. https://github.com/topics/mcp-host
+ 323. https://github.com/topics/mcp-clients
+ 324. https://github.com/awslabs/mcp#readme-ov-file
+ 325. https://github.com/awslabs/mcp#Apache-2.0-1-ov-file
+ 326. https://github.com/awslabs/mcp#coc-ov-file
+ 327. https://github.com/awslabs/mcp#security-ov-file
+ 328. https://github.com/awslabs/mcp
+ 329. https://github.com/awslabs/mcp/activity
+ 330. https://github.com/awslabs/mcp/custom-properties
+ 331. https://github.com/awslabs/mcp/stargazers
+ 332. https://github.com/awslabs/mcp/watchers
+ 333. https://github.com/awslabs/mcp/forks
+ 334. https://github.com/contact/report-content?content_url=https://github.com/awslabs/mcp&report=awslabs+(user)
+ 335. https://github.com/awslabs/mcp/releases
+ 336. https://github.com/awslabs/mcp/releases/tag/2025.5.2025271625
+ 337. https://github.com/awslabs/mcp/releases
+ 338. https://github.com/orgs/awslabs/packages?repo_name=mcp
+ 339. https://github.com/awslabs/mcp
+ 340. https://github.com/awslabs/mcp/graphs/contributors
+ 341. https://github.com/awslabs/mcp
+ 342. https://github.com/awslabs/mcp/graphs/contributors
+ 343. https://github.com/awslabs/mcp/search?l=python
+ 344. https://github.com/awslabs/mcp/search?l=dockerfile
+ 345. https://github.com/awslabs/mcp/search?l=shell
+ 346. https://github.com/awslabs/mcp/search?l=html
+ 347. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 348. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 349. https://github.com/security
+ 350. https://www.githubstatus.com/
+ 351. https://docs.github.com/
+ 352. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 354. https://github.com/
+ 355. https://github.com/awslabs/mcp/branches
+ 356. https://github.com/awslabs/mcp/tags
+ 357. https://github.com/awslabs/mcp/commits/main/
+ 358. https://github.com/awslabs/mcp#aws-mcp-servers
+ 359. https://github.com/awslabs/mcp#table-of-contents
+ 360. https://github.com/awslabs/mcp#what-is-the-model-context-protocol-mcp-and-how-does-it-work-with-aws-mcp-servers
+ 361. https://github.com/awslabs/mcp#server-sent-events-support-removal
+ 362. https://github.com/awslabs/mcp#why-mcp-servers
+ 363. https://github.com/awslabs/mcp#available-servers
+ 364. https://github.com/awslabs/mcp#core-mcp-server
+ 365. https://github.com/awslabs/mcp#aws-documentation-mcp-server
+ 366. https://github.com/awslabs/mcp#amazon-kendra-index-mcp-server
+ 367. https://github.com/awslabs/mcp#amazon-bedrock-knowledge-bases-retrieval-mcp-server
+ 368. https://github.com/awslabs/mcp#aws-cdk-mcp-server
+ 369. https://github.com/awslabs/mcp#cost-analysis-mcp-server
+ 370. https://github.com/awslabs/mcp#amazon-nova-canvas-mcp-server
+ 371. https://github.com/awslabs/mcp#aws-diagram-mcp-server
+ 372. https://github.com/awslabs/mcp#aws-cloudformation-mcp-server
+ 373. https://github.com/awslabs/mcp#aws-lambda-mcp-server
+ 374. https://github.com/awslabs/mcp#amazon-sns--sqs-mcp-server
+ 375. https://github.com/awslabs/mcp#aws-terraform-mcp-server
+ 376. https://github.com/awslabs/mcp#frontend-mcp-server
+ 377. https://github.com/awslabs/mcp#amazon-elasticache--memorydb-for-valkey-mcp-server
+ 378. https://github.com/awslabs/mcp#amazon-elasticache-for-memcached-mcp-server
+ 379. https://github.com/awslabs/mcp#aws-location-service-mcp-server
+ 380. https://github.com/awslabs/mcp#git-repo-research-mcp-server
+ 381. https://github.com/awslabs/mcp#code-documentation-generation-mcp-server
+ 382. https://github.com/awslabs/mcp#amazon-aurora-postgres-mcp-server
+ 383. https://github.com/awslabs/mcp#amazon-aurora-mysql-mcp-server
+ 384. https://github.com/awslabs/mcp#amazon-neptune-mcp-server
+ 385. https://github.com/awslabs/mcp#amazon-documentdb-mcp-server
+ 386. https://github.com/awslabs/mcp#amazon-mq-mcp-server
+ 387. https://github.com/awslabs/mcp#synthetic-data-mcp-server
+ 388. https://github.com/awslabs/mcp#amazon-aurora-dsql-mcp-server
+ 389. https://github.com/awslabs/mcp#amazon-dynamodb-mcp-server
+ 390. https://github.com/awslabs/mcp#mcp-aws-lambda-handler-module
+ 391. https://github.com/awslabs/mcp#use-cases-for-the-servers
+ 392. https://github.com/awslabs/mcp#installation-and-setup
+ 393. https://github.com/awslabs/mcp#running-mcp-servers-in-containers
+ 394. https://github.com/awslabs/mcp#getting-started-with-cline-and-amazon-bedrock
+ 395. https://github.com/awslabs/mcp#cline_mcp_settingsjson
+ 396. https://github.com/awslabs/mcp#getting-started-with-cursor
+ 397. https://github.com/awslabs/mcp#cursormcpjson
+ 398. https://github.com/awslabs/mcp#getting-started-with-windsurf
+ 399. https://github.com/awslabs/mcp#codeiumwindsurfmcp_configjson
+ 400. https://github.com/awslabs/mcp#samples
+ 401. https://github.com/awslabs/mcp#documentation
+ 402. https://github.com/awslabs/mcp#vibe-coding
+ 403. https://github.com/awslabs/mcp#additional-resources
+ 404. https://github.com/awslabs/mcp#security
+ 405. https://github.com/awslabs/mcp#contributing
+ 406. https://github.com/awslabs/mcp#developer-guide
+ 407. https://github.com/awslabs/mcp#license
+ 408. https://github.com/awslabs/mcp#disclaimer
+ 409. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

@@ -1,0 +1,446 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]punkpeye / [61]awesome-mcp-servers Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 3.9k
+     * [64]Star 51.7k
+
+   A collection of MCP servers.
+   [65]glama.ai/mcp/servers
+
+License
+
+   [66]MIT license
+   [67]51.7k stars [68]3.9k forks [69]Branches [70]Tags [71]Activity
+   [72]Star
+   [73]Notifications You must be signed in to change notification settings
+
+     * [74]Code
+     * [75]Issues 19
+     * [76]Pull requests 86
+     * [77]Actions
+     * [78]Projects 0
+     * [79]Security
+
+Uh oh!
+       There was an error while loading. [80]Please reload this page.
+     * [81]Insights
+
+   (BUTTON) Additional navigation options
+     * [82]Code
+     * [83]Issues
+     * [84]Pull requests
+     * [85]Actions
+     * [86]Projects
+     * [87]Security
+     * [88]Insights
+
+punkpeye/awesome-mcp-servers
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [89]Branches[90]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+           Name        Name
+   Last commit message
+     Last commit date
+
+Latest commit
+
+
+History
+
+   [91]1,919 Commits
+   [92]CONTRIBUTING.md
+   [93]CONTRIBUTING.md
+
+
+   [94]LICENSE
+   [95]LICENSE
+
+
+   [96]README-ja.md
+   [97]README-ja.md
+
+
+   [98]README-ko.md
+   [99]README-ko.md
+
+
+   [100]README-pt_BR.md
+   [101]README-pt_BR.md
+
+
+   [102]README-th.md
+   [103]README-th.md
+
+
+   [104]README-zh.md
+   [105]README-zh.md
+
+
+   [106]README-zh_TW.md
+   [107]README-zh_TW.md
+
+
+   [108]README.md
+   [109]README.md
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [110]README
+     * [111]MIT license
+
+   (BUTTON)
+
+Awesome MCP Servers [112]Awesome
+
+   [113]ไทย [114]English [115]繁體中文 [116]简体中文 [117]日本語 [118]한국어
+   [119]Português Brasileiro [120]Discord [121]Subreddit subscribers
+
+   A curated list of awesome Model Context Protocol (MCP) servers.
+     * [122]What is MCP?
+     * [123]Clients
+     * [124]Tutorials
+     * [125]Community
+     * [126]Legend
+     * [127]Server Implementations
+     * [128]Frameworks
+     * [129]Tips & Tricks
+
+What is MCP?
+
+   [130]MCP is an open protocol that enables AI models to securely
+   interact with local and remote resources through standardized server
+   implementations. This list focuses on production-ready and experimental
+   MCP servers that extend AI capabilities through file access, database
+   connections, API integrations, and other contextual services.
+
+Clients
+
+   Checkout [131]awesome-mcp-clients and [132]glama.ai/mcp/clients.
+
+   Tip
+
+   [133]Glama Chat is a multi-modal AI client with MCP support & [134]AI
+   gateway.
+
+Tutorials
+
+     * [135]Model Context Protocol (MCP) Quickstart
+     * [136]Setup Claude Desktop App to Use a SQLite Database
+
+Community
+
+     * [137]r/mcp Reddit
+     * [138]Discord Server
+
+Legend
+
+     * 🎖️ – official implementation
+     * programming language
+          + 🐍 – Python codebase
+          + 📇 – TypeScript (or JavaScript) codebase
+          + 🏎️ – Go codebase
+          + 🦀 – Rust codebase
+          + #️⃣ - C# Codebase
+          + ☕ - Java codebase
+     * scope
+          + ☁️ - Cloud Service
+          + 🏠 - Local Service
+          + 📟 - Embedded Systems
+     * operating system
+          + 🍎 – For macOS
+          + 🪟 – For Windows
+          + 🐧 - For Linux
+
+   Note
+
+   Confused about Local 🏠 vs Cloud ☁️?
+     * Use local when MCP server is talking to a locally installed
+       software, e.g. taking control over Chrome browser.
+     * Use network when MCP server is talking to remote APIs, e.g. weather
+       API.
+
+Server Implementations
+
+   Note
+
+   We now have a [139]web-based directory that is synced with the
+   repository.
+     * 🔗 - [140]Aggregators
+     * 🎨 - [141]Art & Culture
+     * 📂 - [142]Browser Automation
+     * ☁️ - [143]Cloud Platforms
+     * 👨‍💻 - [144]Code Execution
+     * 🤖 - [145]Coding Agents
+     * 🖥️ - [146]Command Line
+     * 💬 - [147]Communication
+     * 👤 - [148]Customer Data Platforms
+     * 🗄️ - [149]Databases
+     * 📊 - [150]Data Platforms
+     * 🚚 - [151]Delivery
+     * 🛠️ - [152]Developer Tools
+     * 🧮 - [153]Data Science Tools
+     * 📟 - [154]Embedded system
+     * 📂 - [155]File Systems
+     * 💰 - [156]Finance & Fintech
+     * 🎮 - [157]Gaming
+     * 🧠 - [158]Knowledge & Memory
+     * 🗺️ - [159]Location Services
+     * 🎯 - [160]Marketing
+     * 📊 - [161]Monitoring
+     * 🎥 - [162]Multimedia Process
+     * 🔎 - [163]Search & Data Extraction
+     * 🔒 - [164]Security
+     * 🌐 - [165]Social Media
+     * 🏃 - [166]Sports
+     * 🎧 - [167]Support & Service Management
+     * 🌎 - [168]Translation Services
+     * 🎧 - [169]Text-to-Speech
+     * 🚆 - [170]Travel & Transportation
+     * 🔄 - [171]Version Control
+     * 🛠️ - [172]Other Tools and Integrations
+
+🔗 Aggregators
+
+   Servers for accessing many apps and tools through a single MCP server.
+     * [173]julien040/anyquery 🏎️ 🏠 ☁️ - Query more than 40 apps with one
+       binary using SQL. It can also connect to your PostgreSQL, MySQL, or
+       SQLite compatible database. Local-first and private by design.
+     * [174]metatool-ai/metatool-app 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one
+       unified middleware MCP server that manages your MCP connections
+       with GUI.
+     * [175]mindsdb/mindsdb - Connect and unify data across various
+       platforms and databases with [176]MindsDB as a single MCP server.
+     * [177]glenngillen/mcpmcp-server ☁️ 📇 🍎 🪟 🐧 - A list of MCP servers
+       so you can ask your client which servers you can use to improve
+       your daily workflow.
+     * [178]wegotdocs/open-mcp 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP
+       server in 10 seconds and add it to the open source registry:
+       [179]https://open-mcp.org
+     * [180]PipedreamHQ/pipedream ☁️ 🏠 - Connect with 2,500 APIs with
+       8,000+ prebuilt tools, and manage servers for your users, in your
+       own app.
+     * [181]VeriTeknik/pluggedin-mcp-proxy 📇 🏠 - A comprehensive proxy
+       server that combines multiple MCP servers into a single interface
+       with extensive visibility features. It provides discovery and
+       management of tools, prompts, resources, and templates across
+       servers, plus a playground for debugging when building MCP servers.
+     * [182]tigranbs/mcgravity 📇 🏠 - A proxy tool for composing multiple
+       MCP servers into one unified endpoint. Scale your AI tools by load
+       balancing requests across multiple MCP servers, similar to how
+       Nginx works for web servers.
+     * [183]MetaMCP 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware
+       MCP server that manages your MCP connections with GUI.
+     * [184]WayStation-ai/mcp ☁️ 🍎 🪟 - Seamlessly and securely connect
+       Claude Desktop and other MCP hosts to your favorite apps (Notion,
+       Slack, Monday, Airtable, etc.). Takes less than 90 secs.
+     * [185]sxhxliang/mcp-access-point 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service
+       into an MCP server in one click without making any code changes.
+     * [186]hamflx/imagen3-mcp 📇 🏠 🪟 🍎 🐧 - A powerful image generation
+       tool using Google's Imagen 3.0 API through MCP. Generate
+       high-quality images from text prompts with advanced photography,
+       artistic, and photorealistic controls.
+     * [187]SureScaleAI/openai-gpt-image-mcp 📇 ☁️ - OpenAI GPT image
+       generation/editing MCP server.
+
+--- TRUNCATED CONTENT FOR BREVITY ---
+
+Frameworks
+
+   Note
+
+   More frameworks, utilities, and other developer tools are available at
+   [869]https://github.com/punkpeye/awesome-mcp-devtools
+     * [870]FastMCP 🐍 - A high-level framework for building MCP servers in
+       Python
+     * [871]FastMCP 📇 - A high-level framework for building MCP servers in
+       TypeScript
+
+Tips and Tricks
+
+Official prompt to inform LLMs how to use MCP
+
+   Want to ask Claude about Model Context Protocol?
+
+   Create a Project, then add this file to it:
+
+   [872]https://modelcontextprotocol.io/llms-full.txt
+
+   Now Claude can answer questions about writing MCP servers and how they
+   work
+     * [873]https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask
+       _claude_about_model_context_protocol/
+
+Star History
+
+   [874]Star History Chart
+
+About
+
+   A collection of MCP servers.
+   [875]glama.ai/mcp/servers
+
+Topics
+
+   [876]ai [877]mcp
+
+Resources
+
+   [878]Readme
+
+License
+
+   [879]MIT license

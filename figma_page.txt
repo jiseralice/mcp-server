@@ -1,0 +1,581 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]GLips / [61]Figma-Context-MCP Public
+     *
+
+Uh oh!
+       There was an error while loading. [62]Please reload this page.
+     * [63]Notifications You must be signed in to change notification
+       settings
+     * [64]Fork 595
+     * [65]Star 7.3k
+
+   MCP server to provide Figma layout information to AI coding agents like
+   Cursor
+   [66]www.framelink.ai/
+
+License
+
+   [67]MIT license
+   [68]7.3k stars [69]595 forks [70]Branches [71]Tags [72]Activity
+   [73]Star
+   [74]Notifications You must be signed in to change notification settings
+
+     * [75]Code
+     * [76]Issues 17
+     * [77]Pull requests 11
+     * [78]Discussions
+     * [79]Actions
+     * [80]Projects 1
+     * [81]Security
+
+Uh oh!
+       There was an error while loading. [82]Please reload this page.
+     * [83]Insights
+
+   (BUTTON) Additional navigation options
+     * [84]Code
+     * [85]Issues
+     * [86]Pull requests
+     * [87]Discussions
+     * [88]Actions
+     * [89]Projects
+     * [90]Security
+     * [91]Insights
+
+GLips/Figma-Context-MCP
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [92]Branches[93]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+          Name        Name
+   Last commit message
+    Last commit date
+
+Latest commit
+
+
+History
+
+   [94]101 Commits
+   [95].changeset
+   [96].changeset
+
+
+   [97].github
+   [98].github
+
+
+   [99]docs
+   [100]docs
+
+
+   [101]src
+   [102]src
+
+
+   [103].env.example
+   [104].env.example
+
+
+   [105].eslintrc
+   [106].eslintrc
+
+
+   [107].gitignore
+   [108].gitignore
+
+
+   [109].nvmrc
+   [110].nvmrc
+
+
+   [111].prettierrc
+   [112].prettierrc
+
+
+   [113]CHANGELOG.md
+   [114]CHANGELOG.md
+
+
+   [115]LICENSE
+   [116]LICENSE
+
+
+   [117]README.ja.md
+   [118]README.ja.md
+
+
+   [119]README.ko.md
+   [120]README.ko.md
+
+
+   [121]README.md
+   [122]README.md
+
+
+   [123]README.zh.md
+   [124]README.zh.md
+
+
+   [125]jest.config.js
+   [126]jest.config.js
+
+
+   [127]package.json
+   [128]package.json
+
+
+   [129]pnpm-lock.yaml
+   [130]pnpm-lock.yaml
+
+
+   [131]tsconfig.json
+   [132]tsconfig.json
+
+
+   [133]tsup.config.ts
+   [134]tsup.config.ts
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [135]README
+     * [136]MIT license
+
+   (BUTTON)
+
+   [137]Framelink
+
+Framelink Figma MCP Server
+
+🌐 Available in: [138]한국어 (Korean) | [139]日本語 (Japanese) | [140]中文
+                                  (Chinese)
+
+Give your coding agent access to your Figma data.
+Implement designs in any framework in one-shot.
+
+             [141]weekly downloads [142]MIT License [143]Discord
+                                [144]Twitter
+
+   Give [145]Cursor and other AI-powered coding tools access to your Figma
+   files with this [146]Model Context Protocol server.
+
+   When Cursor has access to Figma design data, it's way better at
+   one-shotting designs accurately than alternative approaches like
+   pasting screenshots.
+
+[147]See quickstart instructions →
+
+Demo
+
+   [148]Watch a demo of building a UI in Cursor with Figma design data
+
+   [149]Watch the video
+
+How it works
+
+    1. Open your IDE's chat (e.g. agent mode in Cursor).
+    2. Paste a link to a Figma file, frame, or group.
+    3. Ask Cursor to do something with the Figma file—e.g. implement the
+       design.
+    4. Cursor will fetch the relevant metadata from Figma and use it to
+       write your code.
+
+   This MCP server is specifically designed for use with Cursor. Before
+   responding with context from the [150]Figma API, it simplifies and
+   translates the response so only the most relevant layout and styling
+   information is provided to the model.
+
+   Reducing the amount of context provided to the model helps make the AI
+   more accurate and the responses more relevant.
+
+---TRUNCATED FOR BREVITY---
+
+Languages
+
+     * [180]TypeScript 97.6%
+     * [181]JavaScript 2.4%
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [182]Terms
+     * [183]Privacy
+     * [184]Security
+     * [185]Status
+     * [186]Docs
+     * [187]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/GLips/Figma-Context-MCP#start-of-content
+   3. https://github.com/login?return_to=https://github.com/GLips/Figma-Context-MCP
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/GLips/Figma-Context-MCP
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=GLips/Figma-Context-MCP
+  57. https://github.com/GLips/Figma-Context-MCP
+  58. https://github.com/GLips/Figma-Context-MCP
+  59. https://github.com/GLips/Figma-Context-MCP
+  60. https://github.com/GLips
+  61. https://github.com/GLips/Figma-Context-MCP
+  62. https://github.com/GLips/Figma-Context-MCP
+  63. https://github.com/login?return_to=/GLips/Figma-Context-MCP
+  64. https://github.com/login?return_to=/GLips/Figma-Context-MCP
+  65. https://github.com/login?return_to=/GLips/Figma-Context-MCP
+  66. https://www.framelink.ai/
+  67. https://github.com/GLips/Figma-Context-MCP/blob/main/LICENSE
+  68. https://github.com/GLips/Figma-Context-MCP/stargazers
+  69. https://github.com/GLips/Figma-Context-MCP/forks
+  70. https://github.com/GLips/Figma-Context-MCP/branches
+  71. https://github.com/GLips/Figma-Context-MCP/tags
+  72. https://github.com/GLips/Figma-Context-MCP/activity
+  73. https://github.com/login?return_to=/GLips/Figma-Context-MCP
+  74. https://github.com/login?return_to=/GLips/Figma-Context-MCP
+  75. https://github.com/GLips/Figma-Context-MCP
+  76. https://github.com/GLips/Figma-Context-MCP/issues
+  77. https://github.com/GLips/Figma-Context-MCP/pulls
+  78. https://github.com/GLips/Figma-Context-MCP/discussions
+  79. https://github.com/GLips/Figma-Context-MCP/actions
+  80. https://github.com/GLips/Figma-Context-MCP/projects
+  81. https://github.com/GLips/Figma-Context-MCP/security
+  82. https://github.com/GLips/Figma-Context-MCP
+  83. https://github.com/GLips/Figma-Context-MCP/pulse
+  84. https://github.com/GLips/Figma-Context-MCP
+  85. https://github.com/GLips/Figma-Context-MCP/issues
+  86. https://github.com/GLips/Figma-Context-MCP/pulls
+  87. https://github.com/GLips/Figma-Context-MCP/discussions
+  88. https://github.com/GLips/Figma-Context-MCP/actions
+  89. https://github.com/GLips/Figma-Context-MCP/projects
+  90. https://github.com/GLips/Figma-Context-MCP/security
+  91. https://github.com/GLips/Figma-Context-MCP/pulse
+  92. https://github.com/GLips/Figma-Context-MCP/branches
+  93. https://github.com/GLips/Figma-Context-MCP/tags
+  94. https://github.com/GLips/Figma-Context-MCP/commits/main/
+  95. https://github.com/GLips/Figma-Context-MCP/tree/main/.changeset
+  96. https://github.com/GLips/Figma-Context-MCP/tree/main/.changeset
+  97. https://github.com/GLips/Figma-Context-MCP/tree/main/.github
+  98. https://github.com/GLips/Figma-Context-MCP/tree/main/.github
+  99. https://github.com/GLips/Figma-Context-MCP/tree/main/docs
+ 100. https://github.com/GLips/Figma-Context-MCP/tree/main/docs
+ 101. https://github.com/GLips/Figma-Context-MCP/tree/main/src
+ 102. https://github.com/GLips/Figma-Context-MCP/tree/main/src
+ 103. https://github.com/GLips/Figma-Context-MCP/blob/main/.env.example
+ 104. https://github.com/GLips/Figma-Context-MCP/blob/main/.env.example
+ 105. https://github.com/GLips/Figma-Context-MCP/blob/main/.eslintrc
+ 106. https://github.com/GLips/Figma-Context-MCP/blob/main/.eslintrc
+ 107. https://github.com/GLips/Figma-Context-MCP/blob/main/.gitignore
+ 108. https://github.com/GLips/Figma-Context-MCP/blob/main/.gitignore
+ 109. https://github.com/GLips/Figma-Context-MCP/blob/main/.nvmrc
+ 110. https://github.com/GLips/Figma-Context-MCP/blob/main/.nvmrc
+ 111. https://github.com/GLips/Figma-Context-MCP/blob/main/.prettierrc
+ 112. https://github.com/GLips/Figma-Context-MCP/blob/main/.prettierrc
+ 113. https://github.com/GLips/Figma-Context-MCP/blob/main/CHANGELOG.md
+ 114. https://github.com/GLips/Figma-Context-MCP/blob/main/CHANGELOG.md
+ 115. https://github.com/GLips/Figma-Context-MCP/blob/main/LICENSE
+ 116. https://github.com/GLips/Figma-Context-MCP/blob/main/LICENSE
+ 117. https://github.com/GLips/Figma-Context-MCP/blob/main/README.ja.md
+ 118. https://github.com/GLips/Figma-Context-MCP/blob/main/README.ja.md
+ 119. https://github.com/GLips/Figma-Context-MCP/blob/main/README.ko.md
+ 120. https://github.com/GLips/Figma-Context-MCP/blob/main/README.ko.md
+ 121. https://github.com/GLips/Figma-Context-MCP/blob/main/README.md
+ 122. https://github.com/GLips/Figma-Context-MCP/blob/main/README.md
+ 123. https://github.com/GLips/Figma-Context-MCP/blob/main/README.zh.md
+ 124. https://github.com/GLips/Figma-Context-MCP/blob/main/README.zh.md
+ 125. https://github.com/GLips/Figma-Context-MCP/blob/main/jest.config.js
+ 126. https://github.com/GLips/Figma-Context-MCP/blob/main/jest.config.js
+ 127. https://github.com/GLips/Figma-Context-MCP/blob/main/package.json
+ 128. https://github.com/GLips/Figma-Context-MCP/blob/main/package.json
+ 129. https://github.com/GLips/Figma-Context-MCP/blob/main/pnpm-lock.yaml
+ 130. https://github.com/GLips/Figma-Context-MCP/blob/main/pnpm-lock.yaml
+ 131. https://github.com/GLips/Figma-Context-MCP/blob/main/tsconfig.json
+ 132. https://github.com/GLips/Figma-Context-MCP/blob/main/tsconfig.json
+ 133. https://github.com/GLips/Figma-Context-MCP/blob/main/tsup.config.ts
+ 134. https://github.com/GLips/Figma-Context-MCP/blob/main/tsup.config.ts
+ 135. https://github.com/GLips/Figma-Context-MCP
+ 136. https://github.com/GLips/Figma-Context-MCP
+ 137. https://www.framelink.ai/?utm_source=github&utm_medium=referral&utm_campaign=readme
+ 138. https://github.com/GLips/Figma-Context-MCP/blob/main/README.ko.md
+ 139. https://github.com/GLips/Figma-Context-MCP/blob/main/README.ja.md
+ 140. https://github.com/GLips/Figma-Context-MCP/blob/main/README.zh.md
+ 141. https://npmcharts.com/compare/figma-developer-mcp?interval=30
+ 142. https://github.com/GLips/Figma-Context-MCP/blob/main/LICENSE
+ 143. https://framelink.ai/discord
+ 144. https://twitter.com/glipsman
+ 145. https://cursor.sh/
+ 146. https://modelcontextprotocol.io/introduction
+ 147. https://www.framelink.ai/docs/quickstart?utm_source=github&utm_medium=referral&utm_campaign=readme
+ 148. https://youtu.be/6G9yb-LrEqg
+ 149. https://youtu.be/6G9yb-LrEqg
+ 150. https://www.figma.com/developers/api
+ 151. https://help.figma.com/hc/en-us/articles/8085703771159-Manage-personal-access-tokens
+ 152. https://www.framelink.ai/docs/quickstart?utm_source=github&utm_medium=referral&utm_campaign=readme
+ 153. https://star-history.com/#GLips/Figma-Context-MCP
+ 154. https://framelink.ai/?utm_source=github&utm_medium=referral&utm_campaign=readme
+ 155. https://framelink.ai/?ref=framelink-mcp&utm_source=github&utm_medium=referral&utm_campaign=framelink-mcp
+ 156. https://www.framelink.ai/
+ 157. https://github.com/topics/typescript
+ 158. https://github.com/topics/ai
+ 159. https://github.com/topics/mcp
+ 160. https://github.com/topics/cursor
+ 161. https://github.com/topics/figma
+ 162. https://github.com/GLips/Figma-Context-MCP#readme-ov-file
+ 163. https://github.com/GLips/Figma-Context-MCP#MIT-1-ov-file
+ 164. https://github.com/GLips/Figma-Context-MCP
+ 165. https://github.com/GLips/Figma-Context-MCP/activity
+ 166. https://github.com/GLips/Figma-Context-MCP/stargazers
+ 167. https://github.com/GLips/Figma-Context-MCP/watchers
+ 168. https://github.com/GLips/Figma-Context-MCP/forks
+ 169. https://github.com/contact/report-content?content_url=https://github.com/GLips/Figma-Context-MCP&report=GLips+(user)
+ 170. https://github.com/GLips/Figma-Context-MCP/releases
+ 171. https://github.com/GLips/Figma-Context-MCP/releases/tag/v0.3.1
+ 172. https://github.com/GLips/Figma-Context-MCP/releases
+ 173. https://github.com/GLips/Figma-Context-MCP
+ 174. https://github.com/sponsors
+ 175. https://github.com/users/GLips/packages?repo_name=Figma-Context-MCP
+ 176. https://github.com/GLips/Figma-Context-MCP
+ 177. https://github.com/GLips/Figma-Context-MCP/graphs/contributors
+ 178. https://github.com/GLips/Figma-Context-MCP
+ 179. https://github.com/GLips/Figma-Context-MCP/graphs/contributors
+ 180. https://github.com/GLips/Figma-Context-MCP/search?l=typescript
+ 181. https://github.com/GLips/Figma-Context-MCP/search?l=javascript
+ 182. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 183. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 184. https://github.com/security
+ 185. https://www.githubstatus.com/
+ 186. https://docs.github.com/
+ 187. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 189. https://github.com/
+ 190. https://github.com/GLips/Figma-Context-MCP/branches
+ 191. https://github.com/GLips/Figma-Context-MCP/tags
+ 192. https://github.com/GLips/Figma-Context-MCP/commits/main/
+ 193. https://github.com/GLips/Figma-Context-MCP#framelink-figma-mcp-server
+ 194. https://github.com/GLips/Figma-Context-MCP#give-your-coding-agent-access-to-your-figma-dataimplement-designs-in-any-framework-in-one-shot
+ 195. https://github.com/GLips/Figma-Context-MCP#see-quickstart-instructions-
+ 196. https://github.com/GLips/Figma-Context-MCP#demo
+ 197. https://github.com/GLips/Figma-Context-MCP#how-it-works
+ 198. https://github.com/GLips/Figma-Context-MCP#getting-started
+ 199. https://github.com/GLips/Figma-Context-MCP#macos--linux
+ 200. https://github.com/GLips/Figma-Context-MCP#windows
+ 201. https://github.com/GLips/Figma-Context-MCP#star-history
+ 202. https://github.com/GLips/Figma-Context-MCP#learn-more
+ 203. https://github.com/GLips/Figma-Context-MCP#sponsors
+ 204. https://github.com/GLips/Figma-Context-MCP#-gold-sponsors
+ 205. https://github.com/GLips/Figma-Context-MCP#-silver-sponsors
+ 206. https://github.com/GLips/Figma-Context-MCP#-bronze-sponsors
+ 207. https://github.com/GLips/Figma-Context-MCP#-smaller-backers
+ 208. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

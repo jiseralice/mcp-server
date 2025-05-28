@@ -1,0 +1,14 @@
+[
+    {
+        "name": "GitHub MCP Server",
+        "description": "Official GitHub MCP server for API integration and automation.",
+        "category": "Version Control",
+        "repository_url": "https://github.com/github/github-mcp-server",
+        "language": "Go",
+        "tags": [
+            "GitHub",
+            "Version Control",
+            "API"
+        ]
+    }
+]

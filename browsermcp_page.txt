@@ -1,0 +1,449 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]BrowserMCP / [61]mcp Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 101
+     * [64]Star 1.7k
+
+   Browser MCP is a Model Context Provider (MCP) server that allows AI
+   applications to control your browser
+   [65]browsermcp.io
+
+License
+
+   [66]Apache-2.0 license
+   [67]1.7k stars [68]101 forks [69]Branches [70]Tags [71]Activity
+   [72]Star
+   [73]Notifications You must be signed in to change notification settings
+
+     * [74]Code
+     * [75]Issues 30
+     * [76]Pull requests 2
+     * [77]Actions
+     * [78]Projects 0
+     * [79]Security
+
+Uh oh!
+       There was an error while loading. [80]Please reload this page.
+     * [81]Insights
+
+   (BUTTON) Additional navigation options
+     * [82]Code
+     * [83]Issues
+     * [84]Pull requests
+     * [85]Actions
+     * [86]Projects
+     * [87]Security
+     * [88]Insights
+
+BrowserMCP/mcp
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [89]Branches[90]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+          Name       Name
+   Last commit message
+    Last commit date
+
+Latest commit
+
+
+History
+
+   [91]6 Commits
+   [92].github/images
+   [93].github/images
+
+
+   [94]src
+   [95]src
+
+
+   [96].gitignore
+   [97].gitignore
+
+
+   [98]LICENSE
+   [99]LICENSE
+
+
+   [100]README.md
+   [101]README.md
+
+
+   [102]package.json
+   [103]package.json
+
+
+   [104]tsconfig.json
+   [105]tsconfig.json
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [106]README
+     * [107]Apache-2.0 license
+
+   (BUTTON)
+
+   [108]Browser MCP banner
+
+                                 Browser MCP
+
+                       Automate your browser with AI.
+                         [109]Website • [110]Docs
+
+About
+
+   Browser MCP is an MCP server + Chrome extension that allows you to
+   automate your browser using AI applications like VS Code, Claude,
+   Cursor, and Windsurf.
+
+Features
+
+     * ⚡ Fast: Automation happens locally on your machine, resulting in
+       better performance without network latency.
+     * 🔒 Private: Since automation happens locally, your browser activity
+       stays on your device and isn't sent to remote servers.
+     * 👤 Logged In: Uses your existing browser profile, keeping you logged
+       into all your services.
+     * 🥷🏼 Stealth: Avoids basic bot detection and CAPTCHAs by using your
+       real browser fingerprint.
+
+Contributing
+
+   This repo contains all the core MCP code for Browser MCP, but currently
+   cannot yet be built on its own due to dependencies on utils and types
+   from the monorepo where it's developed.
+
+---TRUNCATED FOR BREVITY---
+
+Languages
+
+     * [131]TypeScript 89.2%
+     * [132]JavaScript 10.8%
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [133]Terms
+     * [134]Privacy
+     * [135]Security
+     * [136]Status
+     * [137]Docs
+     * [138]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/BrowserMCP/mcp#start-of-content
+   3. https://github.com/login?return_to=https://github.com/BrowserMCP/mcp
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/BrowserMCP/mcp
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=BrowserMCP/mcp
+  57. https://github.com/BrowserMCP/mcp
+  58. https://github.com/BrowserMCP/mcp
+  59. https://github.com/BrowserMCP/mcp
+  60. https://github.com/BrowserMCP
+  61. https://github.com/BrowserMCP/mcp
+  62. https://github.com/login?return_to=/BrowserMCP/mcp
+  63. https://github.com/login?return_to=/BrowserMCP/mcp
+  64. https://github.com/login?return_to=/BrowserMCP/mcp
+  65. https://browsermcp.io/
+  66. https://github.com/BrowserMCP/mcp/blob/main/LICENSE
+  67. https://github.com/BrowserMCP/mcp/stargazers
+  68. https://github.com/BrowserMCP/mcp/forks
+  69. https://github.com/BrowserMCP/mcp/branches
+  70. https://github.com/BrowserMCP/mcp/tags
+  71. https://github.com/BrowserMCP/mcp/activity
+  72. https://github.com/login?return_to=/BrowserMCP/mcp
+  73. https://github.com/login?return_to=/BrowserMCP/mcp
+  74. https://github.com/BrowserMCP/mcp
+  75. https://github.com/BrowserMCP/mcp/issues
+  76. https://github.com/BrowserMCP/mcp/pulls
+  77. https://github.com/BrowserMCP/mcp/actions
+  78. https://github.com/BrowserMCP/mcp/projects
+  79. https://github.com/BrowserMCP/mcp/security
+  80. https://github.com/BrowserMCP/mcp
+  81. https://github.com/BrowserMCP/mcp/pulse
+  82. https://github.com/BrowserMCP/mcp
+  83. https://github.com/BrowserMCP/mcp/issues
+  84. https://github.com/BrowserMCP/mcp/pulls
+  85. https://github.com/BrowserMCP/mcp/actions
+  86. https://github.com/BrowserMCP/mcp/projects
+  87. https://github.com/BrowserMCP/mcp/security
+  88. https://github.com/BrowserMCP/mcp/pulse
+  89. https://github.com/BrowserMCP/mcp/branches
+  90. https://github.com/BrowserMCP/mcp/tags
+  91. https://github.com/BrowserMCP/mcp/commits/main/
+  92. https://github.com/BrowserMCP/mcp/tree/main/.github/images
+  93. https://github.com/BrowserMCP/mcp/tree/main/.github/images
+  94. https://github.com/BrowserMCP/mcp/tree/main/src
+  95. https://github.com/BrowserMCP/mcp/tree/main/src
+  96. https://github.com/BrowserMCP/mcp/blob/main/.gitignore
+  97. https://github.com/BrowserMCP/mcp/blob/main/.gitignore
+  98. https://github.com/BrowserMCP/mcp/blob/main/LICENSE
+  99. https://github.com/BrowserMCP/mcp/blob/main/LICENSE
+ 100. https://github.com/BrowserMCP/mcp/blob/main/README.md
+ 101. https://github.com/BrowserMCP/mcp/blob/main/README.md
+ 102. https://github.com/BrowserMCP/mcp/blob/main/package.json
+ 103. https://github.com/BrowserMCP/mcp/blob/main/package.json
+ 104. https://github.com/BrowserMCP/mcp/blob/main/tsconfig.json
+ 105. https://github.com/BrowserMCP/mcp/blob/main/tsconfig.json
+ 106. https://github.com/BrowserMCP/mcp
+ 107. https://github.com/BrowserMCP/mcp
+ 108. https://browsermcp.io/
+ 109. https://browsermcp.io/
+ 110. https://docs.browsermcp.io/
+ 111. https://github.com/microsoft/playwright-mcp
+ 112. https://browsermcp.io/
+ 113. https://github.com/topics/mcp
+ 114. https://github.com/topics/browser-extension
+ 115. https://github.com/topics/cursor
+ 116. https://github.com/topics/browser-automation
+ 117. https://github.com/topics/claude
+ 118. https://github.com/topics/mcp-server
+ 119. https://github.com/BrowserMCP/mcp#readme-ov-file
+ 120. https://github.com/BrowserMCP/mcp#Apache-2.0-1-ov-file
+ 121. https://github.com/BrowserMCP/mcp
+ 122. https://github.com/BrowserMCP/mcp/activity
+ 123. https://github.com/BrowserMCP/mcp/custom-properties
+ 124. https://github.com/BrowserMCP/mcp/stargazers
+ 125. https://github.com/BrowserMCP/mcp/watchers
+ 126. https://github.com/BrowserMCP/mcp/forks
+ 127. https://github.com/contact/report-content?content_url=https://github.com/BrowserMCP/mcp&report=BrowserMCP+(user)
+ 128. https://github.com/BrowserMCP/mcp/releases
+ 129. https://github.com/orgs/BrowserMCP/packages?repo_name=mcp
+ 130. https://github.com/BrowserMCP/mcp
+ 131. https://github.com/BrowserMCP/mcp/search?l=typescript
+ 132. https://github.com/BrowserMCP/mcp/search?l=javascript
+ 133. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 134. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 135. https://github.com/security
+ 136. https://www.githubstatus.com/
+ 137. https://docs.github.com/
+ 138. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 140. https://github.com/
+ 141. https://github.com/BrowserMCP/mcp/branches
+ 142. https://github.com/BrowserMCP/mcp/tags
+ 143. https://github.com/BrowserMCP/mcp/commits/main/
+ 144. https://github.com/BrowserMCP/mcp#browser-mcp
+ 145. https://github.com/BrowserMCP/mcp#about
+ 146. https://github.com/BrowserMCP/mcp#features
+ 147. https://github.com/BrowserMCP/mcp#contributing
+ 148. https://github.com/BrowserMCP/mcp#credits
+ 149. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

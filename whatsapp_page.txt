@@ -1,0 +1,467 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]lharries / [61]whatsapp-mcp Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 533
+     * [64]Star 3.9k
+
+   WhatsApp MCP server
+   [65]x.com/LukeHarries_/status/1905986562388635913
+
+License
+
+   [66]MIT license
+   [67]3.9k stars [68]533 forks [69]Branches [70]Tags [71]Activity
+   [72]Star
+   [73]Notifications You must be signed in to change notification settings
+
+     * [74]Code
+     * [75]Issues 31
+     * [76]Pull requests 11
+     * [77]Actions
+     * [78]Projects 0
+     * [79]Security
+
+Uh oh!
+       There was an error while loading. [80]Please reload this page.
+     * [81]Insights
+
+   (BUTTON) Additional navigation options
+     * [82]Code
+     * [83]Issues
+     * [84]Pull requests
+     * [85]Actions
+     * [86]Projects
+     * [87]Security
+     * [88]Insights
+
+lharries/whatsapp-mcp
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [89]Branches[90]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+            Name          Name
+   Last commit message
+      Last commit date
+
+Latest commit
+
+
+History
+
+   [91]26 Commits
+   [92]whatsapp-bridge
+   [93]whatsapp-bridge
+
+
+   [94]whatsapp-mcp-server
+   [95]whatsapp-mcp-server
+
+
+   [96].gitignore
+   [97].gitignore
+
+
+   [98]LICENSE
+   [99]LICENSE
+
+
+   [100]README.md
+   [101]README.md
+
+
+   [102]example-use.png
+   [103]example-use.png
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [104]README
+     * [105]MIT license
+
+   (BUTTON)
+
+WhatsApp MCP Server
+
+   This is a Model Context Protocol (MCP) server for WhatsApp.
+
+   With this you can search and read your personal Whatsapp messages
+   (including images, videos, documents, and audio messages), search your
+   contacts and send messages to either individuals or groups. You can
+   also send media files including images, videos, documents, and audio
+   messages.
+
+   It connects to your personal WhatsApp account directly via the Whatsapp
+   web multidevice API (using the [106]whatsmeow library). All your
+   messages are stored locally in a SQLite database and only sent to an
+   LLM (such as Claude) when the agent accesses them through tools (which
+   you control).
+
+   Here's an example of what you can do when it's connected to Claude.
+
+   [107]WhatsApp MCP
+
+     To get updates on this and other projects I work on [108]enter your
+     email here
+
+Installation
+
+Prerequisites
+
+     * Go
+     * Python 3.6+
+     * Anthropic Claude Desktop app (or Cursor)
+     * UV (Python package manager), install with curl -LsSf
+       https://astral.sh/uv/install.sh | sh
+     * FFmpeg (optional) - Only needed for audio messages. If you want to
+       send audio files as playable WhatsApp voice messages, they must be
+       in .ogg Opus format. With FFmpeg installed, the MCP server will
+       automatically convert non-Opus audio files. Without FFmpeg, you can
+       still send raw audio files using the send_file tool.
+
+---TRUNCATED FOR BREVITY---
+
+Languages
+
+     * [135]Go 51.2%
+     * [136]Python 48.8%
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [137]Terms
+     * [138]Privacy
+     * [139]Security
+     * [140]Status
+     * [141]Docs
+     * [142]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/lharries/whatsapp-mcp#start-of-content
+   3. https://github.com/login?return_to=https://github.com/lharries/whatsapp-mcp
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/lharries/whatsapp-mcp
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=lharries/whatsapp-mcp
+  57. https://github.com/lharries/whatsapp-mcp
+  58. https://github.com/lharries/whatsapp-mcp
+  59. https://github.com/lharries/whatsapp-mcp
+  60. https://github.com/lharries
+  61. https://github.com/lharries/whatsapp-mcp
+  62. https://github.com/login?return_to=/lharries/whatsapp-mcp
+  63. https://github.com/login?return_to=/lharries/whatsapp-mcp
+  64. https://github.com/login?return_to=/lharries/whatsapp-mcp
+  65. https://x.com/LukeHarries_/status/1905986562388635913
+  66. https://github.com/lharries/whatsapp-mcp/blob/main/LICENSE
+  67. https://github.com/lharries/whatsapp-mcp/stargazers
+  68. https://github.com/lharries/whatsapp-mcp/forks
+  69. https://github.com/lharries/whatsapp-mcp/branches
+  70. https://github.com/lharries/whatsapp-mcp/tags
+  71. https://github.com/lharries/whatsapp-mcp/activity
+  72. https://github.com/login?return_to=/lharries/whatsapp-mcp
+  73. https://github.com/login?return_to=/lharries/whatsapp-mcp
+  74. https://github.com/lharries/whatsapp-mcp
+  75. https://github.com/lharries/whatsapp-mcp/issues
+  76. https://github.com/lharries/whatsapp-mcp/pulls
+  77. https://github.com/lharries/whatsapp-mcp/actions
+  78. https://github.com/lharries/whatsapp-mcp/projects
+  79. https://github.com/lharries/whatsapp-mcp/security
+  80. https://github.com/lharries/whatsapp-mcp
+  81. https://github.com/lharries/whatsapp-mcp/pulse
+  82. https://github.com/lharries/whatsapp-mcp
+  83. https://github.com/lharries/whatsapp-mcp/issues
+  84. https://github.com/lharries/whatsapp-mcp/pulls
+  85. https://github.com/lharries/whatsapp-mcp/actions
+  86. https://github.com/lharries/whatsapp-mcp/projects
+  87. https://github.com/lharries/whatsapp-mcp/security
+  88. https://github.com/lharries/whatsapp-mcp/pulse
+  89. https://github.com/lharries/whatsapp-mcp/branches
+  90. https://github.com/lharries/whatsapp-mcp/tags
+  91. https://github.com/lharries/whatsapp-mcp/commits/main/
+  92. https://github.com/lharries/whatsapp-mcp/tree/main/whatsapp-bridge
+  93. https://github.com/lharries/whatsapp-mcp/tree/main/whatsapp-bridge
+  94. https://github.com/lharries/whatsapp-mcp/tree/main/whatsapp-mcp-server
+  95. https://github.com/lharries/whatsapp-mcp/tree/main/whatsapp-mcp-server
+  96. https://github.com/lharries/whatsapp-mcp/blob/main/.gitignore
+  97. https://github.com/lharries/whatsapp-mcp/blob/main/.gitignore
+  98. https://github.com/lharries/whatsapp-mcp/blob/main/LICENSE
+  99. https://github.com/lharries/whatsapp-mcp/blob/main/LICENSE
+ 100. https://github.com/lharries/whatsapp-mcp/blob/main/README.md
+ 101. https://github.com/lharries/whatsapp-mcp/blob/main/README.md
+ 102. https://github.com/lharries/whatsapp-mcp/blob/main/example-use.png
+ 103. https://github.com/lharries/whatsapp-mcp/blob/main/example-use.png
+ 104. https://github.com/lharries/whatsapp-mcp
+ 105. https://github.com/lharries/whatsapp-mcp
+ 106. https://github.com/tulir/whatsmeow
+ 107. https://github.com/lharries/whatsapp-mcp/blob/main/example-use.png
+ 108. https://docs.google.com/forms/d/1rTF9wMBTN0vPfzWuQa2BjfGKdKIpTbyeKxhPMcEzgyI/preview
+ 109. https://www.msys2.org/
+ 110. https://code.visualstudio.com/docs/cpp/config-mingw
+ 111. https://modelcontextprotocol.io/quickstart/server#claude-for-desktop-integration-issues
+ 112. https://x.com/LukeHarries_/status/1905986562388635913
+ 113. https://github.com/topics/ai
+ 114. https://github.com/topics/mcp
+ 115. https://github.com/topics/whatsapp
+ 116. https://github.com/topics/whatsapp-api
+ 117. https://github.com/lharries/whatsapp-mcp#readme-ov-file
+ 118. https://github.com/lharries/whatsapp-mcp#MIT-1-ov-file
+ 119. https://github.com/lharries/whatsapp-mcp
+ 120. https://github.com/lharries/whatsapp-mcp/activity
+ 121. https://github.com/lharries/whatsapp-mcp/stargazers
+ 122. https://github.com/lharries/whatsapp-mcp/watchers
+ 123. https://github.com/lharries/whatsapp-mcp/forks
+ 124. https://github.com/contact/report-content?content_url=https://github.com/lharries/whatsapp-mcp&report=lharries+(user)
+ 125. https://github.com/lharries/whatsapp-mcp/releases
+ 126. https://github.com/lharries/whatsapp-mcp/releases/tag/v0.0.1
+ 127. https://github.com/users/lharries/packages?repo_name=whatsapp-mcp
+ 128. https://github.com/lharries/whatsapp-mcp
+ 129. https://github.com/lharries/whatsapp-mcp/graphs/contributors
+ 130. https://github.com/lharries
+ 131. https://github.com/yaniv-golan
+ 132. https://github.com/aastroza
+ 133. https://github.com/cs4alhaider
+ 134. https://github.com/alain-sv
+ 135. https://github.com/lharries/whatsapp-mcp/search?l=go
+ 136. https://github.com/lharries/whatsapp-mcp/search?l=python
+ 137. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 138. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 139. https://github.com/security
+ 140. https://www.githubstatus.com/
+ 141. https://docs.github.com/
+ 142. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 144. https://github.com/
+ 145. https://github.com/lharries/whatsapp-mcp/branches
+ 146. https://github.com/lharries/whatsapp-mcp/tags
+ 147. https://github.com/lharries/whatsapp-mcp/commits/main/
+ 148. https://github.com/lharries/whatsapp-mcp#whatsapp-mcp-server
+ 149. https://github.com/lharries/whatsapp-mcp#installation
+ 150. https://github.com/lharries/whatsapp-mcp#prerequisites
+ 151. https://github.com/lharries/whatsapp-mcp#steps
+ 152. https://github.com/lharries/whatsapp-mcp#windows-compatibility
+ 153. https://github.com/lharries/whatsapp-mcp#steps-to-get-it-working
+ 154. https://github.com/lharries/whatsapp-mcp#architecture-overview
+ 155. https://github.com/lharries/whatsapp-mcp#data-storage
+ 156. https://github.com/lharries/whatsapp-mcp#usage
+ 157. https://github.com/lharries/whatsapp-mcp#mcp-tools
+ 158. https://github.com/lharries/whatsapp-mcp#media-handling-features
+ 159. https://github.com/lharries/whatsapp-mcp#media-sending
+ 160. https://github.com/lharries/whatsapp-mcp#media-downloading
+ 161. https://github.com/lharries/whatsapp-mcp#technical-details
+ 162. https://github.com/lharries/whatsapp-mcp#troubleshooting
+ 163. https://github.com/lharries/whatsapp-mcp#authentication-issues
+ 164. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!

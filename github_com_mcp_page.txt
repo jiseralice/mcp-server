@@ -1,0 +1,603 @@
+#[1]GitHub
+
+   [2]Skip to content
+
+Navigation Menu
+
+   (BUTTON) Toggle navigation
+
+   (BUTTON)
+   [3]Sign in
+   (BUTTON) Appearance settings
+
+     * (BUTTON) Product
+          + [4]GitHub Copilot
+            Write better code with AI
+          + [5]GitHub Models New
+            Manage and compare prompts
+          + [6]GitHub Advanced Security
+            Find and fix vulnerabilities
+          + [7]Actions
+            Automate any workflow
+          + [8]Codespaces
+            Instant dev environments
+          + [9]Issues
+            Plan and track work
+          + [10]Code Review
+            Manage code changes
+          + [11]Discussions
+            Collaborate outside of code
+          + [12]Code Search
+            Find more, search less
+       Explore
+          + [13]Why GitHub
+          + [14]All features
+          + [15]Documentation
+          + [16]GitHub Skills
+          + [17]Blog
+     * (BUTTON) Solutions
+       By company size
+          + [18]Enterprises
+          + [19]Small and medium teams
+          + [20]Startups
+          + [21]Nonprofits
+       By use case
+          + [22]DevSecOps
+          + [23]DevOps
+          + [24]CI/CD
+          + [25]View all use cases
+       By industry
+          + [26]Healthcare
+          + [27]Financial services
+          + [28]Manufacturing
+          + [29]Government
+          + [30]View all industries
+       [31]View all solutions
+     * (BUTTON) Resources
+       Topics
+          + [32]AI
+          + [33]DevOps
+          + [34]Security
+          + [35]Software Development
+          + [36]View all
+       Explore
+          + [37]Learning Pathways
+          + [38]Events & Webinars
+          + [39]Ebooks & Whitepapers
+          + [40]Customer Stories
+          + [41]Partners
+          + [42]Executive Insights
+     * (BUTTON) Open Source
+          + [43]GitHub Sponsors
+            Fund open source developers
+          + [44]The ReadME Project
+            GitHub community articles
+       Repositories
+          + [45]Topics
+          + [46]Trending
+          + [47]Collections
+     * (BUTTON) Enterprise
+          + [48]Enterprise platform
+            AI-powered developer platform
+       Available add-ons
+          + [49]GitHub Advanced Security
+            Enterprise-grade security features
+          + [50]Copilot for business
+            Enterprise-grade AI features
+          + [51]Premium Support
+            Enterprise-grade 24/7 support
+     * [52]Pricing
+
+   (BUTTON)
+   Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+
+   Search
+   ____________________
+   Clear (BUTTON)
+
+   [53]Search syntax tips
+
+Provide feedback
+
+   (BUTTON)
+
+   We read every piece of feedback, and take your input very seriously.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Include my email address so I can be contacted
+   (BUTTON) Cancel (BUTTON) Submit feedback
+
+Saved searches
+
+Use saved searches to filter your results more quickly
+
+   (BUTTON)
+   Name ____________________
+   Query ____________________
+
+   To see all available qualifiers, see our [54]documentation.
+   (BUTTON) Cancel (BUTTON) Create saved search
+
+   [55]Sign in
+
+   [56]Sign up
+
+   (BUTTON) Appearance settings
+
+   (BUTTON) Resetting focus
+
+   You signed in with another tab or window. [57]Reload to refresh your
+   session. You signed out in another tab or window. [58]Reload to refresh
+   your session. You switched accounts on another tab or window.
+   [59]Reload to refresh your session. (BUTTON) Dismiss alert
+
+   (BUTTON)
+   {{ message }}
+
+   [60]github / [61]github-mcp-server Public
+     * [62]Notifications You must be signed in to change notification
+       settings
+     * [63]Fork 934
+     * [64]Star 14.5k
+
+   GitHub's official MCP Server
+
+License
+
+   [65]MIT license
+   [66]14.5k stars [67]934 forks [68]Branches [69]Tags [70]Activity
+   [71]Star
+   [72]Notifications You must be signed in to change notification settings
+
+     * [73]Code
+     * [74]Issues 79
+     * [75]Pull requests 26
+     * [76]Actions
+     * [77]Models
+     * [78]Security
+
+Uh oh!
+       There was an error while loading. [79]Please reload this page.
+     * [80]Insights
+
+   (BUTTON) Additional navigation options
+     * [81]Code
+     * [82]Issues
+     * [83]Pull requests
+     * [84]Actions
+     * [85]Models
+     * [86]Security
+     * [87]Insights
+
+github/github-mcp-server
+
+   (BUTTON)
+    main
+   (BUTTON)
+   [88]Branches[89]Tags
+   ____________________
+   (BUTTON) Go to file
+   (BUTTON) Code
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+Folders and files
+
+                   Name                Name
+   Last commit message
+             Last commit date
+
+Latest commit
+
+
+History
+
+   [90]217 Commits
+   [91].github
+   [92].github
+
+
+   [93].vscode
+   [94].vscode
+
+
+   [95]cmd
+   [96]cmd
+
+
+   [97]e2e
+   [98]e2e
+
+
+   [99]internal
+   [100]internal
+
+
+   [101]pkg
+   [102]pkg
+
+
+   [103]script
+   [104]script
+
+
+   [105]third-party
+   [106]third-party
+
+
+   [107].dockerignore
+   [108].dockerignore
+
+
+   [109].gitignore
+   [110].gitignore
+
+
+   [111].golangci.yml
+   [112].golangci.yml
+
+
+   [113].goreleaser.yaml
+   [114].goreleaser.yaml
+
+
+   [115]CODE_OF_CONDUCT.md
+   [116]CODE_OF_CONDUCT.md
+
+
+   [117]CONTRIBUTING.md
+   [118]CONTRIBUTING.md
+
+
+   [119]Dockerfile
+   [120]Dockerfile
+
+
+   [121]LICENSE
+   [122]LICENSE
+
+
+   [123]README.md
+   [124]README.md
+
+
+   [125]SECURITY.md
+   [126]SECURITY.md
+
+
+   [127]SUPPORT.md
+   [128]SUPPORT.md
+
+
+   [129]go.mod
+   [130]go.mod
+
+
+   [131]go.sum
+   [132]go.sum
+
+
+   [133]third-party-licenses.darwin.md
+   [134]third-party-licenses.darwin.md
+
+
+   [135]third-party-licenses.linux.md
+   [136]third-party-licenses.linux.md
+
+
+   [137]third-party-licenses.windows.md
+   [138]third-party-licenses.windows.md
+
+
+   (BUTTON) View all files
+
+Repository files navigation
+
+     * [139]README
+     * [140]Code of conduct
+     * [141]MIT license
+     * [142]Security
+
+   (BUTTON)
+
+GitHub MCP Server
+
+   The GitHub MCP Server is a [143]Model Context Protocol (MCP) server
+   that provides seamless integration with GitHub APIs, enabling advanced
+   automation and interaction capabilities for developers and tools.
+
+   [144]Install with Docker in VS Code [145]Install with Docker in VS Code
+   Insiders
+
+Use Cases
+
+     * Automating GitHub workflows and processes.
+     * Extracting and analyzing data from GitHub repositories.
+     * Building AI powered tools and applications that interact with
+       GitHub's ecosystem.
+
+Prerequisites
+
+    1. To run the server in a container, you will need to have [146]Docker
+       installed.
+    2. Once Docker is installed, you will also need to ensure Docker is
+       running. The image is public; if you get errors on pull, you may
+       have an expired token and need to docker logout ghcr.io.
+    3. Lastly you will need to [147]Create a GitHub Personal Access Token.
+       The MCP server can use many of the GitHub APIs, so enable the
+       permissions that you feel comfortable granting your AI tools (to
+       learn more about access tokens, please check out the
+       [148]documentation).
+
+Installation
+
+Usage with VS Code
+
+   For quick installation, use one of the one-click install buttons at the
+   top of this README. Once you complete that flow, toggle Agent mode
+   (located by the Copilot Chat text input) and the server will start.
+
+---TRUNCATED FOR BREVITY---
+
+Languages
+
+     * [187]Go 99.2%
+     * Other 0.8%
+
+Footer
+
+   © 2025 GitHub, Inc.
+
+Footer navigation
+
+     * [188]Terms
+     * [189]Privacy
+     * [190]Security
+     * [191]Status
+     * [192]Docs
+     * [193]Contact
+     * (BUTTON) Manage cookies
+     * (BUTTON) Do not share my personal information
+
+   (BUTTON) You can’t perform that action at this time.
+
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://github.com/opensearch.xml
+   2. https://github.com/github/github-mcp-server#start-of-content
+   3. https://github.com/login?return_to=https://github.com/github/github-mcp-server
+   4. https://github.com/features/copilot
+   5. https://github.com/features/models
+   6. https://github.com/security/advanced-security
+   7. https://github.com/features/actions
+   8. https://github.com/features/codespaces
+   9. https://github.com/features/issues
+  10. https://github.com/features/code-review
+  11. https://github.com/features/discussions
+  12. https://github.com/features/code-search
+  13. https://github.com/why-github
+  14. https://github.com/features
+  15. https://docs.github.com/
+  16. https://skills.github.com/
+  17. https://github.blog/
+  18. https://github.com/enterprise
+  19. https://github.com/team
+  20. https://github.com/enterprise/startups
+  21. https://github.com/solutions/industry/nonprofits
+  22. https://github.com/solutions/use-case/devsecops
+  23. https://github.com/solutions/use-case/devops
+  24. https://github.com/solutions/use-case/ci-cd
+  25. https://github.com/solutions/use-case
+  26. https://github.com/solutions/industry/healthcare
+  27. https://github.com/solutions/industry/financial-services
+  28. https://github.com/solutions/industry/manufacturing
+  29. https://github.com/solutions/industry/government
+  30. https://github.com/solutions/industry
+  31. https://github.com/solutions
+  32. https://github.com/resources/articles/ai
+  33. https://github.com/resources/articles/devops
+  34. https://github.com/resources/articles/security
+  35. https://github.com/resources/articles/software-development
+  36. https://github.com/resources/articles
+  37. https://resources.github.com/learn/pathways
+  38. https://resources.github.com/
+  39. https://github.com/resources/whitepapers
+  40. https://github.com/customer-stories
+  41. https://partner.github.com/
+  42. https://github.com/solutions/executive-insights
+  43. https://github.com/sponsors
+  44. https://github.com/readme
+  45. https://github.com/topics
+  46. https://github.com/trending
+  47. https://github.com/collections
+  48. https://github.com/enterprise
+  49. https://github.com/security/advanced-security
+  50. https://github.com/features/copilot/copilot-business
+  51. https://github.com/premium-support
+  52. https://github.com/pricing
+  53. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  54. https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+  55. https://github.com/login?return_to=https://github.com/github/github-mcp-server
+  56. https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=/<user-name>/<repo-name>&source=header-repo&source_repo=github/github-mcp-server
+  57. https://github.com/github/github-mcp-server
+  58. https://github.com/github/github-mcp-server
+  59. https://github.com/github/github-mcp-server
+  60. https://github.com/github
+  61. https://github.com/github/github-mcp-server
+  62. https://github.com/login?return_to=/github/github-mcp-server
+  63. https://github.com/login?return_to=/github/github-mcp-server
+  64. https://github.com/login?return_to=/github/github-mcp-server
+  65. https://github.com/github/github-mcp-server/blob/main/LICENSE
+  66. https://github.com/github/github-mcp-server/stargazers
+  67. https://github.com/github/github-mcp-server/forks
+  68. https://github.com/github/github-mcp-server/branches
+  69. https://github.com/github/github-mcp-server/tags
+  70. https://github.com/github/github-mcp-server/activity
+  71. https://github.com/login?return_to=/github/github-mcp-server
+  72. https://github.com/login?return_to=/github/github-mcp-server
+  73. https://github.com/github/github-mcp-server
+  74. https://github.com/github/github-mcp-server/issues
+  75. https://github.com/github/github-mcp-server/pulls
+  76. https://github.com/github/github-mcp-server/actions
+  77. https://github.com/github/github-mcp-server/models
+  78. https://github.com/github/github-mcp-server/security
+  79. https://github.com/github/github-mcp-server
+  80. https://github.com/github/github-mcp-server/pulse
+  81. https://github.com/github/github-mcp-server
+  82. https://github.com/github/github-mcp-server/issues
+  83. https://github.com/github/github-mcp-server/pulls
+  84. https://github.com/github/github-mcp-server/actions
+  85. https://github.com/github/github-mcp-server/models
+  86. https://github.com/github/github-mcp-server/security
+  87. https://github.com/github/github-mcp-server/pulse
+  88. https://github.com/github/github-mcp-server/branches
+  89. https://github.com/github/github-mcp-server/tags
+  90. https://github.com/github/github-mcp-server/commits/main/
+  91. https://github.com/github/github-mcp-server/tree/main/.github
+  92. https://github.com/github/github-mcp-server/tree/main/.github
+  93. https://github.com/github/github-mcp-server/tree/main/.vscode
+  94. https://github.com/github/github-mcp-server/tree/main/.vscode
+  95. https://github.com/github/github-mcp-server/tree/main/cmd
+  96. https://github.com/github/github-mcp-server/tree/main/cmd
+  97. https://github.com/github/github-mcp-server/tree/main/e2e
+  98. https://github.com/github/github-mcp-server/tree/main/e2e
+  99. https://github.com/github/github-mcp-server/tree/main/internal
+ 100. https://github.com/github/github-mcp-server/tree/main/internal
+ 101. https://github.com/github/github-mcp-server/tree/main/pkg
+ 102. https://github.com/github/github-mcp-server/tree/main/pkg
+ 103. https://github.com/github/github-mcp-server/tree/main/script
+ 104. https://github.com/github/github-mcp-server/tree/main/script
+ 105. https://github.com/github/github-mcp-server/tree/main/third-party
+ 106. https://github.com/github/github-mcp-server/tree/main/third-party
+ 107. https://github.com/github/github-mcp-server/blob/main/.dockerignore
+ 108. https://github.com/github/github-mcp-server/blob/main/.dockerignore
+ 109. https://github.com/github/github-mcp-server/blob/main/.gitignore
+ 110. https://github.com/github/github-mcp-server/blob/main/.gitignore
+ 111. https://github.com/github/github-mcp-server/blob/main/.golangci.yml
+ 112. https://github.com/github/github-mcp-server/blob/main/.golangci.yml
+ 113. https://github.com/github/github-mcp-server/blob/main/.goreleaser.yaml
+ 114. https://github.com/github/github-mcp-server/blob/main/.goreleaser.yaml
+ 115. https://github.com/github/github-mcp-server/blob/main/CODE_OF_CONDUCT.md
+ 116. https://github.com/github/github-mcp-server/blob/main/CODE_OF_CONDUCT.md
+ 117. https://github.com/github/github-mcp-server/blob/main/CONTRIBUTING.md
+ 118. https://github.com/github/github-mcp-server/blob/main/CONTRIBUTING.md
+ 119. https://github.com/github/github-mcp-server/blob/main/Dockerfile
+ 120. https://github.com/github/github-mcp-server/blob/main/Dockerfile
+ 121. https://github.com/github/github-mcp-server/blob/main/LICENSE
+ 122. https://github.com/github/github-mcp-server/blob/main/LICENSE
+ 123. https://github.com/github/github-mcp-server/blob/main/README.md
+ 124. https://github.com/github/github-mcp-server/blob/main/README.md
+ 125. https://github.com/github/github-mcp-server/blob/main/SECURITY.md
+ 126. https://github.com/github/github-mcp-server/blob/main/SECURITY.md
+ 127. https://github.com/github/github-mcp-server/blob/main/SUPPORT.md
+ 128. https://github.com/github/github-mcp-server/blob/main/SUPPORT.md
+ 129. https://github.com/github/github-mcp-server/blob/main/go.mod
+ 130. https://github.com/github/github-mcp-server/blob/main/go.mod
+ 131. https://github.com/github/github-mcp-server/blob/main/go.sum
+ 132. https://github.com/github/github-mcp-server/blob/main/go.sum
+ 133. https://github.com/github/github-mcp-server/blob/main/third-party-licenses.darwin.md
+ 134. https://github.com/github/github-mcp-server/blob/main/third-party-licenses.darwin.md
+ 135. https://github.com/github/github-mcp-server/blob/main/third-party-licenses.linux.md
+ 136. https://github.com/github/github-mcp-server/blob/main/third-party-licenses.linux.md
+ 137. https://github.com/github/github-mcp-server/blob/main/third-party-licenses.windows.md
+ 138. https://github.com/github/github-mcp-server/blob/main/third-party-licenses.windows.md
+ 139. https://github.com/github/github-mcp-server
+ 140. https://github.com/github/github-mcp-server
+ 141. https://github.com/github/github-mcp-server
+ 142. https://github.com/github/github-mcp-server
+ 143. https://modelcontextprotocol.io/introduction
+ 144. https://insiders.vscode.dev/redirect/mcp/install?name=github&inputs=[{"id":"github_token","type":"promptString","description":"GitHub Personal Access Token","password":true}]&config={"command":"docker","args":["run","-i","--rm","-e","GITHUB_PERSONAL_ACCESS_TOKEN","ghcr.io/github/github-mcp-server"],"env":{"GITHUB_PERSONAL_ACCESS_TOKEN":"${input:github_token}"}}
+ 145. https://insiders.vscode.dev/redirect/mcp/install?name=github&inputs=[{"id":"github_token","type":"promptString","description":"GitHub Personal Access Token","password":true}]&config={"command":"docker","args":["run","-i","--rm","-e","GITHUB_PERSONAL_ACCESS_TOKEN","ghcr.io/github/github-mcp-server"],"env":{"GITHUB_PERSONAL_ACCESS_TOKEN":"${input:github_token}"}}&quality=insiders
+ 146. https://www.docker.com/
+ 147. https://github.com/settings/personal-access-tokens/new
+ 148. https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+ 149. https://code.visualstudio.com/docs/copilot/chat/mcp-servers
+ 150. https://github.com/github/github-mcp-server/blob/main/LICENSE
+ 151. https://github.com/topics/github
+ 152. https://github.com/topics/mcp
+ 153. https://github.com/topics/mcp-server
+ 154. https://github.com/github/github-mcp-server#readme-ov-file
+ 155. https://github.com/github/github-mcp-server#MIT-1-ov-file
+ 156. https://github.com/github/github-mcp-server#coc-ov-file
+ 157. https://github.com/github/github-mcp-server#security-ov-file
+ 158. https://github.com/github/github-mcp-server
+ 159. https://github.com/github/github-mcp-server/activity
+ 160. https://github.com/github/github-mcp-server/custom-properties
+ 161. https://github.com/github/github-mcp-server/stargazers
+ 162. https://github.com/github/github-mcp-server/watchers
+ 163. https://github.com/github/github-mcp-server/forks
+ 164. https://github.com/contact/report-content?content_url=https://github.com/github/github-mcp-server&report=github+(user)
+ 165. https://github.com/github/github-mcp-server/releases
+ 166. https://github.com/github/github-mcp-server/releases/tag/v0.4.0
+ 167. https://github.com/github/github-mcp-server/releases
+ 168. https://github.com/orgs/github/packages?repo_name=github-mcp-server
+ 169. https://github.com/github/github-mcp-server
+ 170. https://github.com/github/github-mcp-server
+ 171. https://github.com/github/github-mcp-server/graphs/contributors
+ 172. https://github.com/SamMorrowDrums
+ 173. https://github.com/juruen
+ 174. https://github.com/williammartin
+ 175. https://github.com/toby
+ 176. https://github.com/mntlty
+ 177. https://github.com/apps/dependabot
+ 178. https://github.com/apps/copilot-pull-request-reviewer
+ 179. https://github.com/rajbos
+ 180. https://github.com/radar07
+ 181. https://github.com/ashwin-ant
+ 182. https://github.com/digitarald
+ 183. https://github.com/fuentesjr
+ 184. https://github.com/ismith
+ 185. https://github.com/chiedo
+ 186. https://github.com/github/github-mcp-server/graphs/contributors
+ 187. https://github.com/github/github-mcp-server/search?l=go
+ 188. https://docs.github.com/site-policy/github-terms/github-terms-of-service
+ 189. https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+ 190. https://github.com/security
+ 191. https://www.githubstatus.com/
+ 192. https://docs.github.com/
+ 193. https://support.github.com/?tags=dotcom-footer
+
+   Hidden links:
+ 195. https://github.com/
+ 196. https://github.com/github/github-mcp-server/branches
+ 197. https://github.com/github/github-mcp-server/tags
+ 198. https://github.com/github/github-mcp-server/commits/main/
+ 199. https://github.com/github/github-mcp-server#github-mcp-server
+ 200. https://github.com/github/github-mcp-server#use-cases
+ 201. https://github.com/github/github-mcp-server#prerequisites
+ 202. https://github.com/github/github-mcp-server#installation
+ 203. https://github.com/github/github-mcp-server#usage-with-vs-code
+ 204. https://github.com/github/github-mcp-server#usage-with-claude-desktop
+ 205. https://github.com/github/github-mcp-server#build-from-source
+ 206. https://github.com/github/github-mcp-server#tool-configuration
+ 207. https://github.com/github/github-mcp-server#available-toolsets
+ 208. https://github.com/github/github-mcp-server#specifying-toolsets
+ 209. https://github.com/github/github-mcp-server#using-toolsets-with-docker
+ 210. https://github.com/github/github-mcp-server#the-all-toolset
+ 211. https://github.com/github/github-mcp-server#dynamic-tool-discovery
+ 212. https://github.com/github/github-mcp-server#using-dynamic-tool-discovery
+ 213. https://github.com/github/github-mcp-server#github-enterprise-server
+ 214. https://github.com/github/github-mcp-server#i18n--overriding-descriptions
+ 215. https://github.com/github/github-mcp-server#tools
+ 216. https://github.com/github/github-mcp-server#users
+ 217. https://github.com/github/github-mcp-server#issues
+ 218. https://github.com/github/github-mcp-server#pull-requests
+ 219. https://github.com/github/github-mcp-server#repositories
+ 220. https://github.com/github/github-mcp-server#users-1
+ 221. https://github.com/github/github-mcp-server#code-scanning
+ 222. https://github.com/github/github-mcp-server#secret-scanning
+ 223. https://github.com/github/github-mcp-server#notifications
+ 224. https://github.com/github/github-mcp-server#resources
+ 225. https://github.com/github/github-mcp-server#repository-content
+ 226. https://github.com/github/github-mcp-server#library-usage
+ 227. https://github.com/github/github-mcp-server#license
+ 228. https://github.com/
+ Warning: User-Agent string does not contain "Lynx" or "L_y_n_x"!
