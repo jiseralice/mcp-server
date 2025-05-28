@@ -20,8 +20,7 @@
   - [📖 Resources & Learning](#-resources--learning)
   - [🔒 Security & Trust](#-security--trust)
   - [🚀 Getting Started](#-getting-started)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
+
 
 ---
 
